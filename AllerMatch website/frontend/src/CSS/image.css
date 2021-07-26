@@ -1,0 +1,17 @@
+/* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.logo {
+  padding-top: 1%;
+  padding-bottom: 1%;
+  max-width: 30%;
+}
+
+.logo2 {
+  background-color: white;
+  padding: 5px;
+  max-width: 10%;
+}
+
