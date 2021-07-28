@@ -1,0 +1,7 @@
+biopython
+exrex
+fpdf
+pandas
+bs4
+lxml
+click

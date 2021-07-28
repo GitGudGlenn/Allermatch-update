@@ -5,6 +5,7 @@ const passportConfig = require("../config/passport");
 const JWT = require("jsonwebtoken");
 const ObjectID = require("mongodb").ObjectID;
 const User = require("../models/User");
+const { PythonShell } = require("python-shell");
 
 const signToken = (userID) => {
   return JWT.sign(
@@ -21,7 +22,8 @@ const signToken = (userID) => {
 
 router.post("/register", (req, res) => {
   const { email, password, firstname, lastname } = req.body;
-  let emailFormat = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
+  let emailFormat =
+    /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
   let minPasswordLength = 7;
 
   if (emailFormat.test(email)) {
@@ -154,7 +156,32 @@ router.get(
   }
 );
 
-// Used to update account info like name/email/password
+// !WIP! Used to call python function
+router.put(
+  "/search",
+  passport.authenticate("jwt", {
+    session: false,
+  }),
+  (req, res) => {
+    let options = {
+      mode: 'text',
+      scriptPath: "/home/glenn/Desktop/allermatch-website-revamp/AllerMatch-website/backend/CommandTool",
+      pythonOptions: ['-u'], // get print results in real-time
+      args: ['-i /home/glenn/Desktop/allermatch-website-revamp/AllerMatch-website/backend/CommandTool/allergens/data/db/AllermatchDB_2019/test.fasta'], //An argument which can be accessed in the script using sys.argv[1]
+    };
+
+    PythonShell.run("app.py", options, function (err, result) {
+      if (err) throw err;
+      // result is an array consisting of messages collected
+      //during execution of script.
+    });
+
+    console.log("response");
+    res.status(201);
+  }
+);
+
+// !WIP! Used to update account info like name/email/password
 router.put(
   "/update",
   passport.authenticate("jwt", {
@@ -165,7 +192,7 @@ router.put(
   }
 );
 
-// Used to reset password via emailed link
+// !WIP! Used to reset password via emailed link
 router.put(
   "/reset/:token",
   passport.authenticate("jwt", {
@@ -184,7 +211,7 @@ router.put(
   }
 );
 
-// Used to verify emailaddress of user by using secret token
+// !WIP! Used to verify emailaddress of user by using secret token
 router.put(
   "/verify",
   passport.authenticate("jwt", {

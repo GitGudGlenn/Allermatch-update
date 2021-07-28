@@ -1,0 +1,18 @@
+The Allermatch database (AllergenDB) was constructed combining three different external sources. UniProt (SwissProt) allergens (https://www.uniprot.org/docs/allergen), COMPARE (Comprehensive Protein Allergen Resource) (http://db.comparedatabase.org/) and the WHO/IUIS Allergen database (http://www.allergen.org/). Overlap between the three database sources were removed using the order: UniProt > WHO/IUIS > COMPARE. If possible, the GenBank accessions were converted to UniProt accessions. This resulted in the AllergenDB with the size of %s. ENTERLast database update: %s
+
+For homology search Allermatch uses FASTA(v36.3.8h) with default the parameters(matrix = BLOSUM50(15:-5), open = -10, extend = -2, ktup = 2)
+
+Each of the ORF sequences has been compared with the AllergenDB using three different in-sillico similarity search methods:
+    - A full FASTA alignment, where each ORF is compared to the AllergenDB, and the top hits are retained. 
+      All the hits are sorted on E-value and the top 100 with the lowest E-value are shown. For alignments 
+      shorter than 80 amino acids, a recalculated identity(Recalc) has been calculated to a hypothetical 
+      80-amino-acid window.
+      ENTER
+    - An 80-mer sliding window search, where each ORF is chopped up in 80-amino-acid windows with steps 
+      of a single residue. Each 80-amino-acid window is compared with all sequences in the AllergenDB. 
+      Each 80-amino-acid window with a identity of >%s%% is shown. For alignments shorter than 80 amino 
+      acids, a recalculated identity score over a hypothetical 80 amino acid window has been calculated. 
+      For example, 40%% identity on a stretch of 40 aa converts to 20%% identity on an 80 aa window.
+      ENTER
+    - An %s-mer search, will look for an exact hit of >%s or more contiguous amino acids to a sequence 
+      in the AllergenDB.

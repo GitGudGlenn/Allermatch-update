@@ -1,0 +1,5 @@
+For the toxin database sequences have been retrieved from Swiss-Prot's animal toxin annotation project(https://www.uniprot.org/program/Toxins). If annotated, signal- and propeptides are removed. This results in a database with a size of %s.ENTERLast database update: %s
+
+For homology search Allermatch uses FASTA(v36.3.8h) with default the parameters(matrix = BLOSUM50(15:-5), open = -10, extend = -2, ktup = 2)
+
+A full FASTA alignment search has been performed, where each ORF is compared to the sequences in the toxin database. For each ORF the top hits are retained. All the hits are sorted on E-value and the top 100 with the lowest E-value are shown.

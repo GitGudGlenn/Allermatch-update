@@ -1,0 +1,11 @@
+# To see the alignments in change font to mono-style(example: Excel = Courier, LibreOffice = FreeMono
+q_ID	h_ID	Hits	Remark	Hit_perc	Swiss_acc	Spec_name	Seq_DB	Seq_SR	Alignments
+>LYSC_CHICK	LYSC_CHICK	124	Lysozyme C	87.32	P00698	Gallus gallus	UniProt	Uniprot	"18 kvfgrcelaaamkrhgldnyrgyslgnwvcaakfesnfntqatnrntdgstdygilqinsrwwcndgrtpgsrnlcnipcsallssditasvncakkivsdgngmnawvawrnrckgtdvqawirgcrl 147
+   :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+0  kvfgrcelaaamkrhgldnyrgyslgnwvcaakfesnfntqatnrntdgstdygilqinsrwwcndgrtpgsrnlcnipcsallssditasvncakkivsdgngmnawvawrnrckgtdvqawirgcrl 129"	
+>LYSC_CHICK	LYSC1_HORSE	1	Lysozyme C, milk isozyme	0.7	P11376	Equus caballus	UniProt	WHO/IUIS	"52 esnfnt 58
+   ::::::
+34 esnfnt 40"	
+>LYSC_CHICK	XP_014705584	1	PREDICTED: lysozyme C, milk isozyme 	0.7	XP_014705584	Equus asinus	GenBank	WHO/IUIS	"52 esnfnt 58
+   ::::::
+53 esnfnt 59"	

@@ -1,0 +1,4111 @@
+Query_id	Query_length	Hit_id	Hit_length	Identity	Similarity	Overlap	Bits	E-value	Alignments	
+>LYSC_CHICK	147	alpha gliadin 253-272	20	50.0	100.0	4	12.8	0.33	"93 LCNI 96
+   .::.
+2  MCNV 5"
+>LYSC_CHICK	147	W37	20	37.5	62.5	8	13.1	0.28	"119 DGNGMNAW 126
+    : .:.  :
+8   DPSGQVQW 15"
+>LYSC_CHICK	147	W12	20	37.5	56.2	16	11.1	0.73	"19 KVF--GRCELAAAMKR 32
+   :::   .:  .:  .:
+2  KVFLQQQCSPVAMPQR 17"
+>LYSC_CHICK	147	R20	20	40.0	100.0	5	11.4	0.66	"114 KKIVS 118
+    ..:.:
+1   EQIIS 5"
+>LYSC_CHICK	147	alpha gliadin 30-47	18	66.7	100.0	3	10.6	0.81	"17 LGK 19
+   ::.
+2  LGQ 4"
+>LYSC_CHICK	147	alpha gliadin peptide 4015	20	66.7	100.0	3	11.1	0.75	"17 LGK 19
+   ::.
+2  LGQ 4"
+>LYSC_CHICK	147	W20	20	66.7	100.0	3	11.7	0.59	"12 LPL 14
+   .::
+16 FPL 18"
+>LYSC_CHICK	147	alpha gliadin 30-49 (Kolibri)	20	50.0	100.0	4	13.2	0.28	"88 PGSR 91
+   ::..
+2  PGQQ 5"
+>LYSC_CHICK	147	R10	20	40.0	100.0	5	12.7	0.36	"114 KKIVS 118
+    ..:.:
+14  EQIIS 18"
+>LYSC_CHICK	147	DQ2-Hordein Barley	9	66.7	66.7	3	11.3	0.4	"11 FLP 13
+   : :
+1  FPP 3"
+>LYSC_CHICK	147	alpha gliadin 61-75	17	50.0	66.7	6	12.6	0.34	"97 PCSALL 102
+   : : .:
+11 PQSQVL 16"
+>LYSC_CHICK	147	DQ2.5-gliadin-omega 2	12	50.0	100.0	2	10.2	0.78	"129 WR 130
+    :.
+10  WQ 11"
+>LYSC_CHICK	147	gamma-VII minimal	10	50.0	100.0	2	9.9	0.78	"12 LP 13
+   .:
+1  FP 2"
+>LYSC_CHICK	147	DQ2-gamma-VIIb peptide	12	50.0	100.0	2	10.2	0.77	"12 LP 13
+   .:
+1  FP 2"
+>LYSC_CHICK	147	R25	20	40.0	100.0	5	12.2	0.46	"114 KKIVS 118
+    ..:.:
+6   EQIIS 10"
+>LYSC_CHICK	147	DQ2.5-gliadin-gamma	9	50.0	50.0	4	10.7	0.56	"56 FNTQ 59
+   :  :
+1  FPQQ 4"
+>LYSC_CHICK	147	FPQQPQQPFPQPQLPFPQQS	20	66.7	100.0	3	12.5	0.39	"12 LPL 14
+   ::.
+14 LPF 16"
+>LYSC_CHICK	147	R12	20	100.0	100.0	3	14.4	0.13	"12 LPL 14
+   :::
+16 LPL 18"
+>LYSC_CHICK	147	omega gliadin 240-252	13	50.0	50.0	4	11.1	0.58	"56 FNTQ 59
+   :  :
+1  FPQQ 4"
+>LYSC_CHICK	147	DQ2-gamma-III peptide	12	50.0	50.0	4	10.8	0.64	"56 FNTQ 59
+   :  :
+1  FPQQ 4"
+>LYSC_CHICK	147	gamma-III	12	50.0	50.0	4	10.8	0.64	"56 FNTQ 59
+   :  :
+1  FPQQ 4"
+>LYSC_CHICK	147	DQ2-gamma-III	13	50.0	50.0	4	10.9	0.63	"56 FNTQ 59
+   :  :
+1  FPQQ 4"
+>LYSC_CHICK	147	DQ2-gamma-III	13	50.0	50.0	4	11.0	0.6	"56 FNTQ 59
+   :  :
+1  FPQQ 4"
+>LYSC_CHICK	147	gamma gliadin 66-80	15	50.0	50.0	4	11.1	0.63	"56 FNTQ 59
+   :  :
+1  FPQQ 4"
+>LYSC_CHICK	147	B14	20	14.3	85.7	7	10.6	0.85	"53 ESNFNTQ 59
+   .... .:
+5  QQSYPVQ 11"
+>LYSC_CHICK	147	DQ2.5-gliadin-alpha3	9	66.7	66.7	3	11.6	0.34	"11 FLP 13
+   : :
+1  FRP 3"
+>LYSC_CHICK	147	DQ2-gamma-IV	12	50.0	100.0	2	10.0	0.81	"12 LP 13
+   .:
+8  FP 9"
+>LYSC_CHICK	147	DQ2-LMW-glutenin	9	100.0	100.0	2	12.3	0.23	"13 PL 14
+   ::
+8  PL 9"
+>LYSC_CHICK	147	DQ2.5-glut-L2_glutenin-156	9	50.0	75.0	4	12.0	0.27	"56 FNTQ 59
+   :. :
+1  FSQQ 4"
+>LYSC_CHICK	147	DQ2-AVE gamma2A	9	100.0	100.0	2	10.7	0.54	"138 VQ 139
+    ::
+2   VQ 3"
+>LYSC_CHICK	147	W31s	16	33.3	50.0	6	11.3	0.61	"13 PLAALG 18
+   :.   :
+11 PFPQQG 16"
+>LYSC_CHICK	147	W15s	16	50.0	50.0	6	11.2	0.63	"13 PLAALG 18
+   ::   :
+11 PLPPQG 16"
+>LYSC_CHICK	147	DQ2-gamma-II peptide	11	75.0	100.0	4	15.3	0.039	"72 GILQ 75
+   ::.:
+1  GIIQ 4"
+>LYSC_CHICK	147	W37s	16	37.5	62.5	8	14.0	0.14	"119 DGNGMNAW 126
+    : .:.  :
+5   DPSGQVQW 12"
+>LYSC_CHICK	147	gamma gliadin 222-236 DQ2-gamma-II	15	75.0	100.0	4	14.3	0.1	"72 GILQ 75
+   ::.:
+3  GIIQ 6"
+>LYSC_CHICK	147	W29 HMW	20	28.6	100.0	7	12.0	0.51	"120 GNGMNAW 126
+    :.:....
+1   GQGQSGY 7"
+>LYSC_CHICK	147	W30s	16	33.3	50.0	6	11.4	0.57	"13 PLAALG 18
+   :.   :
+11 PFPQQG 16"
+>LYSC_CHICK	147	W27s	16	33.3	50.0	6	10.9	0.7	"13 PLAALG 18
+   :.   :
+11 PFPQQG 16"
+>LYSC_CHICK	147	W11s	16	40.0	100.0	5	10.7	0.77	"122 GMNAW 126
+    :..:.
+1   GQQAF 5"
+>LYSC_CHICK	147	W03s	16	50.0	75.0	4	11.2	0.62	"85 GRTP 88
+   :. :
+1  GQQP 4"
+>LYSC_CHICK	147	W17s	16	50.0	75.0	4	12.6	0.32	"85 GRTP 88
+   :. :
+1  GQQP 4"
+>LYSC_CHICK	147	W16s	16	50.0	75.0	4	12.6	0.31	"85 GRTP 88
+   :. :
+1  GQQP 4"
+>LYSC_CHICK	147	W14s	16	33.3	50.0	6	11.0	0.68	"13 PLAALG 18
+   :.   :
+11 PFPQQG 16"
+>LYSC_CHICK	147	1448	15	28.6	71.4	14	14.3	0.1	"55 NFNTQATNRNTDGS 68
+   .:. .  : ...::
+2  SFQPSQQNPQAQGS 15"
+>LYSC_CHICK	147	1373	20	50.0	100.0	2	10.3	0.91	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	1388	20	66.7	100.0	3	11.2	0.7	"73 ILQ 75
+   :.:
+9  IMQ 11"
+>LYSC_CHICK	147	DQ2-gamma gliadin 30	9	66.7	100.0	3	11.3	0.41	"73 ILQ 75
+   :.:
+1  IIQ 3"
+>LYSC_CHICK	147	DQ2-gamma-II	10	66.7	100.0	3	11.1	0.49	"73 ILQ 75
+   :.:
+1  IIQ 3"
+>LYSC_CHICK	147	DQ2_gamma-II (gliadin-gamma30)	9	50.0	100.0	2	8.7	0.95	"138 VQ 139
+    .:
+1   IQ 2"
+>LYSC_CHICK	147	alpha gliadin P18	13	30.0	70.0	10	12.2	0.33	"53 ESNFNTQATN 62
+   :..:. .  :
+3  EGSFQPSQEN 12"
+>LYSC_CHICK	147	gamma gliadin M24	20	50.0	100.0	6	13.5	0.22	"1  MRSLLI 6
+   .:::..
+15 IRSLVL 20"
+>LYSC_CHICK	147	alpha gliadin 31-47	17	66.7	100.0	3	11.4	0.6	"17 LGK 19
+   ::.
+1  LGQ 3"
+>LYSC_CHICK	147	alpha gliadin 31-49	19	66.7	100.0	3	11.4	0.64	"17 LGK 19
+   ::.
+1  LGQ 3"
+>LYSC_CHICK	147	B19	20	50.0	100.0	2	10.8	0.8	"129 WR 130
+    :.
+10  WQ 11"
+>LYSC_CHICK	147	alpha gliadin 13-mer	13	100.0	100.0	2	11.4	0.5	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	alpha gliadin p56-68	13	100.0	100.0	2	11.4	0.51	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	W13	20	100.0	100.0	2	11.3	0.7	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	alpha gliadin 56-70	15	100.0	100.0	2	11.6	0.51	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	G9	20	100.0	100.0	2	11.8	0.56	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	gliadin G8 56-75	20	100.0	100.0	2	11.9	0.54	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	alpha gliadin 33-mer	33	100.0	100.0	2	12.4	0.59	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	LQLQPFPQPQLPYPQPQPFR	20	100.0	100.0	2	11.7	0.6	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	W08	20	100.0	100.0	2	11.4	0.67	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	DQ2-alpha I	11	100.0	100.0	2	11.5	0.42	"12 LP 13
+   ::
+9  LP 10"
+>LYSC_CHICK	147	DQ2.5-gliadin-alpha1a	13	100.0	100.0	2	11.6	0.46	"12 LP 13
+   ::
+9  LP 10"
+>LYSC_CHICK	147	alpha gliadin P24	15	100.0	100.0	2	11.6	0.5	"12 LP 13
+   ::
+9  LP 10"
+>LYSC_CHICK	147	W09	20	100.0	100.0	3	15.4	0.064	"11 FLP 13
+   :::
+10 FLP 12"
+>LYSC_CHICK	147	W22 HMW	20	33.3	50.0	12	12.0	0.5	"88 PGSRNLCNIPCS 99
+   ::. .    : :
+3  PGQGQPGYYPTS 14"
+>LYSC_CHICK	147	DQ2-gamma-III/DQ2-gamma-VI peptide	20	50.0	50.0	4	11.1	0.74	"56 FNTQ 59
+   :  :
+7  FPQQ 10"
+>LYSC_CHICK	147	W12s	16	30.0	60.0	10	11.4	0.58	"23 RCELAAAMKR 32
+   .:  .:  .:
+4  QCSPVAMPQR 13"
+>LYSC_CHICK	147	gamma gliadin M23	20	40.0	70.0	10	13.6	0.21	"13 PLAALGKVFG 22
+   ::  :.. .:
+3  PLFQLAQGLG 12"
+>LYSC_CHICK	147	W02	20	100.0	100.0	2	11.9	0.54	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	R21	20	37.5	62.5	8	13.4	0.24	"122 GMNAWVAW 129
+    : .. : :
+5   GPSGQVEW 12"
+>LYSC_CHICK	147	B23	20	66.7	100.0	3	12.1	0.48	"12 LPL 14
+   .::
+9  FPL 11"
+>LYSC_CHICK	147	DQ2.2-gliadin-alpha1	16	75.0	75.0	4	12.0	0.43	"57 NTQA 60
+   : ::
+1  NPQA 4"
+>LYSC_CHICK	147	R05E	12	50.0	100.0	2	10.0	0.82	"13 PL 14
+   :.
+3  PI 4"
+>LYSC_CHICK	147	R05	20	50.0	100.0	2	10.7	0.84	"13 PL 14
+   :.
+3  PI 4"
+>LYSC_CHICK	147	W26E	12	66.7	100.0	3	12.3	0.29	"12 LPL 14
+   .::
+2  FPL 4"
+>LYSC_CHICK	147	DQ2.5-gliadin-alpha1a	9	100.0	100.0	2	11.6	0.36	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	DQ2.5-gliadin-alpha1a/alpha2	11	100.0	100.0	2	11.6	0.4	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	DQ2.5-gliadin-alpha2	13	100.0	100.0	2	11.8	0.41	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	1421	15	100.0	100.0	2	12.1	0.4	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	DQ2.5-gliadin-omega1, DQ2.5-hor-1, DQ2.5-sec-1	9	50.0	100.0	2	10.0	0.73	"12 LP 13
+   .:
+2  FP 3"
+>LYSC_CHICK	147	DQ2.5-gliadin-gamma 4d	15	40.0	80.0	5	12.8	0.27	"93 LCNIP 97
+   .:. :
+9  FCQQP 13"
+>LYSC_CHICK	147	DQ2.5-gliadin-omega1/omega2	11	100.0	100.0	1	10.3	0.71	"46 W 46
+   :
+11 W 11"
+>LYSC_CHICK	147	gamma gliadin M8	20	66.7	100.0	3	12.3	0.44	"12 LPL 14
+   ::.
+15 LPF 17"
+>LYSC_CHICK	147	R11E	12	100.0	100.0	2	11.8	0.39	"96 IP 97
+   ::
+10 IP 11"
+>LYSC_CHICK	147	B21	20	50.0	50.0	4	11.0	0.77	"56 FNTQ 59
+   :  :
+17 FRQQ 20"
+>LYSC_CHICK	147	omega gliadin 239-258	20	50.0	50.0	4	11.0	0.75	"56 FNTQ 59
+   :  :
+2  FPQQ 5"
+>LYSC_CHICK	147	gamma gliadin 83-97 DQ2-gamma-III	15	50.0	50.0	4	11.0	0.67	"56 FNTQ 59
+   :  :
+2  FPQQ 5"
+>LYSC_CHICK	147	W19E	12	50.0	100.0	2	10.4	0.72	"129 WR 130
+    :.
+4   WQ 5"
+>LYSC_CHICK	147	gliadin-alpha20 (93-106)	14	66.7	66.7	3	11.6	0.49	"11 FLP 13
+   : :
+2  FRP 4"
+>LYSC_CHICK	147	DQ2.2-glut-L1, DQ2.5-glut-L1	9	50.0	75.0	4	11.7	0.33	"56 FNTQ 59
+   :. :
+2  FSQQ 5"
+>LYSC_CHICK	147	LMW glutenin 17 (53-60)	8	50.0	75.0	4	12.3	0.21	"56 FNTQ 59
+   :. :
+2  FSQQ 5"
+>LYSC_CHICK	147	DQ2.5-glut-L2-Glt-156 (45-54)	10	50.0	75.0	4	11.8	0.35	"56 FNTQ 59
+   :. :
+2  FSQQ 5"
+>LYSC_CHICK	147	omega gliadin 80-99	20	100.0	100.0	2	12.0	0.52	"87 TP 88
+   ::
+9  TP 10"
+>LYSC_CHICK	147	W24 HMW	20	33.3	50.0	12	12.3	0.45	"88 PGSRNLCNIPCS 99
+   ::. .    : :
+1  PGQGQSGYYPTS 12"
+>LYSC_CHICK	147	Gluten peptide 19	18	50.0	100.0	2	10.6	0.83	"96 IP 97
+   .:
+8  VP 9"
+>LYSC_CHICK	147	DQ2.5-hor-3	9	100.0	100.0	2	11.9	0.29	"96 IP 97
+   ::
+2  IP 3"
+>LYSC_CHICK	147	W30	20	100.0	100.0	2	12.2	0.47	"13 PL 14
+   ::
+1  PL 2"
+>LYSC_CHICK	147	R27	20	50.0	75.0	4	11.3	0.68	"88 PGSR 91
+   : :.
+9  PQSQ 12"
+>LYSC_CHICK	147	gliadin-alpha2 64-89 25-mer	25	100.0	100.0	2	11.9	0.61	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	DQ2.5-gliadin-alpha 1b	12	100.0	100.0	2	12.0	0.34	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	W01s	15	100.0	100.0	2	12.2	0.37	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	PQLPYPQPQLPYPQPQLPYP	20	100.0	100.0	2	12.6	0.37	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	W18	20	100.0	100.0	2	11.8	0.57	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	W01	20	100.0	100.0	2	12.1	0.48	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	B08E	20	100.0	100.0	2	12.4	0.43	"96 IP 97
+   ::
+9  IP 10"
+>LYSC_CHICK	147	B05	20	100.0	100.0	2	12.4	0.43	"96 IP 97
+   ::
+9  IP 10"
+>LYSC_CHICK	147	DQ2-alpha II	9	100.0	100.0	2	12.2	0.24	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	DQ2.5-gliadin-alpha2	9	100.0	100.0	2	11.8	0.31	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	DQ2-alpha II peptide	11	100.0	100.0	2	12.0	0.32	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	DQ2.5-gliadin-alpha 2	12	100.0	100.0	2	12.1	0.33	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	alpha gliadin 78-95 AG11	17	100.0	100.0	3	15.8	0.041	"11 FLP 13
+   :::
+6  FLP 8"
+>LYSC_CHICK	147	alpha gliadin 82-98 AG12	17	100.0	100.0	2	11.9	0.48	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	DQ2.5-gliadin-gamma4d	9	50.0	100.0	2	10.6	0.57	"24 CE 25
+   :.
+8  CQ 9"
+>LYSC_CHICK	147	DQ2.5-hor-2, DQ2.5-sec-2	9	50.0	100.0	2	10.2	0.68	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	DQ2.5-gliadin-omega2	9	100.0	100.0	1	10.3	0.65	"46 W 46
+   :
+9  W 9"
+>LYSC_CHICK	147	gamma gliadin 130-149	20	66.7	100.0	3	12.7	0.35	"12 LPL 14
+   ::.
+8  LPF 10"
+>LYSC_CHICK	147	gamma gliadin PP 24.1	24	66.7	100.0	3	12.9	0.36	"12 LPL 14
+   ::.
+8  LPF 10"
+>LYSC_CHICK	147	DQ2.5-gliadin-gamma4b	9	50.0	100.0	2	10.2	0.67	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	B13	20	28.6	57.1	7	12.2	0.46	"88 PGSRNLC 94
+   : .  .:
+12 PQQPPFC 18"
+>LYSC_CHICK	147	R22	20	50.0	100.0	4	12.9	0.31	"11 FLPL 14
+   ..::
+4  LFPL 7"
+>LYSC_CHICK	147	DQ2.5-gliadin-omega 1	13	50.0	100.0	2	10.7	0.68	"12 LP 13
+   .:
+5  FP 6"
+>LYSC_CHICK	147	gamma gliadin M10	20	50.0	75.0	4	12.1	0.49	"88 PGSR 91
+   : :.
+16 PQSQ 19"
+>LYSC_CHICK	147	gamma gliadin M12	20	50.0	100.0	2	11.1	0.73	"12 LP 13
+   .:
+5  FP 6"
+>LYSC_CHICK	147	W28	20	66.7	100.0	3	12.4	0.41	"12 LPL 14
+   ::.
+18 LPF 20"
+>LYSC_CHICK	147	DQ2.5-gliadin-gamma 5	11	50.0	50.0	4	10.8	0.6	"56 FNTQ 59
+   :  :
+5  FPQQ 8"
+>LYSC_CHICK	147	R06	20	100.0	100.0	2	12.3	0.45	"96 IP 97
+   ::
+13 IP 14"
+>LYSC_CHICK	147	DQ2-gamma-VI	11	50.0	50.0	4	10.9	0.57	"56 FNTQ 59
+   :  :
+5  FPQQ 8"
+>LYSC_CHICK	147	gamma-VI	11	50.0	50.0	4	11.0	0.54	"56 FNTQ 59
+   :  :
+5  FPQQ 8"
+>LYSC_CHICK	147	R06E	12	50.0	50.0	4	10.8	0.63	"56 FNTQ 59
+   :  :
+5  FPQQ 8"
+>LYSC_CHICK	147	gamma-III/gamma-VI	17	50.0	50.0	4	11.3	0.63	"56 FNTQ 59
+   :  :
+5  FPQQ 8"
+>LYSC_CHICK	147	W35	20	50.0	50.0	4	11.5	0.65	"56 FNTQ 59
+   :  :
+5  FPQQ 8"
+>LYSC_CHICK	147	gamma gliadin peptide 1379	20	50.0	75.0	4	11.9	0.53	"88 PGSR 91
+   : :.
+6  PQSQ 9"
+>LYSC_CHICK	147	gamma gliadin 173-186 14-mer-2	14	100.0	100.0	2	11.8	0.45	"13 PL 14
+   ::
+12 PL 13"
+>LYSC_CHICK	147	B22	20	66.7	66.7	3	12.9	0.31	"11 FLP 13
+   : :
+5  FQP 7"
+>LYSC_CHICK	147	omega gliadin 225-244	20	66.7	100.0	3	12.8	0.33	"12 LPL 14
+   .::
+8  FPL 10"
+>LYSC_CHICK	147	B10	20	33.3	100.0	3	11.3	0.68	"128 AWR 130
+    .:.
+16  SWQ 18"
+>LYSC_CHICK	147	W04	20	100.0	100.0	2	12.4	0.42	"96 IP 97
+   ::
+15 IP 16"
+>LYSC_CHICK	147	PQQPQQPQQPFPQPQQPFPW	20	100.0	100.0	1	11.4	0.67	"46 W 46
+   :
+20 W 20"
+>LYSC_CHICK	147	gamma gliadin 139-153 DQ2-gamma-I	15	28.6	71.4	7	12.1	0.4	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPQQ 11"
+>LYSC_CHICK	147	DQ2-gamma-I peptide	14	28.6	71.4	7	11.6	0.49	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPQQ 11"
+>LYSC_CHICK	147	R13E	12	50.0	100.0	2	10.5	0.69	"12 LP 13
+   .:
+10 FP 11"
+>LYSC_CHICK	147	W05	20	50.0	75.0	4	12.3	0.43	"56 FNTQ 59
+   :. :
+14 FSQQ 17"
+>LYSC_CHICK	147	gamma gliadin 105-118 14-mer-1	14	33.3	83.3	6	11.5	0.52	"88 PGSRNL 93
+   : ...:
+1  PQQQTL 6"
+>LYSC_CHICK	147	DQ2-sec	9	28.6	71.4	7	11.9	0.3	"53 ESNFNTQ 59
+   ...:  :
+2  QQSFPQQ 8"
+>LYSC_CHICK	147	DQ2.5-gliadin-gamma1, DQ8.5-gliadin-gamma1	9	28.6	71.4	7	12.2	0.25	"53 ESNFNTQ 59
+   ...:  :
+2  QQSFPQQ 8"
+>LYSC_CHICK	147	B28	20	66.7	100.0	3	12.5	0.41	"12 LPL 14
+   .::
+13 FPL 15"
+>LYSC_CHICK	147	DQ2.2-gliadin-alpha2	15	30.0	50.0	10	11.8	0.45	"88 PGSRNLCNIP 97
+   : :.   . :
+1  PQSQPQYSQP 10"
+>LYSC_CHICK	147	gamma gliadin VII p1729	14	100.0	100.0	2	10.9	0.65	"58 TQ 59
+   ::
+3  TQ 4"
+>LYSC_CHICK	147	gamma gliadin 63-76	14	100.0	100.0	2	10.8	0.67	"58 TQ 59
+   ::
+3  TQ 4"
+>LYSC_CHICK	147	R23	20	100.0	100.0	2	10.9	0.78	"58 TQ 59
+   ::
+3  TQ 4"
+>LYSC_CHICK	147	alpha2:226-240	15	40.0	100.0	5	11.7	0.49	"88 PGSRN 92
+   :...:
+9  PSQQN 13"
+>LYSC_CHICK	147	R04E	12	100.0	100.0	2	11.9	0.37	"87 TP 88
+   ::
+2  TP 3"
+>LYSC_CHICK	147	R29	20	100.0	100.0	2	11.8	0.57	"87 TP 88
+   ::
+2  TP 3"
+>LYSC_CHICK	147	DQ2.5-ave-1a	9	50.0	100.0	2	10.2	0.68	"13 PL 14
+   :.
+8  PF 9"
+>LYSC_CHICK	147	DQ2.5-ave-1b	9	50.0	100.0	2	10.2	0.69	"13 PL 14
+   :.
+8  PF 9"
+>LYSC_CHICK	147	DQ2.5-gliadin-alpha1b	9	100.0	100.0	2	11.9	0.3	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	DQ2.5-sec-omega	9	100.0	100.0	1	9.7	0.79	"13 P 13
+   :
+1  P 1"
+>LYSC_CHICK	147	W11E	12	66.7	100.0	3	11.0	0.58	"139 QAW 141
+    ::.
+1   QAF 3"
+>LYSC_CHICK	147	W11	20	28.6	71.4	7	11.3	0.69	"53 ESNFNTQ 59
+   ...:  :
+7  QQTFPHQ 13"
+>LYSC_CHICK	147	alpha gliadin peptide 1450	15	60.0	80.0	5	11.6	0.52	"16 ALGKV 20
+   : :.:
+2  AQGSV 6"
+>LYSC_CHICK	147	alpha gliadin 29-47	19	66.7	100.0	3	11.3	0.66	"17 LGK 19
+   ::.
+3  LGQ 5"
+>LYSC_CHICK	147	gamma gliadin M13	20	28.6	71.4	7	12.2	0.46	"53 ESNFNTQ 59
+   ...:  :
+9  QQSFPQQ 15"
+>LYSC_CHICK	147	gamma gliadin M7	20	22.2	55.6	9	11.4	0.67	"13 PLAALGKVF 21
+   :.    ..:
+11 PFPQPQQTF 19"
+>LYSC_CHICK	147	W21 HMW	20	50.0	75.0	4	13.0	0.29	"85 GRTP 88
+   :. :
+17 GQQP 20"
+>LYSC_CHICK	147	GLT04:721-735	15	50.0	50.0	6	12.2	0.37	"85 GRTPGS 90
+   :  : :
+5  GYYPTS 10"
+>LYSC_CHICK	147	DQ8-gliadin-alpha1	9	66.7	66.7	3	12.0	0.28	"11 FLP 13
+   : :
+4  FQP 6"
+>LYSC_CHICK	147	DQ8-glut-H1, DQ8.5-glut-H1	9	50.0	50.0	6	12.9	0.16	"85 GRTPGS 90
+   :  : :
+2  GYYPTS 7"
+>LYSC_CHICK	147	Glu-5	15	100.0	100.0	2	12.6	0.31	"96 IP 97
+   ::
+2  IP 3"
+>LYSC_CHICK	147	alpha gliadin 123-132	10	100.0	100.0	3	15.6	0.028	"96 IPC 98
+   :::
+3  IPC 5"
+>LYSC_CHICK	147	DQ2-alpha III	13	100.0	100.0	2	12.2	0.33	"12 LP 13
+   ::
+2  LP 3"
+>LYSC_CHICK	147	alpha gliadin peptide 1422	15	100.0	100.0	2	12.5	0.31	"12 LP 13
+   ::
+2  LP 3"
+>LYSC_CHICK	147	alpha gliadin P21	16	100.0	100.0	2	12.1	0.42	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha gliadin P7	16	100.0	100.0	2	12.1	0.42	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha gliadin P3	16	50.0	66.7	6	12.9	0.27	"12 LPLAAL 17
+   .: : :
+5  FPQAQL 10"
+>LYSC_CHICK	147	p57-73 QE65	17	100.0	100.0	2	12.0	0.45	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	gliadin-alpha9 T cell epitope	15	100.0	100.0	2	11.9	0.43	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha gliadin P1	16	100.0	100.0	2	12.0	0.45	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	AG02 E9	17	100.0	100.0	2	11.9	0.47	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	33-mer	32	100.0	100.0	2	12.8	0.48	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha gliadin 17-mer	17	100.0	100.0	2	12.0	0.46	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha gliadin 57-73 Q65E	17	100.0	100.0	2	11.8	0.49	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha gliadin P10	16	100.0	100.0	2	11.7	0.5	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha gliadin P9	16	100.0	100.0	2	11.7	0.52	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha gliadin P6	14	100.0	100.0	2	11.7	0.46	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha gliadin 57-73 T65	17	100.0	100.0	2	11.9	0.49	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha gliadin P8	16	100.0	100.0	2	11.5	0.56	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha gliadin P5	17	100.0	100.0	2	11.6	0.56	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	p15	18	66.7	100.0	3	12.2	0.44	"12 LPL 14
+   .::
+12 VPL 14"
+>LYSC_CHICK	147	W31	20	100.0	100.0	2	12.1	0.5	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	DQ2-alpha I	10	100.0	100.0	2	11.8	0.34	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	gliadin-alpha2/alpha9	11	100.0	100.0	2	11.7	0.38	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	W02E	12	100.0	100.0	2	11.8	0.38	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	B02E	12	66.7	100.0	3	12.6	0.25	"12 LPL 14
+   .::
+10 FPL 12"
+>LYSC_CHICK	147	R02E	13	66.7	66.7	3	11.3	0.53	"88 PGS 90
+   : :
+11 PQS 13"
+>LYSC_CHICK	147	W03E	12	100.0	100.0	1	10.6	0.67	"46 W 46
+   :
+12 W 12"
+>LYSC_CHICK	147	omega gliadin W03	20	50.0	100.0	2	11.3	0.68	"129 WR 130
+    :.
+12  WQ 13"
+>LYSC_CHICK	147	B03E	12	100.0	100.0	2	12.0	0.36	"96 IP 97
+   ::
+10 IP 11"
+>LYSC_CHICK	147	R03E	12	100.0	100.0	2	11.9	0.36	"87 TP 88
+   ::
+10 TP 11"
+>LYSC_CHICK	147	R03	20	100.0	100.0	2	12.3	0.44	"87 TP 88
+   ::
+10 TP 11"
+>LYSC_CHICK	147	W16E	13	50.0	100.0	2	10.4	0.75	"12 LP 13
+   .:
+3  FP 4"
+>LYSC_CHICK	147	R12E	12	100.0	100.0	3	14.3	0.085	"12 LPL 14
+   :::
+10 LPL 12"
+>LYSC_CHICK	147	alpha gliadin P16	15	66.7	66.7	3	11.7	0.48	"11 FLP 13
+   : :
+3  FRP 5"
+>LYSC_CHICK	147	gamma gliadin 134-146	13	66.7	100.0	3	12.4	0.3	"12 LPL 14
+   ::.
+4  LPF 6"
+>LYSC_CHICK	147	alpha gliadin peptid 1423	15	100.0	100.0	2	12.3	0.35	"12 LP 13
+   ::
+4  LP 5"
+>LYSC_CHICK	147	alpha gliadin P11	15	100.0	100.0	3	15.7	0.04	"11 FLP 13
+   :::
+5  FLP 7"
+>LYSC_CHICK	147	B18	20	66.7	100.0	3	12.8	0.33	"12 LPL 14
+   .::
+10 IPL 12"
+>LYSC_CHICK	147	Glu-21 peptide	21	66.7	66.7	3	12.4	0.43	"11 FLP 13
+   : :
+16 FQP 18"
+>LYSC_CHICK	147	alpha gliadin P12	15	66.7	66.7	3	12.6	0.31	"11 FLP 13
+   : :
+5  FQP 7"
+>LYSC_CHICK	147	gliadin-alpha2 71-89 18-mer	18	100.0	100.0	2	12.4	0.4	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	B11	20	66.7	66.7	3	13.1	0.28	"11 FLP 13
+   : :
+17 FQP 19"
+>LYSC_CHICK	147	R15	20	66.7	100.0	3	12.6	0.38	"12 LPL 14
+   .::
+14 FPL 16"
+>LYSC_CHICK	147	omega gliadin QP 22.2	22	66.7	100.0	3	12.7	0.38	"12 LPL 14
+   .::
+6  FPL 8"
+>LYSC_CHICK	147	B26	20	66.7	100.0	3	12.2	0.47	"12 LPL 14
+   .::
+6  FPL 8"
+>LYSC_CHICK	147	gliadin-omega 102-118 DQ2-omega 1	17	50.0	100.0	2	11.2	0.64	"129 WR 130
+    :.
+15  WQ 16"
+>LYSC_CHICK	147	DQ2.5 omega 17mer peptide	17	50.0	100.0	2	11.2	0.65	"129 WR 130
+    :.
+15  WQ 16"
+>LYSC_CHICK	147	B03	20	100.0	100.0	2	12.4	0.42	"96 IP 97
+   ::
+13 IP 14"
+>LYSC_CHICK	147	gliadin peptide 1317	19	50.0	50.0	4	11.4	0.65	"56 FNTQ 59
+   :  :
+6  FPQQ 9"
+>LYSC_CHICK	147	B29	20	66.7	100.0	3	12.2	0.46	"12 LPL 14
+   .::
+16 FPL 18"
+>LYSC_CHICK	147	omega gliadin 186-198	13	100.0	100.0	2	12.1	0.36	"96 IP 97
+   ::
+6  IP 7"
+>LYSC_CHICK	147	omega gliadin 186-205	20	25.0	75.0	8	12.0	0.51	"53 ESNFNTQA 60
+   ...:  :.
+11 QQSFPQQS 18"
+>LYSC_CHICK	147	B04	20	50.0	100.0	2	12.1	0.49	"96 IP 97
+   .:
+13 VP 14"
+>LYSC_CHICK	147	DQ2-gamma-1 epitope variant 3	17	100.0	100.0	2	12.2	0.41	"13 PL 14
+   ::
+15 PL 16"
+>LYSC_CHICK	147	gamma gliadin 121-140	20	100.0	100.0	2	12.1	0.5	"13 PL 14
+   ::
+15 PL 16"
+>LYSC_CHICK	147	DQ2-gamma-1 epitope variant 2	17	28.6	71.4	7	12.0	0.46	"53 ESNFNTQ 59
+   ...:  :
+6  QQSFPQQ 12"
+>LYSC_CHICK	147	DQ2-gamma-1 epitope variant 4	17	28.6	71.4	7	12.0	0.45	"53 ESNFNTQ 59
+   ...:  :
+6  QQSFPQQ 12"
+>LYSC_CHICK	147	DQ2-gamma-1 epitope variant 1	17	100.0	100.0	2	12.0	0.45	"13 PL 14
+   ::
+15 PL 16"
+>LYSC_CHICK	147	gamma- gliadin q139-152,E140, E148, E150	15	28.6	71.4	7	11.7	0.48	"53 ESNFNTQ 59
+   ...:  :
+6  QQSFPQQ 12"
+>LYSC_CHICK	147	alpha gliadin 220-239	20	40.0	100.0	5	11.6	0.62	"88 PGSRN 92
+   :...:
+15 PSQQN 19"
+>LYSC_CHICK	147	DQ2-gamma-I	12	28.6	71.4	7	11.5	0.46	"53 ESNFNTQ 59
+   ...:  :
+3  QQSFPQQ 9"
+>LYSC_CHICK	147	DQ2.2-gliadin-alpha2E	11	100.0	100.0	2	10.8	0.59	"41 YS 42
+   ::
+4  YS 5"
+>LYSC_CHICK	147	gamma gliadin 75-94	20	100.0	100.0	2	11.3	0.68	"11 FL 12
+   ::
+3  FL 4"
+>LYSC_CHICK	147	DQ2-gamma-IV	15	50.0	100.0	2	10.2	0.86	"12 LP 13
+   .:
+10 FP 11"
+>LYSC_CHICK	147	DQ8-glut-1, no E	13	50.0	50.0	6	12.4	0.29	"85 GRTPGS 90
+   :  : :
+3  GYYPTS 8"
+>LYSC_CHICK	147	R01	20	100.0	100.0	3	14.7	0.1	"12 LPL 14
+   :::
+3  LPL 5"
+>LYSC_CHICK	147	gliadin 134-153	20	100.0	100.0	2	12.1	0.49	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	W36	20	44.4	88.9	9	14.9	0.092	"1 MRSLLILVL 9
+  .:::.. .:
+9 IRSLVLRTL 17"
+>LYSC_CHICK	147	gamma gliadin peptid 1371	20	40.0	80.0	5	13.0	0.31	"93 LCNIP 97
+   .:. :
+4  FCQQP 8"
+>LYSC_CHICK	147	R18	20	66.7	100.0	3	11.3	0.68	"73 ILQ 75
+   .::
+5  LLQ 7"
+>LYSC_CHICK	147	B20	20	66.7	100.0	3	12.8	0.35	"12 LPL 14
+   .::
+4  FPL 6"
+>LYSC_CHICK	147	W17	20	66.7	100.0	3	12.9	0.32	"12 LPL 14
+   ::.
+12 LPF 14"
+>LYSC_CHICK	147	B09	20	50.0	50.0	4	11.5	0.65	"56 FNTQ 59
+   :  :
+4  FPQQ 7"
+>LYSC_CHICK	147	DQ2.5-gliadin-gamma5	9	50.0	50.0	4	10.7	0.56	"56 FNTQ 59
+   :  :
+4  FPQQ 7"
+>LYSC_CHICK	147	omega gliadin 173-192	20	100.0	100.0	2	12.5	0.39	"96 IP 97
+   ::
+19 IP 20"
+>LYSC_CHICK	147	gamma-23mer peptide	23	50.0	50.0	4	11.7	0.64	"56 FNTQ 59
+   :  :
+4  FPQQ 7"
+>LYSC_CHICK	147	gamma-23mer peptide	23	50.0	50.0	4	11.6	0.68	"56 FNTQ 59
+   :  :
+4  FPQQ 7"
+>LYSC_CHICK	147	gamma gliadin 102-121	20	100.0	100.0	2	12.1	0.48	"12 LP 13
+   ::
+4  LP 5"
+>LYSC_CHICK	147	DQ2.2-glut-L1E	15	100.0	100.0	2	11.7	0.48	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	DQ2.2-glut-L-1 containing peptide	15	100.0	100.0	2	11.9	0.45	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	p10mer	10	40.0	60.0	5	10.9	0.53	"84 DGRTP 88
+   :.  :
+5  DAVQP 9"
+>LYSC_CHICK	147	gamma gliadin peptid 1377	20	66.7	100.0	3	12.8	0.34	"12 LPL 14
+   ::.
+5  LPF 7"
+>LYSC_CHICK	147	B06	20	50.0	75.0	4	12.6	0.38	"56 FNTQ 59
+   :. :
+6  FSQQ 9"
+>LYSC_CHICK	147	R14	20	66.7	100.0	3	12.8	0.34	"12 LPL 14
+   .::
+7  FPL 9"
+>LYSC_CHICK	147	DQ8-gliadin-gamma1a	9	50.0	100.0	2	10.2	0.68	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	DQ2.5-gliadin-gamma4c, DQ8-gliadin-gamma1a	9	50.0	100.0	2	10.3	0.65	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	W06	20	66.7	100.0	3	12.5	0.4	"12 LPL 14
+   ::.
+12 LPF 14"
+>LYSC_CHICK	147	DQ2.5-gliadin-gamma3, DQ8-gliadin-gamma1b	9	100.0	100.0	1	9.7	0.79	"13 P 13
+   :
+3  P 3"
+>LYSC_CHICK	147	DQ2.5-gliadin-gamma3, DQ8-gliadin-gamma1b	9	100.0	100.0	1	9.8	0.78	"13 P 13
+   :
+3  P 3"
+>LYSC_CHICK	147	gamma gliadin 74-93	20	40.0	80.0	5	10.8	0.81	"139 QAWIR 143
+    : .:.
+2   QQFIQ 6"
+>LYSC_CHICK	147	B16	20	100.0	100.0	2	12.3	0.44	"96 IP 97
+   ::
+10 IP 11"
+>LYSC_CHICK	147	DQ2.2-glut-L-1 containing peptide	20	42.9	71.4	7	14.3	0.13	"53 ESNFNTQ 59
+   .: :. :
+12 QSPFSQQ 18"
+>LYSC_CHICK	147	DQ2.2-glut-L-1 containing peptide	20	42.9	71.4	7	14.5	0.12	"53 ESNFNTQ 59
+   .: :. :
+12 QSPFSQQ 18"
+>LYSC_CHICK	147	gliadin-gamma1	10	50.0	100.0	2	9.3	0.91	"13 PL 14
+   :.
+4  PF 5"
+>LYSC_CHICK	147	gamma gliadin peptid 1374	20	100.0	100.0	2	11.0	0.77	"58 TQ 59
+   ::
+15 TQ 16"
+>LYSC_CHICK	147	Glu-5 peptide	21	16.7	66.7	12	11.7	0.6	"86 RTPGSRNLCNIP 97
+   ..: ...  . :
+7  QXPQQQQXPQQP 18"
+>LYSC_CHICK	147	gliadin peptide B	19	75.0	75.0	4	12.3	0.43	"41 YSLG 44
+   : ::
+3  YPLG 6"
+>LYSC_CHICK	147	DQ8-gliadin-alpha I-containing alpha2-gliadin epitope	18	40.0	100.0	5	11.8	0.53	"88 PGSRN 92
+   :...:
+12 PSQQN 16"
+>LYSC_CHICK	147	Glu-21 minimal epitope	12	66.7	66.7	3	12.8	0.23	"11 FLP 13
+   : :
+9  FQP 11"
+>LYSC_CHICK	147	gamma gliadin peptid 1383	20	50.0	83.3	6	14.2	0.14	"97 PCSALL 102
+   ::. .:
+10 PCKNFL 15"
+>LYSC_CHICK	147	B07	20	50.0	50.0	4	11.2	0.71	"56 FNTQ 59
+   :  :
+13 FPQQ 16"
+>LYSC_CHICK	147	gamma gliadin 94-113	20	100.0	100.0	2	11.4	0.66	"58 TQ 59
+   ::
+2  TQ 3"
+>LYSC_CHICK	147	R17	20	66.7	100.0	3	12.9	0.32	"95 NIP 97
+   .::
+5  SIP 7"
+>LYSC_CHICK	147	R21E	12	37.5	62.5	8	13.5	0.14	"122 GMNAWVAW 129
+    : .. : :
+3   GPSGQVEW 10"
+>LYSC_CHICK	147	alpha gliadin peptide 4026	20	42.9	71.4	7	11.4	0.65	"69 TDYGILQ 75
+   . : .::
+6  STYQLLQ 12"
+>LYSC_CHICK	147	DQ2.5-glu-5_1	9	100.0	100.0	2	12.3	0.23	"96 IP 97
+   ::
+2  IP 3"
+>LYSC_CHICK	147	W36s	16	44.4	88.9	9	14.8	0.081	"1 MRSLLILVL 9
+  .:::.. .:
+5 IRSLVLRTL 13"
+>LYSC_CHICK	147	peptide Avenin-alpha9B	14	50.0	75.0	4	12.2	0.36	"38 YRGY 41
+   :. :
+2  YQPY 5"
+>LYSC_CHICK	147	R07	20	100.0	100.0	2	11.9	0.53	"87 TP 88
+   ::
+18 TP 19"
+>LYSC_CHICK	147	Avenin peptide 1490	19	33.3	83.3	6	13.3	0.24	"36 DNYRGY 41
+   ..:. :
+2  EQYQPY 7"
+>LYSC_CHICK	147	gamma gliadin peptid 1382	20	37.5	50.0	8	11.7	0.59	"55 NFNTQATN 62
+   .:  :  :
+12 SFLQQQMN 19"
+>LYSC_CHICK	147	B29E	12	66.7	100.0	3	12.2	0.31	"12 LPL 14
+   .::
+10 FPL 12"
+>LYSC_CHICK	147	gliadin 206-217	12	40.0	100.0	5	11.9	0.37	"88 PGSRN 92
+   :...:
+8  PSQQN 12"
+>LYSC_CHICK	147	DQ8-gliadin-alpha I	13	40.0	100.0	5	11.8	0.42	"88 PGSRN 92
+   :...:
+8  PSQQN 12"
+>LYSC_CHICK	147	alpha gliadin 228-241	14	40.0	100.0	5	11.9	0.41	"88 PGSRN 92
+   :...:
+8  PSQQN 12"
+>LYSC_CHICK	147	W15 LMW	20	30.0	50.0	10	11.5	0.63	"79 RWWCNDGRTP 88
+   : : ..   :
+8  RPWQQQPLPP 17"
+>LYSC_CHICK	147	Gluten peptide 25	19	50.0	50.0	4	11.0	0.73	"56 FNTQ 59
+   :  :
+7  FPQQ 10"
+>LYSC_CHICK	147	R02	20	66.7	100.0	3	12.9	0.32	"95 NIP 97
+   .::
+1  SIP 3"
+>LYSC_CHICK	147	R13	20	50.0	50.0	4	11.1	0.73	"56 FNTQ 59
+   :  :
+13 FPQQ 16"
+>LYSC_CHICK	147	R24	20	66.7	100.0	3	12.4	0.42	"12 LPL 14
+   ::.
+7  LPF 9"
+>LYSC_CHICK	147	DQ2.5-gliadin-gamma4a	9	50.0	100.0	2	9.9	0.74	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	W16	20	50.0	100.0	2	10.8	0.8	"12 LP 13
+   .:
+8  FP 9"
+>LYSC_CHICK	147	W10	20	50.0	100.0	2	10.6	0.85	"12 LP 13
+   .:
+15 FP 16"
+>LYSC_CHICK	147	R08	20	100.0	100.0	2	11.7	0.6	"96 IP 97
+   ::
+19 IP 20"
+>LYSC_CHICK	147	alpha gliadin 51-70	20	100.0	100.0	2	11.6	0.62	"12 LP 13
+   ::
+16 LP 17"
+>LYSC_CHICK	147	B14E	12	100.0	100.0	2	10.3	0.75	"138 VQ 139
+    ::
+4   VQ 5"
+>LYSC_CHICK	147	B27	20	66.7	100.0	3	11.6	0.61	"12 LPL 14
+   .::
+17 FPL 19"
+>LYSC_CHICK	147	gamma gliadin peptid 1372	20	100.0	100.0	2	12.3	0.45	"96 IP 97
+   ::
+2  IP 3"
+>LYSC_CHICK	147	omega gliadin 88-107	20	100.0	100.0	2	12.6	0.38	"87 TP 88
+   ::
+1  TP 2"
+>LYSC_CHICK	147	DQ2.5-gliadin-gamma 4c	11	100.0	100.0	2	10.8	0.59	"58 TQ 59
+   ::
+1  TQ 2"
+>LYSC_CHICK	147	HPLC fraction 4	22	50.0	66.7	6	13.3	0.27	"66 DGSTDY 71
+   : : .:
+7  DPSEQY 12"
+>LYSC_CHICK	147	HPLC fraction 3	22	33.3	83.3	6	12.7	0.38	"36 DNYRGY 41
+   ..:. :
+10 EQYQPY 15"
+>LYSC_CHICK	147	W34	20	37.5	62.5	8	13.4	0.24	"26 LAAAMKRH 33
+   .: :.  :
+1  VAHAIIMH 8"
+>LYSC_CHICK	147	gliadin-gamma30 (222-236)	15	75.0	100.0	4	14.4	0.097	"72 GILQ 75
+   ::.:
+5  GIIQ 8"
+>LYSC_CHICK	147	p14	19	66.7	100.0	3	11.9	0.51	"86 RTP 88
+   :.:
+2  RVP 4"
+>LYSC_CHICK	147	alpha gliadin 251-270	20	44.4	66.7	9	14.8	0.099	"71 YGILQINSR 79
+   .::.  : :
+12 FGIFGTNYR 20"
+>LYSC_CHICK	147	W07	20	40.0	80.0	5	12.9	0.33	"93 LCNIP 97
+   .:. :
+14 FCQQP 18"
+>LYSC_CHICK	147	gamma gliadin M2	20	40.0	80.0	5	12.7	0.35	"93 LCNIP 97
+   .:. :
+14 FCQQP 18"
+>LYSC_CHICK	147	B02	20	66.7	100.0	3	11.2	0.72	"12 LPL 14
+   .::
+14 FPL 16"
+>LYSC_CHICK	147	alpha gliadin peptid 1420	15	100.0	100.0	2	11.7	0.48	"12 LP 13
+   ::
+12 LP 13"
+>LYSC_CHICK	147	alpha gliadin peptid 1424	15	100.0	100.0	2	11.8	0.45	"12 LP 13
+   ::
+6  LP 7"
+>LYSC_CHICK	147	B15	20	100.0	100.0	2	12.4	0.43	"96 IP 97
+   ::
+13 IP 14"
+>LYSC_CHICK	147	DQ2-gliadin-gamma2b	9	50.0	100.0	2	10.2	0.68	"13 PL 14
+   :.
+8  PF 9"
+>LYSC_CHICK	147	alpha gliadin peptid 1447	15	40.0	100.0	5	11.7	0.49	"88 PGSRN 92
+   :...:
+10 PSQQN 14"
+>LYSC_CHICK	147	peptide 1505 and 1504	12	50.0	75.0	4	12.2	0.31	"38 YRGY 41
+   :. :
+1  YQPY 4"
+>LYSC_CHICK	147	gliadin peptide 1206	21	100.0	100.0	2	12.1	0.5	"12 LP 13
+   ::
+4  LP 5"
+>LYSC_CHICK	147	R07E	12	50.0	50.0	4	11.0	0.57	"38 YRGY 41
+   :  :
+1  YSPY 4"
+>LYSC_CHICK	147	DQ2.5-gliadin-gamma2	9	50.0	100.0	2	9.0	0.93	"138 VQ 139
+    .:
+1   IQ 2"
+>LYSC_CHICK	147	alpha-gliadin CT-1 (p1-p22 of B 3142) 	22	66.7	100.0	3	11.7	0.63	"12 LPL 14
+   .::
+20 VPL 22"
+>LYSC_CHICK	147	alpha-gliadin peptide CT-2 (p23-p53 of B 3142) 	31	50.0	100.0	4	13.6	0.3	"88 PGSR 91
+   ::..
+7  PGQQ 10"
+>LYSC_CHICK	147	alpha-gliadin p14 (p1-p19) 	19	66.7	100.0	3	11.9	0.51	"86 RTP 88
+   :.:
+2  RVP 4"
+>LYSC_CHICK	147	alpha-gliadin p15 (p11-p28) 	18	66.7	100.0	3	12.1	0.45	"12 LPL 14
+   .::
+12 VPL 14"
+>LYSC_CHICK	147	alpha-gliadin p209 	20	50.0	100.0	4	13.2	0.27	"88 PGSR 91
+   ::..
+2  PGQQ 5"
+>LYSC_CHICK	147	alpha-gliadin (p44-p55)	12	50.0	75.0	4	11.9	0.37	"56 FNTQ 59
+   : .:
+6  FPSQ 9"
+>LYSC_CHICK	147	Epitope DQ2-alpha-I/II/III	20	100.0	100.0	2	12.0	0.52	"12 LP 13
+   ::
+12 LP 13"
+>LYSC_CHICK	147	alpha2-gliadin 1420 (p56-p70)	15	100.0	100.0	2	11.7	0.49	"12 LP 13
+   ::
+12 LP 13"
+>LYSC_CHICK	147	alpha2-gliadin 33-mer (p57-p89)	33	100.0	100.0	2	12.5	0.58	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	Deamidated alpha2-gliadin 33-mer (p57-p89)	33	100.0	100.0	2	12.9	0.47	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	alpha-2 gliadin G8 (p56p75) 	20	100.0	100.0	2	11.9	0.53	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	alpha-2 gliadin G9 (p56p75; E65)	20	100.0	100.0	2	12.1	0.49	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	alpha-9 gliadin G5 (p56p68) 	13	100.0	100.0	2	11.8	0.42	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	alpha-9 gliadin G5 (p56p68; E65) 	13	100.0	100.0	2	11.8	0.42	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	Wheat peptide W02	16	100.0	100.0	2	12.0	0.45	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	Glia-alpha9 (p57-p71)	15	100.0	100.0	2	11.9	0.44	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	Glia-alpha9 (p57-p71; T69 and H70)	15	100.0	100.0	2	11.9	0.45	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	Glia-alpha9 (p57-p71; R59)	15	100.0	100.0	2	11.5	0.52	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	Glia-alpha9 (p57-p71; H63 and H70)	15	100.0	100.0	2	12.0	0.42	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	Glia-alpha9 (p57-p71; A63)	15	50.0	66.7	6	13.1	0.22	"12 LPLAAL 17
+   .: : :
+5  FPQAQL 10"
+>LYSC_CHICK	147	Glia-alpha9 (p57-p70)	14	100.0	100.0	2	11.8	0.45	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	Glia-alpha9 (p57-p70; E65)	14	100.0	100.0	2	11.9	0.41	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha-9 gliadin (p57-p68); alpha2/alpha9 gliadin 	12	100.0	100.0	2	11.7	0.41	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha-9 gliadin (p57-p68; E65); alpha-I	12	100.0	100.0	2	11.8	0.4	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha-9 gliadin epitope homolog (p57-p68; E63 (considered native form of synthetic))	12	100.0	100.0	2	11.7	0.4	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha-9 gliadin epitope homolog (p57-p68; E63 and E65 (tTG-treated form))	12	100.0	100.0	2	11.8	0.38	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha-9 gliadin epitope homolog (p57-p68; Q64 (considered native form of synthetic))	12	100.0	100.0	2	11.7	0.42	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha-9 gliadin epitope homolog (p57-p68; Q64 and E63 (tTG-treated form))	12	100.0	100.0	2	11.7	0.41	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha-9 gliadin epitope homolog (p57-p68; Q64 and E65 (tTG-treated form))	12	100.0	100.0	2	11.8	0.39	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha-9 gliadin epitope homolog (p57-p68; Q64, E63 and E65 (tTG-treated form))	12	100.0	100.0	2	12.0	0.35	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	DQ2-Glia-alpha1 epitope (p58p72) 	15	100.0	100.0	2	11.9	0.45	"12 LP 13
+   ::
+9  LP 10"
+>LYSC_CHICK	147	DQ2-Glia-alpha1 epitope (p58p72; E65) 	15	100.0	100.0	2	12.1	0.39	"12 LP 13
+   ::
+9  LP 10"
+>LYSC_CHICK	147	DQ2-Glia-alpha1 epitope  (p58p72; S64) 	15	60.0	60.0	5	12.1	0.39	"97 PCSAL 101
+   : : :
+5  PQSQL 9"
+>LYSC_CHICK	147	DQ2-Glia-alpha1 epitope (p58p72; S64 and E65)	15	50.0	66.7	6	12.9	0.25	"21 FGRCEL 26
+   : . ::
+4  FPQSEL 9"
+>LYSC_CHICK	147	DQ2-alpha-I epitope (p58-p68)	11	100.0	100.0	2	11.7	0.38	"12 LP 13
+   ::
+9  LP 10"
+>LYSC_CHICK	147	DQ2-alpha-I epitope (p58-p68; E65 considered Deamidated form)	11	100.0	100.0	2	11.8	0.37	"12 LP 13
+   ::
+9  LP 10"
+>LYSC_CHICK	147	Glia-alpha2 (p60-p76)	17	100.0	100.0	2	12.3	0.39	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glia-alpha2 (p60-p76; E66)	17	100.0	100.0	2	12.2	0.42	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glia-alpha2 (p60-p76; E73)	17	100.0	100.0	2	12.2	0.41	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glia-alpha2 (p60-p76; E66 and E73)	17	100.0	100.0	2	12.3	0.39	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glia-alpha2 (p60-p69)	10	100.0	100.0	2	11.8	0.34	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glia-alpha2 (p60-p69; E66)	10	100.0	100.0	2	11.9	0.32	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	alpha2-gliadin 1421 (p61-p75)	15	100.0	100.0	2	12.1	0.4	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	Glia-alpha2 (p61-p71)	11	100.0	100.0	2	11.9	0.35	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	Glia-alpha2 (p61-p71; E66)	11	100.0	100.0	2	12.0	0.33	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	Glia-alpha2 (p61-p71; T70 and H71)	11	100.0	100.0	2	11.8	0.37	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	Glia-alpha2 (p61-p71; T70, H71 and E66)	11	100.0	100.0	2	11.8	0.37	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	Glia-alpha2 (p61-p71; H64)	11	100.0	100.0	2	11.9	0.35	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	Glia-alpha2 (p61-p71; H64 and E66)	11	100.0	100.0	2	12.0	0.32	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	DQ2.5_glia_alpha-la	9	100.0	100.0	2	11.7	0.32	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	DQ2.5_glia_alpha-1a	9	100.0	100.0	2	11.9	0.3	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	alpha-2 gliadin 1206 (p62-p75)	14	100.0	100.0	2	12.3	0.34	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	alpha-II/alpha-III epitope (p62-p75; E72)	14	100.0	100.0	2	12.3	0.34	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	alpha-2 gliadin (p62-p75; E65)	14	100.0	100.0	2	12.2	0.36	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	alpha-2 gliadin (p62-p75; E65 and E72) 	14	100.0	100.0	2	12.6	0.28	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	G4-9A gliadin (p62-p75; E65 and A70)	14	60.0	60.0	5	13.3	0.18	"12 LPLAA 16
+   ::  :
+5  LPYPA 9"
+>LYSC_CHICK	147	G4-11A gliadin (p62-p75; E65 and A72)	14	60.0	60.0	5	12.7	0.27	"13 PLAAL 17
+   :  ::
+8  PQPAL 12"
+>LYSC_CHICK	147	G4-12A gliadin (p62-p75; E65 and A73)	14	100.0	100.0	2	12.0	0.39	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	G4-13A gliadin (p62-p75; E65 and A74)	14	100.0	100.0	2	11.8	0.43	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	G4-14A gliadin (p62-p75; E65 and A70)	14	100.0	100.0	2	12.1	0.37	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	alpha-2 gliadin (p62-p73)	12	100.0	100.0	2	12.0	0.35	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	alpha-2 gliadin (p62-p73; E65)	12	100.0	100.0	2	12.1	0.34	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	alpha-II (p62-p72)	11	100.0	100.0	2	12.0	0.32	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	alpha-II (p62-p72; E65 and E72)	11	100.0	100.0	2	12.1	0.3	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	CAUTION 100% match to one fungal protein and many wheat proteins with multiple epitopes DQ2.5_glia_alpha2	9	100.0	100.0	2	11.9	0.3	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	DQ2.5_glia alpha2	9	100.0	100.0	2	12.0	0.27	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	alpha2-gliadin 1423 (p71-p85)	15	100.0	100.0	2	12.5	0.31	"12 LP 13
+   ::
+4  LP 5"
+>LYSC_CHICK	147	a-gliadin (p62-p84)	20	100.0	100.0	2	12.7	0.36	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	alpha-III-gliadin (p62-p79)	12	100.0	100.0	2	12.1	0.33	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	alpha-III-gliadin (p62-p79; E76)	12	100.0	100.0	2	12.1	0.33	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	alpha-I epitope 	12	66.7	100.0	3	12.3	0.3	"12 LPL 14
+   ::.
+3  LPF 5"
+>LYSC_CHICK	147	alpha-I epitope Deamidated form	12	66.7	100.0	3	12.3	0.3	"12 LPL 14
+   ::.
+3  LPF 5"
+>LYSC_CHICK	147	Glia-alpha2 25-mer (p64p89) 	25	100.0	100.0	2	12.1	0.57	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	Glia-alpha2 25-mer (p64p89; E65) 	25	100.0	100.0	2	12.1	0.56	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	Glia-alpha2 25-mer (p64p89; E79) 	25	100.0	100.0	2	12.2	0.55	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	Glia-alpha2 25-mer (p64p89; E65 and E79) 	25	100.0	100.0	2	12.1	0.56	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	alpha2-gliadin 1422 (p66-p80)	15	100.0	100.0	2	12.3	0.34	"12 LP 13
+   ::
+2  LP 3"
+>LYSC_CHICK	147	alpha-III epitope (p66-p78)	13	100.0	100.0	2	12.2	0.32	"12 LP 13
+   ::
+2  LP 3"
+>LYSC_CHICK	147	alpha-III epitope (p66-p78; E72)	13	100.0	100.0	2	12.3	0.31	"12 LP 13
+   ::
+2  LP 3"
+>LYSC_CHICK	147	Wheat peptide W01	12	100.0	100.0	2	12.1	0.33	"12 LP 13
+   ::
+1  LP 2"
+>LYSC_CHICK	147	DQ2.5_glia_alpha 1b	9	100.0	100.0	2	11.8	0.31	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	DQ2.5_glia_alpha 1b	9	100.0	100.0	2	12.0	0.27	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	Glia-alpha2 18-mer (p71 p89) 	18	100.0	100.0	2	12.3	0.4	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	Glia-alpha2 18-mer (p71 p89; E79) 	18	100.0	100.0	2	12.4	0.39	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	Wheat peptide W18	20	100.0	100.0	2	11.9	0.53	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	Wheat peptide W18	20	100.0	100.0	2	11.9	0.53	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	Wheat peptide W18	16	100.0	100.0	2	11.7	0.51	"12 LP 13
+   ::
+6  LP 7"
+>LYSC_CHICK	147	Wheat peptide W18	16	100.0	100.0	2	11.8	0.49	"12 LP 13
+   ::
+6  LP 7"
+>LYSC_CHICK	147	alpha2-gliadin 1424 (p76-p90)	15	100.0	100.0	2	11.9	0.43	"12 LP 13
+   ::
+6  LP 7"
+>LYSC_CHICK	147	DQ2.5_glia_alpha 3	9	66.7	66.7	3	11.5	0.36	"11 FLP 13
+   : :
+1  FRP 3"
+>LYSC_CHICK	147	DQ2.5_glia_alpha 3	9	66.7	66.7	3	11.7	0.33	"11 FLP 13
+   : :
+1  FRP 3"
+>LYSC_CHICK	147	Gliadin (p198-p222)	25	20.0	73.3	15	12.8	0.41	"53 ESNFNTQATNRNTDG 67
+   ...:. .  : ...:
+11 QGSFQPSQQNPQAQG 25"
+>LYSC_CHICK	147	alpha-2 gliadin (p219-p242) AJ133612	24	57.1	71.4	7	12.2	0.53	"54 SNFNTQA 60
+   :. : ::
+17 SQQNPQA 23"
+>LYSC_CHICK	147	alpha-2 gliadin (p219-p242; E229 and E237) AJ133612	24	57.1	71.4	7	12.9	0.37	"54 SNFNTQA 60
+   :. : ::
+17 SQENPQA 23"
+>LYSC_CHICK	147	alpha-2 gliadin (p219-p242; E229) AJ133612	24	57.1	71.4	7	12.4	0.47	"54 SNFNTQA 60
+   :. : ::
+17 SQQNPQA 23"
+>LYSC_CHICK	147	alpha-2 gliadin (p219-p242; E237) AJ133612	24	57.1	71.4	7	12.9	0.38	"54 SNFNTQA 60
+   :. : ::
+17 SQENPQA 23"
+>LYSC_CHICK	147	alpha-gliadin (p220-p239) P18573 	20	40.0	100.0	5	11.6	0.62	"88 PGSRN 92
+   :...:
+15 PSQQN 19"
+>LYSC_CHICK	147	Gda09 (p202p219) P18573	18	40.0	100.0	5	11.6	0.57	"88 PGSRN 92
+   :...:
+12 PSQQN 16"
+>LYSC_CHICK	147	Gda09 (p203p220) P18573 (alpha-gliadin (alpha-I))	18	57.1	71.4	7	12.2	0.44	"54 SNFNTQA 60
+   :. : ::
+12 SQQNPQA 18"
+>LYSC_CHICK	147	Gda09 (p203p220; E216) P18573 (alpha-gliadin (alpha-I)	18	57.1	71.4	7	13.0	0.27	"54 SNFNTQA 60
+   :. : ::
+12 SQENPQA 18"
+>LYSC_CHICK	147	alpha2-gliadin 1447 (p226-p240)	15	40.0	100.0	5	11.7	0.48	"88 PGSRN 92
+   :...:
+10 PSQQN 14"
+>LYSC_CHICK	147	Gliadin (p205-p222)	18	20.0	73.3	15	12.7	0.33	"53 ESNFNTQATNRNTDG 67
+   ...:. .  : ...:
+4  QGSFQPSQQNPQAQG 18"
+>LYSC_CHICK	147	Gliadin (p205-p216) ; alpha2-gliadin	12	66.7	66.7	3	10.8	0.63	"11 FLP 13
+   : :
+7  FQP 9"
+>LYSC_CHICK	147	Gliadin (p205-p215) ; alpha2-gliadin	11	66.7	66.7	3	10.7	0.61	"11 FLP 13
+   : :
+7  FQP 9"
+>LYSC_CHICK	147	Gda09 (p206p217) P18573	12	40.0	100.0	5	11.8	0.38	"88 PGSRN 92
+   :...:
+8  PSQQN 12"
+>LYSC_CHICK	147	Gda09 (p206p217; E215) P18573	12	40.0	80.0	5	11.5	0.46	"88 PGSRN 92
+   :. .:
+8  PSEQN 12"
+>LYSC_CHICK	147	Gda09 (p206-p217; E208) P18573	12	30.0	70.0	10	12.7	0.23	"53 ESNFNTQATN 62
+   :..:. .  :
+3  EGSFQPSQQN 12"
+>LYSC_CHICK	147	Gda09 (p206p217; E216) P18573	12	40.0	100.0	5	11.3	0.51	"88 PGSRN 92
+   :...:
+8  PSQEN 12"
+>LYSC_CHICK	147	Gda09 (p206p217; E208 and E216) P18573	12	30.0	70.0	10	12.7	0.24	"53 ESNFNTQATN 62
+   :..:. .  :
+3  EGSFQPSQEN 12"
+>LYSC_CHICK	147	alpha2-gliadin (p228-p236)	9	66.7	66.7	3	11.1	0.46	"11 FLP 13
+   : :
+5  FQP 7"
+>LYSC_CHICK	147	CAUTION 100% identity match to Dicot plant protein and many wheat family DQ8_glia_alpha 1 DQ8.5_glia_alpha 1	9	66.7	66.7	3	11.6	0.36	"11 FLP 13
+   : :
+4  FQP 6"
+>LYSC_CHICK	147	DQ8_glia_alpha 1 DQ8.5_glia_alpha 1	9	66.7	66.7	3	11.8	0.32	"11 FLP 13
+   : :
+4  FQP 6"
+>LYSC_CHICK	147	DQ8_glia_alpha 1 DQ8.5_glia_alpha 1	9	66.7	66.7	3	11.9	0.3	"11 FLP 13
+   : :
+4  FQP 6"
+>LYSC_CHICK	147	DQ8_glia_alpha 1 DQ8.5_glia_alpha 1	9	66.7	66.7	3	12.0	0.27	"11 FLP 13
+   : :
+4  FQP 6"
+>LYSC_CHICK	147	alpha2-gliadin 1448 (p231-p245)	15	28.6	71.4	14	14.3	0.1	"55 NFNTQATNRNTDGS 68
+   .:. .  : ...::
+2  SFQPSQQNPQAQGS 15"
+>LYSC_CHICK	147	alpha2-gliadin 1450 (p241-p255)	15	60.0	80.0	5	11.6	0.52	"16 ALGKV 20
+   : :.:
+2  AQGSV 6"
+>LYSC_CHICK	147	Wheat peptide W02	20	100.0	100.0	2	12.0	0.5	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	Wheat peptide W02	20	100.0	100.0	2	12.0	0.52	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	Wheat peptide W02	16	100.0	100.0	2	12.1	0.42	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	Wheat peptide W02	16	100.0	100.0	2	12.0	0.44	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	Wheat peptide W02	12	100.0	100.0	2	11.9	0.38	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Wheat peptide W02	12	100.0	100.0	2	11.9	0.36	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Wheat peptide W01	20	100.0	100.0	2	12.0	0.5	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Wheat peptide W01	20	100.0	100.0	2	12.2	0.47	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Wheat peptide W01	12	100.0	100.0	2	12.2	0.31	"12 LP 13
+   ::
+1  LP 2"
+>LYSC_CHICK	147	Wheat peptide W34	20	37.5	62.5	8	13.1	0.28	"26 LAAAMKRH 33
+   .: :.  :
+1  VAHAIIMH 8"
+>LYSC_CHICK	147	Wheat peptide W34	16	37.5	62.5	8	13.1	0.23	"26 LAAAMKRH 33
+   .: :.  :
+1  VAHAIIMH 8"
+>LYSC_CHICK	147	Analog of alpha-gliadin (p31-p49; A31)	19	66.7	66.7	3	11.3	0.68	"11 FLP 13
+   : :
+7  FPP 9"
+>LYSC_CHICK	147	Analog of alpha-gliadin (p31-p49; A36)	19	66.7	100.0	3	11.4	0.65	"17 LGK 19
+   ::.
+1  LGQ 3"
+>LYSC_CHICK	147	alpha20-gliadin (p91p106)	16	66.7	66.7	3	11.8	0.47	"11 FLP 13
+   : :
+4  FRP 6"
+>LYSC_CHICK	147	alpha20-gliadin (p93106; E97)	16	66.7	66.7	3	12.0	0.44	"11 FLP 13
+   : :
+4  FRP 6"
+>LYSC_CHICK	147	Glia-alpha20-gliadin (p93p106)	14	66.7	66.7	3	11.9	0.42	"11 FLP 13
+   : :
+2  FRP 4"
+>LYSC_CHICK	147	Glia-alpha20-gliadin (p93p106; E97)	14	66.7	66.7	3	11.8	0.43	"11 FLP 13
+   : :
+2  FRP 4"
+>LYSC_CHICK	147	Glia-alpha20-gliadin (p96106) minimal epitope	11	100.0	100.0	1	10.1	0.76	"13 P 13
+   :
+1  P 1"
+>LYSC_CHICK	147	Glia-alpha20-gliadin (p96106; E97) minimal epitope, synthetic	11	100.0	100.0	1	10.1	0.76	"13 P 13
+   :
+1  P 1"
+>LYSC_CHICK	147	alpha-gliadin(p123-p132)	10	100.0	100.0	3	15.3	0.036	"96 IPC 98
+   :::
+3  IPC 5"
+>LYSC_CHICK	147	alpha-gliadin (p206-p217)	12	40.0	100.0	5	11.5	0.46	"88 PGSRN 92
+   :...:
+8  PSQQN 12"
+>LYSC_CHICK	147	Peptide XT (1-55) 	55	25.0	66.7	12	13.2	0.59	"12 LPLAALGKVFGR 23
+   .::.   . .:.
+22 VPLVQQQQFLGQ 33"
+>LYSC_CHICK	147	Peptide XT (p1-p30) 	30	66.7	100.0	3	12.4	0.56	"86 RTP 88
+   :.:
+2  RVP 4"
+>LYSC_CHICK	147	alpha-gliadin B 3142 (p3-p55)	53	36.4	63.6	11	13.0	0.62	"12 LPLAALGKVFG 22
+   .::.   . ::
+20 VPLVQQQQ-FG 29"
+>LYSC_CHICK	147	alpha-gliadin p19 (p21-p40) 	20	25.0	66.7	12	14.4	0.13	"12 LPLAALGKVFGR 23
+   .::.   . .:.
+2  VPLVQQQQFLGQ 13"
+>LYSC_CHICK	147	alpha-gliadin p134 	19	66.7	100.0	3	11.5	0.62	"17 LGK 19
+   ::.
+3  LGQ 5"
+>LYSC_CHICK	147	alpha-gliadin p135 	18	66.7	100.0	3	11.4	0.62	"17 LGK 19
+   ::.
+2  LGQ 4"
+>LYSC_CHICK	147	Peptide XT (p31-p55) 	25	66.7	100.0	3	11.8	0.63	"17 LGK 19
+   ::.
+1  LGQ 3"
+>LYSC_CHICK	147	alpha-gliadin (p31-p49)	19	66.7	100.0	3	11.6	0.59	"17 LGK 19
+   ::.
+1  LGQ 3"
+>LYSC_CHICK	147	alpha-gliadin p126 	17	66.7	100.0	3	11.6	0.55	"17 LGK 19
+   ::.
+1  LGQ 3"
+>LYSC_CHICK	147	alpha-gliadin (p31-p43)	13	66.7	100.0	3	11.2	0.54	"17 LGK 19
+   ::.
+1  LGQ 3"
+>LYSC_CHICK	147	alpha-gliadin CAB76960 (p253-p272)	20	50.0	100.0	4	14.0	0.16	"93 LCNI 96
+   .::.
+2  MCNV 5"
+>LYSC_CHICK	147	alpha-gliadin (proline-rich domain)	16	42.9	42.9	7	13.9	0.15	"48 CAAKFES 54
+   :   : :
+1  CPQPFPS 7"
+>LYSC_CHICK	147	alpha-gliadin (p5-p22) (proline-rich domain)	18	50.0	50.0	4	11.1	0.7	"98 CSAL 101
+   :  :
+1  CPQL 4"
+>LYSC_CHICK	147	alpha-gliadin (p51-p70)	20	100.0	100.0	2	11.6	0.61	"12 LP 13
+   ::
+16 LP 17"
+>LYSC_CHICK	147	Wheat peptide W08	20	100.0	100.0	2	11.4	0.65	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	Wheat peptide W08	20	100.0	100.0	2	11.4	0.67	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	Glia-alpha9 (p57-p71; S69)	15	100.0	100.0	2	11.7	0.49	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	DQ2-Glia-alpha1 epitope  (p58p72; S69) 	15	100.0	100.0	2	11.7	0.48	"12 LP 13
+   ::
+9  LP 10"
+>LYSC_CHICK	147	DQ2-Glia-alpha1 epitope (p58p72; S69 and E65)	15	100.0	100.0	2	11.9	0.45	"12 LP 13
+   ::
+9  LP 10"
+>LYSC_CHICK	147	DQ2-Glia-alpha1 epitope  (p58p72; S64 and S69) 	15	60.0	60.0	5	11.9	0.43	"97 PCSAL 101
+   : : :
+5  PQSQL 9"
+>LYSC_CHICK	147	DQ2-Glia-alpha1 epitope  (p58p72; S64, S69 and E65) 	15	50.0	66.7	6	12.6	0.29	"21 FGRCEL 26
+   : . ::
+4  FPQSEL 9"
+>LYSC_CHICK	147	Wheat peptide W08	12	100.0	100.0	2	11.6	0.42	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Wheat peptide W08	12	100.0	100.0	2	11.9	0.36	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glia-alpha	11	100.0	100.0	2	11.6	0.4	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	Glia-alpha in Deamidated form	11	100.0	100.0	2	11.7	0.39	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	alpha-gliadin (p202-p220)	19	75.0	75.0	4	12.2	0.45	"41 YSLG 44
+   : ::
+3  YPLG 6"
+>LYSC_CHICK	147	alpha-gliadin CAB76961 (p251-p270)	20	44.4	66.7	9	14.6	0.11	"71 YGILQINSR 79
+   .::.  : :
+12 FGIFGTNYR 20"
+>LYSC_CHICK	147	Wheat peptide W13	20	100.0	100.0	2	11.6	0.61	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	Wheat peptide W13	20	100.0	100.0	2	11.6	0.61	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	Glia-alpha9 (p57-p71; L69)	15	100.0	100.0	2	11.8	0.47	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	Wheat peptide W13	12	100.0	100.0	2	11.8	0.4	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Wheat peptide W13	12	100.0	100.0	2	11.8	0.38	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	alpha-gliadin 4037	17	44.4	66.7	9	14.6	0.097	"71 YGILQINSR 79
+   .::.  : :
+9  FGIFGTNYR 17"
+>LYSC_CHICK	147	alpha-gliadin	20	100.0	100.0	2	11.6	0.61	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	alpha-Glia (p57p73)  	17	100.0	100.0	2	12.1	0.43	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha-Glia (p57p73; E65)  	17	100.0	100.0	2	12.0	0.46	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha-Glia (p57p73; T65 and S73)  	17	100.0	100.0	2	11.9	0.48	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha-gliadin (p57-p73; S73)	17	100.0	100.0	2	11.8	0.5	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha-gliadin (p57-p73; S73 and E65)	17	100.0	100.0	2	11.9	0.47	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	Wheat peptide W09	20	100.0	100.0	3	15.4	0.064	"11 FLP 13
+   :::
+10 FLP 12"
+>LYSC_CHICK	147	alpha-Glia AG11 (p78 p95)	17	100.0	100.0	3	15.5	0.052	"11 FLP 13
+   :::
+6  FLP 8"
+>LYSC_CHICK	147	alpha-Glia AG11 (p78 p95; E86)	17	100.0	100.0	3	16.2	0.034	"11 FLP 13
+   :::
+6  FLP 8"
+>LYSC_CHICK	147	Wheat peptide W09	14	100.0	100.0	3	15.7	0.038	"11 FLP 13
+   :::
+5  FLP 7"
+>LYSC_CHICK	147	Wheat peptide W09	14	100.0	100.0	3	16.0	0.032	"11 FLP 13
+   :::
+5  FLP 7"
+>LYSC_CHICK	147	Wheat peptide W09	12	100.0	100.0	3	15.7	0.033	"11 FLP 13
+   :::
+4  FLP 6"
+>LYSC_CHICK	147	alpha-gliadin p211	20	50.0	100.0	4	13.4	0.24	"88 PGSR 91
+   ::..
+2  PGQQ 5"
+>LYSC_CHICK	147	alpha-Glia AG12 (p82p98)	17	100.0	100.0	2	12.0	0.46	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	alpha-Glia AG12 (p82p98; E90)	17	100.0	100.0	2	12.0	0.45	"12 LP 13
+   ::
+10 LP 11"
+>LYSC_CHICK	147	Gliadin AAG17702 (p80-p99)	20	100.0	100.0	2	11.9	0.54	"87 TP 88
+   ::
+9  TP 10"
+>LYSC_CHICK	147	Wheat peptide W27	11	100.0	100.0	2	11.7	0.38	"87 TP 88
+   ::
+9  TP 10"
+>LYSC_CHICK	147	Gliadin AAG17702 (p88-p107)	20	100.0	100.0	2	12.3	0.44	"87 TP 88
+   ::
+1  TP 2"
+>LYSC_CHICK	147	Wheat peptide W25	11	100.0	100.0	2	11.9	0.34	"87 TP 88
+   ::
+1  TP 2"
+>LYSC_CHICK	147	Wheat peptide W30; Rye peptide R28	12	50.0	50.0	4	11.0	0.57	"56 FNTQ 59
+   :  :
+5  FPQQ 8"
+>LYSC_CHICK	147	omega-gliadin	20	100.0	100.0	1	11.3	0.7	"46 W 46
+   :
+20 W 20"
+>LYSC_CHICK	147	Epitope DQ2-omega-I/II	20	50.0	100.0	2	11.4	0.67	"129 WR 130
+    :.
+17  WQ 18"
+>LYSC_CHICK	147	p4-p18 omega-gliadin of AAG17702 (p81-p102)	15	50.0	100.0	2	10.8	0.71	"12 LP 13
+   .:
+8  FP 9"
+>LYSC_CHICK	147	p5-p19 omega-gliadin of AAG17702 (p81-p102)	15	50.0	100.0	2	10.9	0.7	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	DQ2-omega-1 omega-Glia (p102p118)	17	50.0	100.0	2	11.1	0.67	"129 WR 130
+    :.
+15  WQ 16"
+>LYSC_CHICK	147	DQ2-omega-1 omega-Glia (p102p118; E104)	17	50.0	100.0	2	11.1	0.67	"129 WR 130
+    :.
+15  WQ 16"
+>LYSC_CHICK	147	Wheat peptide W03, W19, B01	17	50.0	100.0	2	11.3	0.64	"129 WR 130
+    :.
+15  WQ 16"
+>LYSC_CHICK	147	omega-Glia 17mer	17	50.0	100.0	2	11.2	0.66	"129 WR 130
+    :.
+15  WQ 16"
+>LYSC_CHICK	147	omega-gliadin AAG17702 substituted by Lysine (p89-p102; E95 K89)	14	50.0	100.0	2	10.9	0.65	"129 WR 130
+    :.
+12  WQ 13"
+>LYSC_CHICK	147	omega-gliadin AAG17702 substituted by Lysine (p89-p102; E95 K90)	14	50.0	100.0	2	11.3	0.55	"129 WR 130
+    :.
+12  WQ 13"
+>LYSC_CHICK	147	omega-gliadin AAG17702 substituted by Lysine (p89-p102; E95 K91)	14	50.0	100.0	2	10.9	0.65	"129 WR 130
+    :.
+12  WQ 13"
+>LYSC_CHICK	147	omega-gliadin AAG17702 substituted by Lysine (p89-p102; E95 K99)	14	50.0	100.0	2	11.4	0.54	"79 RW 80
+   .:
+11 KW 12"
+>LYSC_CHICK	147	omega-gliadin AAG17702 substituted by Lysine (p89-p102; E95 K100)	14	42.9	57.1	7	12.8	0.26	"53 ESNFNTQ 59
+   :. :  :
+7  EQPFPKQ 13"
+>LYSC_CHICK	147	omega-gliadin AAG17702 substituted by Lysine (p89-p102; E95 K101)	14	50.0	100.0	2	11.6	0.49	"129 WR 130
+    :.
+12  WK 13"
+>LYSC_CHICK	147	omega-gliadin AAG17702 substituted by Lysine (p89-p102; E95 K102)	14	50.0	100.0	2	10.6	0.74	"129 WR 130
+    :.
+12  WQ 13"
+>LYSC_CHICK	147	p6-p20 omega-gliadin of AAG17702 (p81-p102)	15	100.0	100.0	1	11.0	0.66	"46 W 46
+   :
+15 W 15"
+>LYSC_CHICK	147	p7-p21 omega-gliadin of AAG17702 (p81-p102)	15	50.0	100.0	2	11.1	0.62	"129 WR 130
+    :.
+14  WQ 15"
+>LYSC_CHICK	147	p8-p22 omega-gliadin of AAG17702 (p81-p102), Wheat peptide W3	15	50.0	100.0	2	11.0	0.65	"129 WR 130
+    :.
+13  WQ 14"
+>LYSC_CHICK	147	Wheat peptide W03	15	50.0	100.0	2	11.0	0.65	"129 WR 130
+    :.
+13  WQ 14"
+>LYSC_CHICK	147	Wheat peptide W03, W19, Barley peptide B01	20	50.0	100.0	2	11.2	0.72	"129 WR 130
+    :.
+12  WQ 13"
+>LYSC_CHICK	147	Wheat peptide W03, W19, Barley peptide B01	20	50.0	100.0	2	11.2	0.71	"129 WR 130
+    :.
+12  WQ 13"
+>LYSC_CHICK	147	Wheat peptide W03, Barley peptide B01	12	100.0	100.0	1	10.7	0.65	"46 W 46
+   :
+12 W 12"
+>LYSC_CHICK	147	Wheat peptide W03, Barley peptide B01	12	100.0	100.0	1	10.7	0.66	"46 W 46
+   :
+12 W 12"
+>LYSC_CHICK	147	DQ2.5_glia_omega 2	9	100.0	100.0	1	10.3	0.65	"46 W 46
+   :
+9  W 9"
+>LYSC_CHICK	147	DQ2.5_glia_omega 2	9	100.0	100.0	1	10.3	0.64	"46 W 46
+   :
+9  W 9"
+>LYSC_CHICK	147	Wheat peptide W19, Barley peptide B19	12	50.0	100.0	2	10.5	0.7	"129 WR 130
+    :.
+4   WQ 5"
+>LYSC_CHICK	147	Wheat peptide W19	12	50.0	100.0	2	10.6	0.67	"129 WR 130
+    :.
+4   WQ 5"
+>LYSC_CHICK	147	Wheat peptide W30	20	100.0	100.0	2	12.5	0.4	"13 PL 14
+   ::
+1  PL 2"
+>LYSC_CHICK	147	omega-gliadin	20	66.7	100.0	3	12.5	0.39	"12 LPL 14
+   ::.
+14 LPF 16"
+>LYSC_CHICK	147	Wheat peptide W06	20	66.7	100.0	3	12.5	0.4	"12 LPL 14
+   ::.
+12 LPF 14"
+>LYSC_CHICK	147	Wheat peptide W06	12	66.7	100.0	3	12.3	0.29	"12 LPL 14
+   ::.
+8  LPF 10"
+>LYSC_CHICK	147	Gliadin AAG17702 p173-p192	20	100.0	100.0	2	12.5	0.4	"96 IP 97
+   ::
+19 IP 20"
+>LYSC_CHICK	147	Wheat peptide W32, Barley peptide B25, Rye peptide R26	12	50.0	50.0	4	11.0	0.58	"56 FNTQ 59
+   :  :
+2  FPQQ 5"
+>LYSC_CHICK	147	Wheat peptide W04	20	100.0	100.0	2	12.2	0.47	"96 IP 97
+   ::
+15 IP 16"
+>LYSC_CHICK	147	Wheat peptide W04	11	100.0	100.0	2	11.7	0.38	"96 IP 97
+   ::
+9  IP 10"
+>LYSC_CHICK	147	Gliadin AAG17702 p186-p205	20	25.0	75.0	8	12.0	0.52	"53 ESNFNTQA 60
+   ...:  :.
+11 QQSFPQQS 18"
+>LYSC_CHICK	147	Wheat peptide W20	20	66.7	100.0	3	12.3	0.44	"12 LPL 14
+   .::
+16 FPL 18"
+>LYSC_CHICK	147	Wheat peptide W20	12	66.7	100.0	3	12.5	0.26	"12 LPL 14
+   .::
+10 FPL 12"
+>LYSC_CHICK	147	Gliadin AAG17702 p225-p244	20	66.7	100.0	3	12.9	0.32	"12 LPL 14
+   .::
+8  FPL 10"
+>LYSC_CHICK	147	Wheat peptide W26, Barley peptide B20	12	66.7	100.0	3	12.3	0.3	"12 LPL 14
+   .::
+2  FPL 4"
+>LYSC_CHICK	147	Gliadin AAG17702 p239-p258	20	50.0	50.0	4	11.2	0.72	"56 FNTQ 59
+   :  :
+2  FPQQ 5"
+>LYSC_CHICK	147	Glu-5 peptide epitope in native form	12	100.0	100.0	2	12.4	0.28	"96 IP 97
+   ::
+5  IP 6"
+>LYSC_CHICK	147	Glu-5 peptide epitope in native form	12	100.0	100.0	2	12.0	0.34	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	Glu-5 peptide epitope in Deamidated form	12	100.0	100.0	2	12.2	0.32	"96 IP 97
+   ::
+5  IP 6"
+>LYSC_CHICK	147	Glu-5 peptide epitope in Deamidated form	12	100.0	100.0	2	12.3	0.3	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	CAUTION 100% matches with 4 fungal proteins but multiple epitopes on Triticum Glu-5 minimal epitope in native form	9	100.0	100.0	2	12.2	0.24	"96 IP 97
+   ::
+2  IP 3"
+>LYSC_CHICK	147	Glu-5 minimal epitope in Deamidated form	9	100.0	100.0	2	12.2	0.24	"96 IP 97
+   ::
+2  IP 3"
+>LYSC_CHICK	147	CAUTION 100% match with fungal and parasite proteins, less with Glu-5 minimal epitope in native form	9	100.0	100.0	2	12.1	0.27	"12 LP 13
+   ::
+2  LP 3"
+>LYSC_CHICK	147	Glu-5 minimal epitope in Deamidated form	9	100.0	100.0	2	12.1	0.26	"12 LP 13
+   ::
+2  LP 3"
+>LYSC_CHICK	147	Glu-5 minimal epitope in Deamidated form	9	100.0	100.0	2	12.4	0.22	"96 IP 97
+   ::
+2  IP 3"
+>LYSC_CHICK	147	Glu-5 minimal epitope in Deamidated form	9	100.0	100.0	2	12.3	0.24	"12 LP 13
+   ::
+2  LP 3"
+>LYSC_CHICK	147	Glu-5	21	100.0	100.0	2	12.3	0.46	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.2	0.47	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.2	0.49	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.2	0.49	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.2	0.49	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.3	0.47	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.3	0.46	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.4	0.44	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.3	0.47	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.3	0.47	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.1	0.5	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.2	0.49	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.1	0.5	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.2	0.47	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.2	0.47	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.4	0.43	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 	21	100.0	100.0	2	12.5	0.42	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.4	0.42	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.4	0.44	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.6	0.39	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.5	0.41	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.5	0.41	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.6	0.4	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.4	0.43	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.4	0.43	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.5	0.41	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.5	0.41	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.5	0.41	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.6	0.4	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.5	0.41	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.6	0.4	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.7	0.36	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 	21	30.0	70.0	10	12.9	0.33	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	12.9	0.33	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.0	0.32	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.6	0.4	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.0	0.31	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.1	0.3	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.5	0.41	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.1	0.29	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.5	0.42	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.0	0.32	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.5	0.42	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.5	0.41	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.2	0.29	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.8	0.35	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.6	0.38	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.6	0.39	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 	21	100.0	100.0	2	12.1	0.49	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.1	0.5	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.1	0.49	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.1	0.5	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.1	0.51	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.1	0.51	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.1	0.51	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.2	0.47	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.2	0.49	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.2	0.48	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.2	0.48	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.3	0.47	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.3	0.47	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.3	0.46	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.4	0.44	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.2	0.49	"96 IP 97
+   ::
+8  IP 9"
+>LYSC_CHICK	147	Glu-5 	21	100.0	100.0	2	12.4	0.44	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.4	0.43	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.5	0.41	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.5	0.41	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.4	0.43	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.7	0.38	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.7	0.38	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.6	0.4	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.6	0.39	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.6	0.4	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.5	0.42	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.5	0.41	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.7	0.37	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.6	0.39	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.7	0.38	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	100.0	100.0	2	12.6	0.39	"12 LP 13
+   ::
+8  LP 9"
+>LYSC_CHICK	147	Glu-5 	21	30.0	70.0	10	13.0	0.32	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.0	0.31	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	12.9	0.33	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.6	0.4	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.1	0.3	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.0	0.32	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.5	0.42	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.2	0.28	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.7	0.38	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	12.9	0.32	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.4	0.42	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.7	0.37	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.2	0.28	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.6	0.38	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.6	0.38	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.7	0.36	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 	21	30.0	70.0	10	13.0	0.31	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.1	0.3	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.1	0.3	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.6	0.38	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.0	0.31	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.2	0.28	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.6	0.4	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.1	0.29	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.6	0.38	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.0	0.31	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.6	0.4	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.6	0.39	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.3	0.26	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.6	0.39	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.9	0.34	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.7	0.37	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 	21	30.0	70.0	10	12.9	0.33	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.0	0.32	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	12.9	0.32	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.5	0.41	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.0	0.31	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.1	0.3	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.6	0.39	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.1	0.3	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.5	0.42	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.2	0.29	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.6	0.38	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.7	0.38	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQQLPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	70.0	10	13.2	0.29	"88 PGSRNLCNIP 97
+   : ...: . :
+9  PQQQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.7	0.36	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.7	0.38	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	Glu-5 in Deamidated form	21	30.0	60.0	10	12.7	0.38	"88 PGSRNLCNIP 97
+   :  ..: . :
+9  PQEQELPQQP 18"
+>LYSC_CHICK	147	gamma-gliadin P08079	20	100.0	100.0	2	11.5	0.65	"11 FL 12
+   ::
+3  FL 4"
+>LYSC_CHICK	147	gamma-gliadin P08079	17	100.0	100.0	2	11.3	0.62	"11 FL 12
+   ::
+3  FL 4"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84)	26	100.0	100.0	2	11.9	0.63	"11 FL 12
+   ::
+1  FL 2"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E63)	26	42.9	57.1	7	13.3	0.32	"53 ESNFNTQ 59
+   :. :  :
+5  EQPFPQQ 11"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E68)	26	100.0	100.0	2	11.7	0.67	"11 FL 12
+   ::
+1  FL 2"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E71)	26	100.0	100.0	2	11.9	0.63	"11 FL 12
+   ::
+1  FL 2"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E76)	26	100.0	100.0	2	12.0	0.61	"11 FL 12
+   ::
+1  FL 2"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E79)	26	100.0	100.0	2	11.9	0.62	"11 FL 12
+   ::
+1  FL 2"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E63 and E68)	26	42.9	57.1	7	13.3	0.32	"53 ESNFNTQ 59
+   :. :  :
+5  EQPFPEQ 11"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E63 and E71)	26	42.9	57.1	7	13.2	0.33	"53 ESNFNTQ 59
+   :. :  :
+5  EQPFPQQ 11"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E63 and E76)	26	42.9	57.1	7	13.3	0.31	"53 ESNFNTQ 59
+   :. :  :
+5  EQPFPQQ 11"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E63 and E79)	26	42.9	57.1	7	13.2	0.33	"53 ESNFNTQ 59
+   :. :  :
+5  EQPFPQQ 11"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E68 and E71)	26	100.0	100.0	2	11.9	0.63	"11 FL 12
+   ::
+1  FL 2"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E68 and E76)	26	100.0	100.0	2	11.9	0.62	"11 FL 12
+   ::
+1  FL 2"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E68 and E79)	26	100.0	100.0	2	11.9	0.63	"11 FL 12
+   ::
+1  FL 2"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E71 and E76)	26	100.0	100.0	2	11.9	0.62	"11 FL 12
+   ::
+1  FL 2"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E71 and E79)	26	100.0	100.0	2	11.9	0.63	"11 FL 12
+   ::
+1  FL 2"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E76 and E79)	26	100.0	100.0	2	11.8	0.66	"11 FL 12
+   ::
+1  FL 2"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E63, E68 and E71)	26	42.9	57.1	7	13.4	0.3	"53 ESNFNTQ 59
+   :. :  :
+5  EQPFPEQ 11"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E63, E68 and E76)	26	42.9	57.1	7	13.2	0.33	"53 ESNFNTQ 59
+   :. :  :
+5  EQPFPEQ 11"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E63, E68 and E79)	26	42.9	57.1	7	13.4	0.3	"53 ESNFNTQ 59
+   :. :  :
+5  EQPFPEQ 11"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E68, E71 and E76)	26	100.0	100.0	2	11.9	0.64	"11 FL 12
+   ::
+1  FL 2"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E68, E71 and E79)	26	100.0	100.0	2	12.0	0.61	"11 FL 12
+   ::
+1  FL 2"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E71, E76 and E79)	26	100.0	100.0	2	12.0	0.6	"11 FL 12
+   ::
+1  FL 2"
+>LYSC_CHICK	147	gamma-5 gliadin (p59-p84; E63, E68, E71,E76 and E79)	26	42.9	57.1	7	13.6	0.27	"53 ESNFNTQ 59
+   :. :  :
+5  EQPFPEQ 11"
+>LYSC_CHICK	147	gamma-5 gliadin (p60-p79) ; DQ2-gamma-V  gamma-Glia (p78 p97); gamma-3 and gamma-5 peptide 1317	20	50.0	50.0	4	11.5	0.65	"56 FNTQ 59
+   :  :
+7  FPQQ 10"
+>LYSC_CHICK	147	DQ2-gamma-V  gamma-Glia (p78 p97; E81)	20	42.9	57.1	7	13.2	0.27	"53 ESNFNTQ 59
+   :. :  :
+4  EQPFPQQ 10"
+>LYSC_CHICK	147	DQ2-gamma-V  gamma-Glia (p78 p97; E86)	20	50.0	50.0	4	11.4	0.67	"56 FNTQ 59
+   :  :
+7  FPEQ 10"
+>LYSC_CHICK	147	DQ2-gamma-V  gamma-Glia  (p78 p97; E89)	20	50.0	50.0	4	11.4	0.67	"56 FNTQ 59
+   :  :
+7  FPQQ 10"
+>LYSC_CHICK	147	DQ2-gamma-V  gamma-Glia  (p78 p97; E94)	20	50.0	50.0	4	11.3	0.68	"56 FNTQ 59
+   :  :
+7  FPQQ 10"
+>LYSC_CHICK	147	DQ2-gamma-V  gamma-Glia  (p78 p97; E81 and E86)	20	42.9	57.1	7	13.2	0.27	"53 ESNFNTQ 59
+   :. :  :
+4  EQPFPEQ 10"
+>LYSC_CHICK	147	DQ2-gamma-V  gamma-Glia  (p78 p97; E81 and E89)	20	42.9	57.1	7	13.1	0.28	"53 ESNFNTQ 59
+   :. :  :
+4  EQPFPQQ 10"
+>LYSC_CHICK	147	DQ2-gamma-V  gamma-Glia  (p78 p97; E81 and E94)	20	42.9	57.1	7	13.1	0.29	"53 ESNFNTQ 59
+   :. :  :
+4  EQPFPQQ 10"
+>LYSC_CHICK	147	DQ2-gamma-V  gamma-Glia  (p78 p97; E86 and E89)	20	50.0	50.0	4	11.4	0.67	"56 FNTQ 59
+   :  :
+7  FPEQ 10"
+>LYSC_CHICK	147	DQ2-gamma-V  gamma-Glia  (p78 p97; E86 and E64)	20	50.0	50.0	4	11.5	0.65	"56 FNTQ 59
+   :  :
+7  FPEQ 10"
+>LYSC_CHICK	147	DQ2-gamma-V  gamma-Glia  (p78 p97; E89 and E94)	20	50.0	50.0	4	11.5	0.63	"56 FNTQ 59
+   :  :
+7  FPQQ 10"
+>LYSC_CHICK	147	DQ2-gamma-V  gamma-Glia  (p78 p97; E81, E86 and E89)	20	42.9	57.1	7	13.3	0.26	"53 ESNFNTQ 59
+   :. :  :
+4  EQPFPEQ 10"
+>LYSC_CHICK	147	DQ2-gamma-V  gamma-Glia  (p78 p97; E81, E86 and E94)	20	42.9	57.1	7	13.3	0.25	"53 ESNFNTQ 59
+   :. :  :
+4  EQPFPEQ 10"
+>LYSC_CHICK	147	DQ2-gamma-V  gamma-Glia  (p78 p97; E86, E89 and E94)	20	50.0	50.0	4	11.4	0.66	"56 FNTQ 59
+   :  :
+7  FPEQ 10"
+>LYSC_CHICK	147	DQ2-gamma-V  gamma-Glia  (p78 p97; E81, E86, E89 and E94)	20	42.9	57.1	7	13.4	0.23	"53 ESNFNTQ 59
+   :. :  :
+4  EQPFPEQ 10"
+>LYSC_CHICK	147	gamma3/gamma4	17	50.0	50.0	4	11.4	0.6	"56 FNTQ 59
+   :  :
+5  FPQQ 8"
+>LYSC_CHICK	147	gamma5 (p62-p74)	13	50.0	50.0	4	11.2	0.55	"56 FNTQ 59
+   :  :
+5  FPQQ 8"
+>LYSC_CHICK	147	gamma5 (p62-p74; E68)	13	50.0	50.0	4	11.2	0.55	"56 FNTQ 59
+   :  :
+5  FPEQ 8"
+>LYSC_CHICK	147	gamma5 (p62-p74; E63 and E68)	13	42.9	57.1	7	13.1	0.19	"53 ESNFNTQ 59
+   :. :  :
+2  EQPFPEQ 8"
+>LYSC_CHICK	147	gamma5 (p62-p74; E68 and E71)	13	50.0	50.0	4	11.2	0.54	"56 FNTQ 59
+   :  :
+5  FPEQ 8"
+>LYSC_CHICK	147	gamma5 (p62-p74; E63, E68 and E71)	13	42.9	57.1	7	13.4	0.16	"53 ESNFNTQ 59
+   :. :  :
+2  EQPFPEQ 8"
+>LYSC_CHICK	147	gamma-5 gliadin (p62-p72)	11	50.0	50.0	4	11.2	0.49	"56 FNTQ 59
+   :  :
+5  FPQQ 8"
+>LYSC_CHICK	147	gamma5-gliadin (p62-p72; E68)	11	50.0	50.0	4	11.2	0.51	"56 FNTQ 59
+   :  :
+5  FPEQ 8"
+>LYSC_CHICK	147	gamma5 (p62-p72; E68, E63 and E71)	11	42.9	57.1	7	13.6	0.13	"53 ESNFNTQ 59
+   :. :  :
+2  EQPFPEQ 8"
+>LYSC_CHICK	147	gamma23mer	23	50.0	50.0	4	11.9	0.59	"56 FNTQ 59
+   :  :
+4  FPQQ 7"
+>LYSC_CHICK	147	gamma23mer (in considered Deamidated form)	23	42.9	57.1	7	13.6	0.23	"53 ESNFNTQ 59
+   :. :  :
+1  EQPFPEQ 7"
+>LYSC_CHICK	147	gamma5-gliadin (p60-p79)	14	50.0	50.0	4	11.3	0.55	"56 FNTQ 59
+   :  :
+4  FPQQ 7"
+>LYSC_CHICK	147	DQ2.5_glia_gamma 5	9	50.0	50.0	4	11.0	0.47	"56 FNTQ 59
+   :  :
+4  FPQQ 7"
+>LYSC_CHICK	147	DQ2.5_glia_gamma 5	9	50.0	50.0	4	10.9	0.49	"56 FNTQ 59
+   :  :
+4  FPEQ 7"
+>LYSC_CHICK	147	CAUTION 100% match to Archaea protein lower to others and to gamma5 (p63-p71; E63, E68 and E71)	9	42.9	57.1	7	13.5	0.11	"53 ESNFNTQ 59
+   :. :  :
+1  EQPFPEQ 7"
+>LYSC_CHICK	147	DQ2-gamma-III gamma-Glia (p83p97)	15	50.0	50.0	4	11.5	0.54	"56 FNTQ 59
+   :  :
+2  FPQQ 5"
+>LYSC_CHICK	147	DQ2-gamma-III gamma-Glia (p83p97; E86)	15	50.0	50.0	4	11.3	0.58	"56 FNTQ 59
+   :  :
+2  FPEQ 5"
+>LYSC_CHICK	147	DQ2-gamma-III gamma-Glia (p83p97; E89)	15	50.0	50.0	4	11.3	0.59	"56 FNTQ 59
+   :  :
+2  FPQQ 5"
+>LYSC_CHICK	147	DQ2-gamma-III gamma-Glia (p83p97; E86 and E89)	15	50.0	50.0	4	11.4	0.55	"56 FNTQ 59
+   :  :
+2  FPEQ 5"
+>LYSC_CHICK	147	Wheat peptide W23	12	50.0	50.0	4	11.1	0.55	"56 FNTQ 59
+   :  :
+2  FPQQ 5"
+>LYSC_CHICK	147	gamma-gliadin (p66-p80) AJ416339	15	50.0	50.0	4	11.5	0.54	"56 FNTQ 59
+   :  :
+1  FPQQ 4"
+>LYSC_CHICK	147	gamma-gliadin (p66-p80; E68) AJ416339	15	50.0	50.0	4	11.4	0.56	"56 FNTQ 59
+   :  :
+1  FPEQ 4"
+>LYSC_CHICK	147	gamma-gliadin (p66-p80; E71) AJ416339	15	50.0	50.0	4	11.5	0.54	"56 FNTQ 59
+   :  :
+1  FPQQ 4"
+>LYSC_CHICK	147	gamma-gliadin (p66-p80; E76) AJ416339	15	50.0	50.0	4	11.4	0.57	"56 FNTQ 59
+   :  :
+1  FPQQ 4"
+>LYSC_CHICK	147	gamma-gliadin (p66-p80; E71 and 76) AJ416339	15	50.0	50.0	4	11.5	0.54	"56 FNTQ 59
+   :  :
+1  FPEQ 4"
+>LYSC_CHICK	147	gamma5 (p66-p78)	13	50.0	50.0	4	11.3	0.53	"56 FNTQ 59
+   :  :
+1  FPQQ 4"
+>LYSC_CHICK	147	gamma5 (p66-p78; E68 and E71)	13	50.0	50.0	4	11.3	0.54	"56 FNTQ 59
+   :  :
+1  FPEQ 4"
+>LYSC_CHICK	147	gamma5 (p66-p78; E68 and E72)	13	50.0	50.0	4	11.1	0.58	"56 FNTQ 59
+   :  :
+1  FPEQ 4"
+>LYSC_CHICK	147	gamma5 (p66-p77)	12	50.0	50.0	4	11.1	0.54	"56 FNTQ 59
+   :  :
+1  FPQQ 4"
+>LYSC_CHICK	147	gamma5 (p66-p77; E71)	12	50.0	50.0	4	11.1	0.54	"56 FNTQ 59
+   :  :
+1  FPQQ 4"
+>LYSC_CHICK	147	gamma5 (p66-p77; E68, E71 and E76)	12	50.0	50.0	4	11.4	0.48	"56 FNTQ 59
+   :  :
+1  FPEQ 4"
+>LYSC_CHICK	147	gamma5 (p67-p77; E68, E71 and E76)	11	28.6	57.1	7	10.4	0.71	"53 ESNFNTQ 59
+   :. .  :
+5  EQPYPEQ 11"
+>LYSC_CHICK	147	CAUTION 100% matches to many fungal and parasite proteins as well as DQ2.5_glia_gamma 3 DQ8_glia_gamma 1b	9	100.0	100.0	1	9.9	0.75	"13 P 13
+   :
+3  P 3"
+>LYSC_CHICK	147	DQ2.5_glia_gamma 3 DQ8_glia_gamma1b	9	100.0	100.0	1	10.1	0.7	"13 P 13
+   :
+3  P 3"
+>LYSC_CHICK	147	DQ2.5_glia_gamma 3 DQ8_glia_gamma 1b	9	100.0	100.0	1	9.8	0.77	"13 P 13
+   :
+3  P 3"
+>LYSC_CHICK	147	DQ2.5_glia_gamma 3 DQ8_glia_gamma 1b	9	50.0	100.0	2	10.4	0.63	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	CAUTION 100% identity matches to fungal and lower to other fungal proteins as DQ2.5_glia_gamma 3 DQ8_glia_gamma 1b	9	100.0	100.0	1	9.9	0.76	"13 P 13
+   :
+3  P 3"
+>LYSC_CHICK	147	Predicted gamma-gliadin peptide	14	50.0	100.0	2	10.7	0.7	"12 LP 13
+   .:
+12 FP 13"
+>LYSC_CHICK	147	CAUTION many 100% identity matches to legume and bacterial proteins and also gamma-Vib gliadin	9	100.0	100.0	1	9.9	0.74	"13 P 13
+   :
+3  P 3"
+>LYSC_CHICK	147	CAUTION 100% match to bacterial protein and lower to others and gamma-Vib gliadin in Deamidated form	9	28.6	57.1	7	10.9	0.5	"53 ESNFNTQ 59
+   :. .  :
+1  EQPYPQQ 7"
+>LYSC_CHICK	147	CAUTION 100% identity to bacterial protein and lower to others and gamma-Vib gliadin in Deamidated form	9	100.0	100.0	1	9.8	0.77	"13 P 13
+   :
+3  P 3"
+>LYSC_CHICK	147	gamma-Vib gliadin in Deamidated form	9	28.6	57.1	7	11.0	0.48	"53 ESNFNTQ 59
+   :. .  :
+1  EQPYPEQ 7"
+>LYSC_CHICK	147	CAUTION many 100% matches to fish, fungi and other non-wheat family proteins also a few to Secalin Glia-gamma2	9	100.0	100.0	1	10.0	0.73	"13 P 13
+   :
+1  P 1"
+>LYSC_CHICK	147	Glia-gamma2 in Deamidated form	9	100.0	100.0	1	9.9	0.74	"13 P 13
+   :
+1  P 1"
+>LYSC_CHICK	147	Glia-gamma2 in Deamidated form	9	100.0	100.0	1	9.8	0.76	"13 P 13
+   :
+1  P 1"
+>LYSC_CHICK	147	CAUTION 100% match to bacterial protein and lizard protein lower to grapes and wheat Glia-gamma2 in Deamidated form	9	100.0	100.0	1	10.2	0.68	"13 P 13
+   :
+1  P 1"
+>LYSC_CHICK	147	CAUTION 100% 4 matches to Candida 2 to bacteria and many to secalins and wheat  gamma2-gliadin	9	50.0	100.0	2	10.5	0.59	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	CAUTION 100% match to fungal protein and lower to Candida and to Gliadin epitope: gamma-I	9	50.0	100.0	2	10.4	0.62	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	Gliadin epitope: gamma-VII	9	50.0	75.0	4	10.9	0.49	"53 ESNF 56
+   :. :
+4  EQPF 7"
+>LYSC_CHICK	147	CAUTION 100% match to a bacterial protein / lower to triticum gammaVII-gliadin in Deamidated form	9	50.0	75.0	4	11.0	0.46	"53 ESNF 56
+   :. :
+4  EQPF 7"
+>LYSC_CHICK	147	gamma-Glia (p105p118)	14	33.3	83.3	6	11.6	0.48	"88 PGSRNL 93
+   : ...:
+1  PQQQTL 6"
+>LYSC_CHICK	147	gamma-Glia (p105p118; E113)	14	33.3	83.3	6	11.5	0.51	"88 PGSRNL 93
+   : ...:
+1  PQQQTL 6"
+>LYSC_CHICK	147	Wheat peptide W37	20	37.5	62.5	8	14.4	0.13	"119 DGNGMNAW 126
+    : .:.  :
+8   DPSGQVQW 15"
+>LYSC_CHICK	147	Wheat peptide W37	12	37.5	62.5	8	14.3	0.082	"119 DGNGMNAW 126
+    : .:.  :
+3   DPSGQVQW 10"
+>LYSC_CHICK	147	gamma-gliadin 1370 (p1-p30) ; gamma-gliadin M2 M36999 (p11-p30) homologous to DQ2-alpha-I	20	40.0	80.0	5	12.9	0.32	"93 LCNIP 97
+   .:. :
+14 FCQQP 18"
+>LYSC_CHICK	147	gamma-gliadin 1371 (p21-p40)	20	40.0	80.0	5	13.3	0.25	"93 LCNIP 97
+   .:. :
+4  FCQQP 8"
+>LYSC_CHICK	147	gamma-gliadin 1372 (p31-p50)	20	100.0	100.0	2	12.5	0.39	"96 IP 97
+   ::
+2  IP 3"
+>LYSC_CHICK	147	gamma-gliadin 1372 (p41-p60)	20	50.0	100.0	2	10.7	0.83	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	gamma-gliadin 1372 (p51-p70)	20	100.0	100.0	2	11.0	0.75	"58 TQ 59
+   ::
+15 TQ 16"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	22.2	55.6	9	11.6	0.61	"13 PLAALGKVF 21
+   :.    ..:
+11 PFPQPQQTF 19"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E64) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	22.2	55.6	9	11.5	0.64	"13 PLAALGKVF 21
+   :.    ..:
+11 PFPQPQQTF 19"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E66) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	22.2	55.6	9	11.5	0.63	"13 PLAALGKVF 21
+   :.    ..:
+11 PFPQPQQTF 19"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E69) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	22.2	55.6	9	11.6	0.62	"13 PLAALGKVF 21
+   :.    ..:
+11 PFPQPQQTF 19"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E76) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	50.0	100.0	4	11.8	0.55	"53 ESNF 56
+   :..:
+16 EQTF 19"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E64 and E66) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	22.2	55.6	9	11.6	0.6	"13 PLAALGKVF 21
+   :.    ..:
+11 PFPQPQQTF 19"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E64 and E69) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	22.2	55.6	9	11.6	0.61	"13 PLAALGKVF 21
+   :.    ..:
+11 PFPQPQQTF 19"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E64 and E76) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	50.0	100.0	4	12.2	0.47	"53 ESNF 56
+   :..:
+16 EQTF 19"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E66 and E69) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	22.2	55.6	9	11.6	0.61	"13 PLAALGKVF 21
+   :.    ..:
+11 PFPQPQQTF 19"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E66 and E76) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	50.0	100.0	4	12.1	0.5	"53 ESNF 56
+   :..:
+16 EQTF 19"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E69 and E76) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	50.0	100.0	4	12.0	0.51	"53 ESNF 56
+   :..:
+16 EQTF 19"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E64, E66 and E69) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	22.2	55.6	9	11.7	0.58	"13 PLAALGKVF 21
+   :.    ..:
+11 PFPQPQQTF 19"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E64, E66 and E76) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	50.0	100.0	4	12.0	0.51	"53 ESNF 56
+   :..:
+16 EQTF 19"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E64, E69 and E76) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	50.0	100.0	4	12.1	0.49	"53 ESNF 56
+   :..:
+16 EQTF 19"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E66, E69 and E76) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	50.0	100.0	4	12.2	0.46	"53 ESNF 56
+   :..:
+16 EQTF 19"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E64, E66, E69 and E76) ; gamma-gliadin M7 M36999 (p61-p80) homologous to DQ2-gamma-III	20	50.0	100.0	4	12.3	0.45	"53 ESNF 56
+   :..:
+16 EQTF 19"
+>LYSC_CHICK	147	Wheat peptide W28, W33	20	66.7	100.0	3	12.7	0.35	"12 LPL 14
+   ::.
+18 LPF 20"
+>LYSC_CHICK	147	gamma-gliadin 1376 (p71-p90); gamma-gliadin M8 M36999 (71-80) homologous to DQ2-alpha-I and DQ2-gamma-IV  	20	66.7	100.0	3	12.7	0.37	"12 LPL 14
+   ::.
+15 LPF 17"
+>LYSC_CHICK	147	Wheat peptide W33	11	22.2	55.6	9	11.2	0.49	"13 PLAALGKVF 21
+   :.    ..:
+1  PFPQPQQTF 9"
+>LYSC_CHICK	147	Wheat peptide W28	12	100.0	100.0	2	12.0	0.34	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	Wheat peptide W10	20	50.0	100.0	2	10.6	0.85	"12 LP 13
+   .:
+15 FP 16"
+>LYSC_CHICK	147	DQ2-y-IV y-Glia (p117p132)	15	50.0	100.0	2	10.6	0.77	"12 LP 13
+   .:
+10 FP 11"
+>LYSC_CHICK	147	DQ2-y-IV y-Glia (p117p132; E123)	15	50.0	100.0	4	11.8	0.46	"53 ESNF 56
+   :..:
+7  EQQF 10"
+>LYSC_CHICK	147	DQ2-y-IV y-Glia (p117p132; E125)	15	50.0	100.0	2	10.5	0.78	"12 LP 13
+   .:
+10 FP 11"
+>LYSC_CHICK	147	DQ2-y-IV y-Glia (p117p132; E123 and E125)	15	50.0	100.0	4	12.1	0.4	"53 ESNF 56
+   :..:
+7  EQEF 10"
+>LYSC_CHICK	147	Wheat peptide W10	12	50.0	100.0	2	10.2	0.78	"12 LP 13
+   .:
+10 FP 11"
+>LYSC_CHICK	147	gamma-IV (p101-p113)	13	50.0	100.0	2	10.3	0.78	"12 LP 13
+   .:
+9  FP 10"
+>LYSC_CHICK	147	gamma-gliadin (gamma5 p102-p113)	12	50.0	100.0	2	10.3	0.75	"12 LP 13
+   .:
+8  FP 9"
+>LYSC_CHICK	147	gamma5 (p102-p113; E106)	12	50.0	100.0	4	11.8	0.39	"53 ESNF 56
+   :..:
+5  EQQF 8"
+>LYSC_CHICK	147	gamma5 (p102-p113; E108)	12	50.0	100.0	2	10.3	0.75	"12 LP 13
+   .:
+8  FP 9"
+>LYSC_CHICK	147	gamma5 (p102-p113; E106 and E108)	12	50.0	100.0	4	11.9	0.37	"53 ESNF 56
+   :..:
+5  EQEF 8"
+>LYSC_CHICK	147	gamma5 (p102-p111)	10	50.0	100.0	2	10.1	0.75	"12 LP 13
+   .:
+8  FP 9"
+>LYSC_CHICK	147	gamma5 (p102-p111; E106)	10	50.0	100.0	4	11.8	0.34	"53 ESNF 56
+   :..:
+5  EQQF 8"
+>LYSC_CHICK	147	gamma5 (p102-p111; E108)	10	50.0	100.0	2	10.2	0.71	"12 LP 13
+   .:
+8  FP 9"
+>LYSC_CHICK	147	gamma5 (p102-p111; E106 and E108)	10	50.0	100.0	4	11.8	0.34	"53 ESNF 56
+   :..:
+5  EQEF 8"
+>LYSC_CHICK	147	gamma-IV (p103-p114)	12	50.0	100.0	2	10.4	0.74	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	CAUTION 100% match to fungal protein and many wheat proteins glia-gamma 4a	9	50.0	100.0	2	10.2	0.69	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	glia-gamma 4a	9	50.0	100.0	4	12.1	0.26	"53 ESNF 56
+   :..:
+4  EQEF 7"
+>LYSC_CHICK	147	gamma-gliadin of GDB2_WHEAT (SwissProt P08453 GI:121101) (p140p150)	11	28.6	71.4	7	12.4	0.27	"53 ESNFNTQ 59
+   ...:  :
+4  QQSFPQQ 10"
+>LYSC_CHICK	147	 gamma-gliadin of GDB2_WHEAT (SwissProt P08453 GI170738) (p141p150) 	10	28.6	71.4	7	12.3	0.25	"53 ESNFNTQ 59
+   ...:  :
+3  QQSFPQQ 9"
+>LYSC_CHICK	147	gamma-gliadin of GDB2_WHEAT (SwissProt P08453 GI170738) (p141p150; E148) 	10	28.6	71.4	7	12.4	0.24	"53 ESNFNTQ 59
+   ...:  :
+3  QQSFPEQ 9"
+>LYSC_CHICK	147	Wheat peptide W07	20	40.0	80.0	5	13.0	0.3	"93 LCNIP 97
+   .:. :
+14 FCQQP 18"
+>LYSC_CHICK	147	Wheat peptide W07	20	40.0	80.0	5	13.1	0.29	"93 LCNIP 97
+   .:. :
+14 FCQQP 18"
+>LYSC_CHICK	147	Wheat peptide W07	12	50.0	100.0	2	11.4	0.47	"24 CE 25
+   :.
+11 CQ 12"
+>LYSC_CHICK	147	Predicted gamma-gliadin	14	100.0	100.0	2	11.1	0.62	"58 TQ 59
+   ::
+5  TQ 6"
+>LYSC_CHICK	147	gamma-gliadin M36999 (p63-p76; E66)	14	50.0	100.0	2	10.6	0.73	"12 LP 13
+   .:
+10 FP 11"
+>LYSC_CHICK	147	gamma-gliadin M36999 (p63-p76; E69)	14	50.0	75.0	4	11.1	0.62	"53 ESNF 56
+   :. :
+7  EQPF 10"
+>LYSC_CHICK	147	gamma-gliadin M36999 (p63-p76; E66 and E69)	14	50.0	75.0	4	11.2	0.58	"53 ESNF 56
+   :. :
+7  EQPF 10"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80) ; gamma-gliadin M7 M36999 (61-80) homologous to DQ2-gamma-III	11	100.0	100.0	2	11.0	0.54	"58 TQ 59
+   ::
+1  TQ 2"
+>LYSC_CHICK	147	gamma-gliadin 1375 (p61-p80; E62 and E65), ; gamma-gliadin M7 M36999 (61-80) homologous to DQ2-gamma-III	11	50.0	75.0	4	11.1	0.52	"53 ESNF 56
+   :. :
+5  EQPF 8"
+>LYSC_CHICK	147	gamma-gliadin 1377 (p81-p100)	20	66.7	100.0	3	13.1	0.28	"12 LPL 14
+   ::.
+5  LPF 7"
+>LYSC_CHICK	147	gamma-gliadin (p84-p97)	14	66.7	100.0	3	12.8	0.26	"12 LPL 14
+   ::.
+2  LPF 4"
+>LYSC_CHICK	147	Glia-gamma2 (p89-p102)	10	50.0	50.0	4	11.0	0.51	"56 FNTQ 59
+   :  :
+2  FPQQ 5"
+>LYSC_CHICK	147	Glia-gamma2 (p89-p102; E92)	10	50.0	50.0	4	11.1	0.49	"56 FNTQ 59
+   :  :
+2  FPEQ 5"
+>LYSC_CHICK	147	Glia-gamma2 (p89-p102; E94)	10	50.0	75.0	4	11.0	0.51	"53 ESNF 56
+   :. :
+7  EQPF 10"
+>LYSC_CHICK	147	Glia-gamma2 (p89-p102; E92 and E94)	10	50.0	75.0	4	11.3	0.45	"53 ESNF 56
+   :. :
+7  EQPF 10"
+>LYSC_CHICK	147	CAUTION 100% match to a fungal protein and many Secalins gamma-Gliadin (p90-p102)	9	50.0	50.0	4	11.1	0.46	"56 FNTQ 59
+   :  :
+1  FPQQ 4"
+>LYSC_CHICK	147	gamma-Gliadin (p90-p102; E92)	9	50.0	50.0	4	10.9	0.5	"56 FNTQ 59
+   :  :
+1  FPEQ 4"
+>LYSC_CHICK	147	gamma-Gliadin (p90-p102; E96)	9	50.0	50.0	4	10.8	0.52	"56 FNTQ 59
+   :  :
+1  FPQQ 4"
+>LYSC_CHICK	147	gamma-Gliadin (p90-p102; E92 and E96)	9	50.0	50.0	4	11.0	0.47	"56 FNTQ 59
+   :  :
+1  FPEQ 4"
+>LYSC_CHICK	147	gamma-gliadin 1378 (p91-p110),  ; gamma-gliadin M10 M36999 (91-110) homologous to DQ2-alpha-I  	20	50.0	75.0	4	12.5	0.4	"88 PGSR 91
+   : :.
+16 PQSQ 19"
+>LYSC_CHICK	147	Wheat peptide W36	20	44.4	88.9	9	15.1	0.081	"1 MRSLLILVL 9
+  .:::.. .:
+9 IRSLVLRTL 17"
+>LYSC_CHICK	147	Wheat peptide W36	16	44.4	88.9	9	15.2	0.061	"1 MRSLLILVL 9
+  .:::.. .:
+5 IRSLVLRTL 13"
+>LYSC_CHICK	147	Wheat peptide W36	15	44.4	88.9	9	15.2	0.056	"1 MRSLLILVL 9
+  .:::.. .:
+5 IRSLVLRTL 13"
+>LYSC_CHICK	147	Wheat peptide W36	15	44.4	88.9	9	15.2	0.055	"1 MRSLLILVL 9
+  .:::.. .:
+5 IRSLVLRTL 13"
+>LYSC_CHICK	147	gamma-gliadin AAK84778 (p74-p93)	20	40.0	80.0	5	10.8	0.8	"139 QAWIR 143
+    : .:.
+2   QQFIQ 6"
+>LYSC_CHICK	147	Wheat peptide W14	12	40.0	80.0	5	11.2	0.52	"139 QAWIR 143
+    : .:.
+1   QQFIQ 5"
+>LYSC_CHICK	147	Predicted gamma-gliadin	14	100.0	100.0	2	10.9	0.65	"58 TQ 59
+   ::
+5  TQ 6"
+>LYSC_CHICK	147	gamma-gliadin 1379 (p101-p120)	20	50.0	75.0	4	12.1	0.5	"88 PGSR 91
+   : :.
+6  PQSQ 9"
+>LYSC_CHICK	147	Predicted gamma-gliadin	14	50.0	75.0	4	11.9	0.42	"88 PGSR 91
+   : :.
+3  PQSQ 6"
+>LYSC_CHICK	147	Wheat peptide W16	20	50.0	100.0	2	11.2	0.72	"12 LP 13
+   .:
+8  FP 9"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV  	20	50.0	100.0	2	11.2	0.71	"12 LP 13
+   .:
+5  FP 6"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E112) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV 	20	50.0	75.0	4	11.6	0.61	"53 ESNF 56
+   :. :
+2  EQPF 5"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E119) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV 	20	50.0	100.0	4	12.5	0.41	"53 ESNF 56
+   :..:
+9  EQQF 12"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E121) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV 	20	50.0	100.0	2	11.4	0.68	"12 LP 13
+   .:
+5  FP 6"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E126) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV 	20	50.0	100.0	2	11.3	0.7	"12 LP 13
+   .:
+5  FP 6"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E112 and E119) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV 	20	50.0	100.0	4	12.6	0.37	"53 ESNF 56
+   :..:
+9  EQQF 12"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E112 and E121) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV 	20	50.0	75.0	4	11.7	0.6	"53 ESNF 56
+   :. :
+2  EQPF 5"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E112 and E126) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV 	20	50.0	75.0	4	11.5	0.63	"53 ESNF 56
+   :. :
+2  EQPF 5"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E119 and E121) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV 	20	50.0	100.0	4	12.4	0.42	"53 ESNF 56
+   :..:
+9  EQEF 12"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E119 and E126) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV 	20	50.0	100.0	4	12.4	0.43	"53 ESNF 56
+   :..:
+9  EQQF 12"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E121 and E126) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV 	20	50.0	100.0	2	11.2	0.71	"12 LP 13
+   .:
+5  FP 6"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E112, E119 and E121) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV	20	50.0	100.0	4	12.7	0.37	"53 ESNF 56
+   :..:
+9  EQEF 12"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E112, E119 and E126) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV	20	50.0	100.0	4	12.6	0.38	"53 ESNF 56
+   :..:
+9  EQQF 12"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E112, E121 and E126) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV	20	50.0	75.0	4	11.6	0.62	"53 ESNF 56
+   :. :
+2  EQPF 5"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E119, E121 and E126) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV	20	50.0	100.0	4	12.6	0.38	"53 ESNF 56
+   :..:
+9  EQEF 12"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E112, E119, E121 and E126) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV	20	50.0	100.0	4	12.6	0.38	"53 ESNF 56
+   :..:
+9  EQEF 12"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV  ; W16	12	50.0	100.0	2	10.7	0.64	"12 LP 13
+   .:
+1  FP 2"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E115) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV  	12	50.0	100.0	4	12.2	0.3	"53 ESNF 56
+   :..:
+5  EQQF 8"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E117) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV	12	50.0	100.0	2	10.8	0.62	"12 LP 13
+   .:
+1  FP 2"
+>LYSC_CHICK	147	gamma-gliadin 1380 (p111-p130; E115 and E117) ; gamma-gliadin M12 M36999 (111-130) homologous to DQ2-gamma-IV 	12	50.0	100.0	4	12.4	0.28	"53 ESNF 56
+   :..:
+5  EQEF 8"
+>LYSC_CHICK	147	CAUTION 100% matches to 3 fungal and metazoan proteins and wheat glia-gamma 4b	9	50.0	100.0	2	10.4	0.63	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	glia-gamma 4b	9	50.0	100.0	4	12.1	0.26	"53 ESNF 56
+   :..:
+4  EQQF 7"
+>LYSC_CHICK	147	glia gamma 4b	9	50.0	100.0	2	10.6	0.58	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	glia-gamma 4b	9	50.0	100.0	4	12.3	0.24	"53 ESNF 56
+   :..:
+4  EQEF 7"
+>LYSC_CHICK	147	Wheat peptide W16	16	50.0	75.0	4	13.3	0.21	"85 GRTP 88
+   :. :
+1  GQQP 4"
+>LYSC_CHICK	147	Wheat peptide W16	13	50.0	100.0	4	12.3	0.31	"53 ESNF 56
+   :..:
+7  EQEF 10"
+>LYSC_CHICK	147	glia-alpha 1, glia-gamma 1	9	28.6	71.4	7	12.3	0.23	"53 ESNFNTQ 59
+   ...:  :
+2  QQSFPQQ 8"
+>LYSC_CHICK	147	glia-alpha1, glia-gamma1	9	28.6	71.4	7	12.4	0.22	"53 ESNFNTQ 59
+   ...:  :
+2  QQSFPQQ 8"
+>LYSC_CHICK	147	glia-alpha 1, glia-gamma 1	9	28.6	71.4	7	12.4	0.22	"53 ESNFNTQ 59
+   ...:  :
+2  QQSFPEQ 8"
+>LYSC_CHICK	147	glia-alpha1, glia-gamma1	9	28.6	71.4	7	12.4	0.21	"53 ESNFNTQ 59
+   ...:  :
+2  QQSFPEQ 8"
+>LYSC_CHICK	147	Glia-gamma30-gliadin (p222p236)	15	75.0	100.0	4	14.6	0.086	"72 GILQ 75
+   ::.:
+5  GIIQ 8"
+>LYSC_CHICK	147	Glia-gamma30-gliadin (p222236; E225)	15	75.0	100.0	4	14.6	0.087	"72 GILQ 75
+   ::.:
+5  GIIQ 8"
+>LYSC_CHICK	147	Glia-gamma30-gliadin (p222236; E231)	15	75.0	100.0	4	14.7	0.079	"72 GILQ 75
+   ::.:
+5  GIIQ 8"
+>LYSC_CHICK	147	Glia-gamma30-gliadin (p222236; E225 and E231)	15	75.0	100.0	4	14.9	0.07	"72 GILQ 75
+   ::.:
+5  GIIQ 8"
+>LYSC_CHICK	147	DQ2-y -II  y-Glia (p222p236)	15	75.0	100.0	4	14.8	0.074	"72 GILQ 75
+   ::.:
+3  GIIQ 6"
+>LYSC_CHICK	147	DQ2-y -II  y-Glia (p222p236; E229)	15	75.0	100.0	4	14.8	0.073	"72 GILQ 75
+   ::.:
+3  GIIQ 6"
+>LYSC_CHICK	147	gamma5-gliadin (p227p237) ; gamma-II epitope	11	75.0	100.0	4	15.4	0.037	"72 GILQ 75
+   ::.:
+1  GIIQ 4"
+>LYSC_CHICK	147	gamma5-gliadin (p227237; E232)	11	75.0	100.0	4	15.8	0.028	"72 GILQ 75
+   ::.:
+1  GIIQ 4"
+>LYSC_CHICK	147	gamma5-gliadin (p228237)	10	66.7	100.0	3	11.6	0.37	"73 ILQ 75
+   :.:
+1  IIQ 3"
+>LYSC_CHICK	147	gamma5-gliadin (p228237; E232)	10	66.7	100.0	3	11.7	0.36	"73 ILQ 75
+   :.:
+1  IIQ 3"
+>LYSC_CHICK	147	gamma-2 peptide 1306; Glia-gamma30-gliadin (p227-p235) minimal epitope	9	66.7	100.0	3	11.8	0.31	"73 ILQ 75
+   :.:
+1  IIQ 3"
+>LYSC_CHICK	147	gamma-2 peptide 1306; Glia-gamma30-gliadin (p228-p235; E232) minimal epitope	9	66.7	100.0	3	12.0	0.28	"73 ILQ 75
+   :.:
+1  IIQ 3"
+>LYSC_CHICK	147	glia-gamma 2	9	50.0	100.0	2	9.4	0.86	"138 VQ 139
+    .:
+1   IQ 2"
+>LYSC_CHICK	147	glia-gamma 2	9	50.0	100.0	2	9.4	0.86	"138 VQ 139
+    .:
+1   IQ 2"
+>LYSC_CHICK	147	gamma-gliadin 1381 (p121-p140) ; gamma-gliadin M13 M36999 (121-140) identical to DQ2-gamma-I   	20	28.6	71.4	7	12.3	0.45	"53 ESNFNTQ 59
+   ...:  :
+9  QQSFPQQ 15"
+>LYSC_CHICK	147	DQ2-gamma-I  gamma-Glia (p139 p153)	15	28.6	71.4	7	12.3	0.35	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPQQ 11"
+>LYSC_CHICK	147	DQ2-gamma-I  gamma-Glia (p139 p153; E147)	15	28.6	71.4	7	12.4	0.34	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	DQ2-gamma-I  gamma-Glia (p139 p153; E150)	15	28.6	71.4	7	12.3	0.35	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPQQ 11"
+>LYSC_CHICK	147	DQ2-gamma-I  gamma-Glia (p139 p153; E147 and E150)	15	28.6	71.4	7	12.4	0.33	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	gamma-gliadin 1382 (p131-p150)	20	37.5	50.0	8	11.9	0.54	"55 NFNTQATN 62
+   .:  :  :
+12 SFLQQQMN 19"
+>LYSC_CHICK	147	gamma-gliadin 1383 (p141-p160)	20	50.0	83.3	6	14.4	0.12	"97 PCSALL 102
+   ::. .:
+10 PCKNFL 15"
+>LYSC_CHICK	147	gamma-gliadin 1388 (p201-p220)	20	66.7	100.0	3	11.8	0.57	"73 ILQ 75
+   :.:
+9  IMQ 11"
+>LYSC_CHICK	147	gamma-gliadin M23 M36999 (221-240) homologous to DQ2-gamma-II   	20	40.0	70.0	10	14.2	0.15	"13 PLAALGKVFG 22
+   ::  :.. .:
+3  PLFQLAQGLG 12"
+>LYSC_CHICK	147	gamma-gliadin 1391 (p231-p250) ; gamma-gliadin M24 M36999 (231-250) identical to DQ2-gamma-II    	20	50.0	100.0	6	14.0	0.17	"1  MRSLLI 6
+   .:::..
+15 IRSLVL 20"
+>LYSC_CHICK	147	Gluten peptide #19	18	50.0	100.0	2	10.9	0.75	"96 IP 97
+   .:
+8  VP 9"
+>LYSC_CHICK	147	Predicted gamma-gliadin	14	50.0	50.0	4	11.6	0.5	"56 FNTQ 59
+   :  :
+4  FPQQ 7"
+>LYSC_CHICK	147	Glia-gamma2  in Deamidated form	14	50.0	75.0	4	11.5	0.52	"53 ESNF 56
+   :. :
+9  EQPF 12"
+>LYSC_CHICK	147	Glia-gamma2 in Deamidated form	14	50.0	75.0	4	11.4	0.54	"53 ESNF 56
+   :. :
+9  EQPF 12"
+>LYSC_CHICK	147	Glia-gamma2 in Deamidated form	14	50.0	50.0	4	11.3	0.55	"56 FNTQ 59
+   :  :
+4  FPEQ 7"
+>LYSC_CHICK	147	gamma-gliadin P08453 (p94-p113)	20	100.0	100.0	2	11.6	0.6	"58 TQ 59
+   ::
+2  TQ 3"
+>LYSC_CHICK	147	Predicted gamma-gliadin	14	40.0	60.0	5	11.7	0.46	"13 PLAAL 17
+   :.  :
+1  PFPQL 5"
+>LYSC_CHICK	147	gamma-I gliadin 1206	21	100.0	100.0	2	12.2	0.48	"12 LP 13
+   ::
+4  LP 5"
+>LYSC_CHICK	147	gamma-type gliadin of GDB2_WHEAT (SwissProt P08453) (p134p153) 	20	100.0	100.0	2	12.2	0.46	"12 LP 13
+   ::
+3  LP 4"
+>LYSC_CHICK	147	Glia-gamma1 epitope	17	28.6	71.4	7	11.7	0.52	"53 ESNFNTQ 59
+   ...:  :
+6  QQSFPQQ 12"
+>LYSC_CHICK	147	Glia-gamma1(p138-p153)	16	28.6	71.4	7	12.0	0.44	"53 ESNFNTQ 59
+   ...:  :
+6  QQSFPQQ 12"
+>LYSC_CHICK	147	Glia-gamma1 (p139p153) 	15	28.6	71.4	7	11.7	0.49	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPQQ 11"
+>LYSC_CHICK	147	Glia-gamma1 (p139p153; E148) 	15	28.6	71.4	7	11.9	0.44	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	Glia-gamma1 (p139p153; E140 and E148) 	15	28.6	71.4	7	11.8	0.45	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	Glia-gamma1 (p139p153; E148 and E150) 	15	28.6	71.4	7	11.9	0.45	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	Glia-gamma1 (p139p153; E140, E148 and E150) 	15	28.6	71.4	7	12.0	0.42	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	gamma-I, gamma-Gliadin (p139p152)	14	28.6	71.4	7	11.9	0.43	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPQQ 11"
+>LYSC_CHICK	147	gamma-Gliadin (p139p152;  E140, E148 and E150) E residues in the gliadin peptides are introduced to mimic the deamidation mediated by tissue transglutaminase.	14	28.6	71.4	7	11.9	0.41	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	gamma-gliadin (p139-p152; E148)	14	28.6	71.4	7	12.0	0.4	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	gamma-gliadin (p139-p152; E140 and E148)	14	28.6	71.4	7	12.0	0.39	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	P-3 gamma-gliadin (p139p152; K139, E140, E148 and E150)	14	28.6	71.4	7	12.1	0.38	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	P-2 gamma-gliadin  (p139p152; K140, E148 and E150)	14	28.6	71.4	7	11.9	0.42	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	P-1 gamma-gliadin  (p139p152; K141, E140, E148 and E150)	14	33.3	66.7	9	13.0	0.22	"51 KFESNFNTQ 59
+   : ...:  :
+3  KPQQSFPEQ 11"
+>LYSC_CHICK	147	P1 y-gliadin(p139p152; K142, E140, E148 and E150)	14	28.6	71.4	7	12.1	0.37	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	P2 y-gliadin (p139p152; K143, E140, E148 and E150)	14	28.6	71.4	7	11.5	0.51	"53 ESNFNTQ 59
+   ...:  :
+5  KQSFPEQ 11"
+>LYSC_CHICK	147	P4 y-gliadin (p139p152; K144, E140, E148 and E150)	14	100.0	100.0	2	11.6	0.48	"51 KF 52
+   ::
+7  KF 8"
+>LYSC_CHICK	147	P9 gamma-gliadin (p139p152; E140, E148 and K150)	14	28.6	71.4	7	11.9	0.42	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	P10 gamma-gliadin (p139p152; K151, E140, E148 and E150)	14	28.6	71.4	7	12.3	0.33	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	P11 y-gliadin (p139p152; K152, E140, E148 and E150)	14	28.6	71.4	7	12.3	0.33	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	gamma-I epitope in native form	12	28.6	71.4	7	11.7	0.4	"53 ESNFNTQ 59
+   ...:  :
+3  QQSFPQQ 9"
+>LYSC_CHICK	147	Deamidated form of gamma-I epitope	12	28.6	71.4	7	11.8	0.39	"53 ESNFNTQ 59
+   ...:  :
+3  QQSFPEQ 9"
+>LYSC_CHICK	147	Glia-alpha20	16	28.6	71.4	7	11.6	0.53	"53 ESNFNTQ 59
+   ...:  :
+1  QQSFPQQ 7"
+>LYSC_CHICK	147	gamma-gliadin AAK84772 (p130-p149)	20	66.7	100.0	3	13.0	0.29	"12 LPL 14
+   ::.
+8  LPF 10"
+>LYSC_CHICK	147	Predicted gamma-gliadin	14	50.0	100.0	2	10.9	0.66	"12 LP 13
+   .:
+2  FP 3"
+>LYSC_CHICK	147	gamma-gliadin AAK84776 (p102-p121)	20	100.0	100.0	2	12.3	0.44	"12 LP 13
+   ::
+4  LP 5"
+>LYSC_CHICK	147	gamma-gliadin AAK84772 (p121-p140)	20	100.0	100.0	2	12.4	0.43	"13 PL 14
+   ::
+15 PL 16"
+>LYSC_CHICK	147	Wheat peptide W35	20	50.0	50.0	4	11.5	0.63	"56 FNTQ 59
+   :  :
+5  FPQQ 8"
+>LYSC_CHICK	147	Wheat peptide W35	12	50.0	50.0	4	10.9	0.59	"56 FNTQ 59
+   :  :
+2  FPQQ 5"
+>LYSC_CHICK	147	Wheat peptide W31	20	100.0	100.0	2	12.3	0.44	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Wheat peptide W31	12	40.0	60.0	5	11.6	0.43	"13 PLAAL 17
+   :.  :
+2  PFPQL 6"
+>LYSC_CHICK	147	Wheat peptide W15 LMW	20	30.0	50.0	10	11.6	0.61	"79 RWWCNDGRTP 88
+   : : ..   :
+8  RPWQQQPLPP 17"
+>LYSC_CHICK	147	Wheat peptide W15 LMW	15	30.0	50.0	10	11.7	0.48	"79 RWWCNDGRTP 88
+   : : ..   :
+5  RPWQQQPLPP 14"
+>LYSC_CHICK	147	Wheat peptide W15 LMW	15	30.0	50.0	10	11.9	0.44	"79 RWWCNDGRTP 88
+   : : ..   :
+5  RPWQEQPLPP 14"
+>LYSC_CHICK	147	Wheat peptide W15 LMW	12	30.0	50.0	10	11.7	0.41	"79 RWWCNDGRTP 88
+   : : ..   :
+3  RPWQQQPLPP 12"
+>LYSC_CHICK	147	Wheat peptide W11	16	42.9	71.4	7	12.8	0.29	"53 ESNFNTQ 59
+   :..:  :
+9  EQTFPHQ 15"
+>LYSC_CHICK	147	Wheat peptide W11	15	28.6	71.4	7	11.3	0.58	"53 ESNFNTQ 59
+   ...:  :
+8  QQTFPHQ 14"
+>LYSC_CHICK	147	Wheat peptide W11	15	42.9	71.4	7	13.5	0.17	"53 ESNFNTQ 59
+   :..:  :
+8  EQTFPHQ 14"
+>LYSC_CHICK	147	Wheat peptide W11	20	28.6	71.4	7	11.5	0.64	"53 ESNFNTQ 59
+   ...:  :
+7  QQTFPHQ 13"
+>LYSC_CHICK	147	Wheat peptide W11	12	66.7	100.0	3	11.1	0.54	"139 QAW 141
+    ::.
+1   QAF 3"
+>LYSC_CHICK	147	Wheat peptide W11	12	50.0	100.0	4	11.8	0.39	"53 ESNF 56
+   :..:
+7  EQTF 10"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60)	15	100.0	100.0	2	12.1	0.4	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60; E52)	15	100.0	100.0	2	12.1	0.39	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60; E53)	15	100.0	100.0	2	12.2	0.38	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60; E55)	15	100.0	100.0	2	12.0	0.42	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60; E56)	15	100.0	100.0	2	12.0	0.41	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60; E52 and 53)	15	100.0	100.0	2	12.2	0.37	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60; E52 and 55)	15	100.0	100.0	2	12.2	0.38	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60; E52 and 56)	15	100.0	100.0	2	12.2	0.37	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60; E53 and 55)	15	100.0	100.0	2	12.2	0.38	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60; E53 and 56)	15	100.0	100.0	2	12.3	0.36	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60; E55 and 56)	15	100.0	100.0	2	12.3	0.36	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60; E52, 53 and 55)	15	100.0	100.0	2	12.4	0.34	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60; E52, 53 and 56)	15	100.0	100.0	2	12.2	0.37	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60; E53, 55 and 56)	15	100.0	100.0	2	12.2	0.37	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60; E52, 55 and 56)	15	100.0	100.0	2	12.2	0.37	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p46-p60; E52, 53, 55 and 56)	15	100.0	100.0	2	12.4	0.34	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	CAUTION 100% matches to 5 microbial proteins and to wheat proteins Glutenin-Glt-17 (p50-p58)	9	100.0	100.0	2	12.3	0.23	"13 PL 14
+   ::
+8  PL 9"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p50-p58; E52)	9	100.0	100.0	2	12.5	0.2	"13 PL 14
+   ::
+8  PL 9"
+>LYSC_CHICK	147	CAUTION 100% matches to two Pinus proteins / not wheat Glutenin-Glt-17 (p50-p58; E53)	9	100.0	100.0	2	12.6	0.2	"13 PL 14
+   ::
+8  PL 9"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p50-p58; E55)	9	100.0	100.0	2	12.4	0.22	"13 PL 14
+   ::
+8  PL 9"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p50-p58; E52 and E53)	9	100.0	100.0	2	12.7	0.17	"13 PL 14
+   ::
+8  PL 9"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p50-p58; E52 and E55)	9	100.0	100.0	2	12.5	0.2	"13 PL 14
+   ::
+8  PL 9"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p50-p58; E53 and E55)	9	100.0	100.0	2	12.8	0.17	"13 PL 14
+   ::
+8  PL 9"
+>LYSC_CHICK	147	Glutenin-Glt-17 (p50-p58; E52, E53 and E55)	9	100.0	100.0	2	12.7	0.18	"13 PL 14
+   ::
+8  PL 9"
+>LYSC_CHICK	147	Glutenin-17 epitope homolog	15	100.0	100.0	2	12.0	0.42	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-17 epitope homolog in Deamidated form	15	100.0	100.0	2	12.0	0.41	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-17 epitope homolog in Deamidated form	15	100.0	100.0	2	12.0	0.42	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glutenin-17 epitope homolog in Deamidated form	15	100.0	100.0	2	12.1	0.4	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	LMW T cell epitope	15	100.0	100.0	2	12.1	0.39	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	CAUTION 100% match to a fungal protien Hebeloma sp. & many wheat Glt-17 (Var1)	9	50.0	75.0	4	12.1	0.26	"56 FNTQ 59
+   :. :
+2  FSQQ 5"
+>LYSC_CHICK	147	Glt-17 (Var1)	9	50.0	75.0	4	12.4	0.22	"56 FNTQ 59
+   :. :
+2  FSEQ 5"
+>LYSC_CHICK	147	Glt-17 (Var1)	9	50.0	75.0	4	12.3	0.24	"56 FNTQ 59
+   :. :
+2  FSQQ 5"
+>LYSC_CHICK	147	Glt-17 (Var1)	9	50.0	75.0	4	12.5	0.2	"56 FNTQ 59
+   :. :
+2  FSEQ 5"
+>LYSC_CHICK	147	Wheat peptide W12	20	37.5	56.2	16	12.6	0.38	"19 KVF--GRCELAAAMKR 32
+   :::   .:  .:  .:
+2  KVFLQQQCSPVAMPQR 17"
+>LYSC_CHICK	147	Wheat peptide W12	16	30.0	60.0	10	11.7	0.5	"23 RCELAAAMKR 32
+   .:  .:  .:
+4  QCSPVAMPQR 13"
+>LYSC_CHICK	147	Wheat peptide W05	20	50.0	75.0	4	12.5	0.39	"56 FNTQ 59
+   :. :
+14 FSQQ 17"
+>LYSC_CHICK	147	Wheat peptide W05	20	42.9	71.4	7	14.4	0.13	"53 ESNFNTQ 59
+   :. :. :
+11 EQPFSQQ 17"
+>LYSC_CHICK	147	Wheat peptide W05	12	66.7	66.7	3	11.4	0.48	"97 PCS 99
+   : :
+9  PFS 11"
+>LYSC_CHICK	147	Wheat peptide W05	12	40.0	80.0	5	11.3	0.49	"53 ESNFN 57
+   :. :.
+7  EQPFS 11"
+>LYSC_CHICK	147	Wheat peptide W17	20	66.7	100.0	3	13.0	0.3	"12 LPL 14
+   ::.
+12 LPF 14"
+>LYSC_CHICK	147	Wheat peptide W17	15	66.7	100.0	3	12.8	0.27	"12 LPL 14
+   ::.
+11 LPF 13"
+>LYSC_CHICK	147	Wheat peptide W17	15	66.7	100.0	3	13.0	0.24	"12 LPL 14
+   ::.
+11 LPF 13"
+>LYSC_CHICK	147	Wheat peptide W17	12	100.0	100.0	2	12.0	0.35	"12 LP 13
+   ::
+11 LP 12"
+>LYSC_CHICK	147	GLT/GLIA homologue peptide 12 	15	50.0	75.0	4	12.5	0.31	"56 FNTQ 59
+   :. :
+5  FSQQ 8"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p40-p59)	20	42.9	71.4	7	14.7	0.11	"53 ESNFNTQ 59
+   .: :. :
+12 QSPFSQQ 18"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p40-p59; E48)	20	42.9	71.4	7	15.0	0.088	"53 ESNFNTQ 59
+   .: :. :
+12 QSPFSQQ 18"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p40-p59; E51)	20	57.1	71.4	7	16.7	0.027	"53 ESNFNTQ 59
+   :: :. :
+12 ESPFSQQ 18"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p40-p59; E48 and E51)	20	57.1	71.4	7	16.7	0.028	"53 ESNFNTQ 59
+   :: :. :
+12 ESPFSQQ 18"
+>LYSC_CHICK	147	Homolog of Deamidated Glt-156 minimal epitope (p40-p59)	15	50.0	75.0	4	11.5	0.54	"53 ESNF 56
+   :: .
+12 ESPY 15"
+>LYSC_CHICK	147	Homolog of Deamidated Glt-156 minimal epitope (p40-p59)	15	100.0	100.0	2	12.4	0.33	"13 PL 14
+   ::
+14 PL 15"
+>LYSC_CHICK	147	Deamidated Glt-156 minimal epitope (p40-p59)	15	75.0	75.0	4	13.5	0.18	"53 ESNF 56
+   :: :
+12 ESPF 15"
+>LYSC_CHICK	147	Glt-156 minimal epitope (p41-p55)	15	60.0	80.0	5	14.3	0.1	"53 ESNFN 57
+   :: :.
+11 ESPFS 15"
+>LYSC_CHICK	147	Glt-156 minimal epitope in considered native form	15	50.0	75.0	4	12.2	0.38	"56 FNTQ 59
+   :. :
+5  FSQQ 8"
+>LYSC_CHICK	147	Glt-156 minimal epitope in considered Deamidated form	15	60.0	80.0	5	14.1	0.12	"53 ESNFN 57
+   :: :.
+10 ESPFS 14"
+>LYSC_CHICK	147	GLT/GLIA homologue peptide 4	12	50.0	75.0	4	12.1	0.32	"56 FNTQ 59
+   :. :
+5  FSQQ 8"
+>LYSC_CHICK	147	Glt-156 minimal epitope 	15	57.1	71.4	7	16.9	0.018	"53 ESNFNTQ 59
+   :: :. :
+9  ESPFSQQ 15"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p40-p59)	14	50.0	75.0	4	12.2	0.36	"56 FNTQ 59
+   :. :
+4  FSQQ 7"
+>LYSC_CHICK	147	Glt-156 minimal epitope in considered native form	15	42.9	71.4	7	14.4	0.096	"53 ESNFNTQ 59
+   .: :. :
+8  QSPFSQQ 14"
+>LYSC_CHICK	147	Glt-156 minimal epitope in considered Deamidated form	15	57.1	71.4	7	16.9	0.018	"53 ESNFNTQ 59
+   :: :. :
+8  ESPFSQQ 14"
+>LYSC_CHICK	147	Glt-156 minimal epitope in considered native form	15	42.9	71.4	7	14.9	0.067	"53 ESNFNTQ 59
+   .: :. :
+7  QSPFSQQ 13"
+>LYSC_CHICK	147	Glt-156 minimal epitope in considered Deamidated form	15	57.1	71.4	7	17.9	0.0088	"53 ESNFNTQ 59
+   :: :. :
+7  ESPFSQQ 13"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p45-p54) minimal epitope	10	50.0	75.0	4	12.1	0.29	"56 FNTQ 59
+   :. :
+2  FSQQ 5"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p45-p54; E48) minimal epitope	10	50.0	75.0	4	12.2	0.27	"56 FNTQ 59
+   :. :
+2  FSEQ 5"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p45-p54; E49) minimal epitope	10	50.0	75.0	4	11.1	0.5	"53 ESNF 56
+   .: :
+7  QSPF 10"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p45-p54; E51) minimal epitope	10	75.0	75.0	4	13.2	0.14	"53 ESNF 56
+   :: :
+7  ESPF 10"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p45-p54; E48 and E51) minimal epitope	10	75.0	75.0	4	13.5	0.12	"53 ESNF 56
+   :: :
+7  ESPF 10"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p45-p54; E48 and E49) minimal epitope	10	50.0	75.0	4	11.1	0.49	"53 ESNF 56
+   .: :
+7  QSPF 10"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p45-p54; E49 and E49) minimal epitope	10	75.0	75.0	4	13.5	0.12	"53 ESNF 56
+   :: :
+7  ESPF 10"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p45-p54; E48, E49 and E51) minimal epitope	10	75.0	75.0	4	13.9	0.092	"53 ESNF 56
+   :: :
+7  ESPF 10"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p46-p54)	9	50.0	75.0	4	12.2	0.25	"56 FNTQ 59
+   :. :
+1  FSQQ 4"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p46-p54; E48)	9	50.0	75.0	4	12.5	0.21	"56 FNTQ 59
+   :. :
+1  FSEQ 4"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p46-p54; E51)	9	75.0	75.0	4	13.5	0.11	"53 ESNF 56
+   :: :
+6  ESPF 9"
+>LYSC_CHICK	147	LMW glutenin-glt-156 (p46-p54; E48 and E51)	9	75.0	75.0	4	13.8	0.089	"53 ESNF 56
+   :: :
+6  ESPF 9"
+>LYSC_CHICK	147	GLT/GLIA homologue peptide 13	15	50.0	75.0	4	12.3	0.35	"56 FNTQ 59
+   :. :
+5  FSQQ 8"
+>LYSC_CHICK	147	Gluten peptide #25	19	50.0	50.0	4	11.1	0.72	"56 FNTQ 59
+   :  :
+7  FPQQ 10"
+>LYSC_CHICK	147	14-mer-2 gamma-Glia (p173p186)	14	100.0	100.0	2	11.8	0.44	"13 PL 14
+   ::
+12 PL 13"
+>LYSC_CHICK	147	14-mer-2 gamma-Glia (p173p186) in Deamidated form	14	100.0	100.0	2	12.0	0.41	"13 PL 14
+   ::
+12 PL 13"
+>LYSC_CHICK	147	GLT/GLIA homologue peptide 17	15	100.0	100.0	2	12.0	0.41	"12 LP 13
+   ::
+13 LP 14"
+>LYSC_CHICK	147	Glt-156 homolog	14	100.0	100.0	2	11.9	0.41	"12 LP 13
+   ::
+12 LP 13"
+>LYSC_CHICK	147	Glt-156 homolog in Deamidated form	14	100.0	100.0	2	11.9	0.41	"12 LP 13
+   ::
+12 LP 13"
+>LYSC_CHICK	147	GLT/GLIA homologue peptide 16	15	50.0	75.0	4	12.1	0.39	"56 FNTQ 59
+   :. :
+5  FSQQ 8"
+>LYSC_CHICK	147	Glt-156 homolog	14	50.0	75.0	4	12.0	0.4	"56 FNTQ 59
+   :. :
+4  FSQQ 7"
+>LYSC_CHICK	147	Glt-156 homolog in Deamidated form	14	66.7	66.7	3	11.2	0.57	"97 PCS 99
+   : :
+3  PFS 5"
+>LYSC_CHICK	147	Wheat peptide W21 HMW	20	50.0	75.0	4	13.3	0.26	"85 GRTP 88
+   :. :
+17 GQQP 20"
+>LYSC_CHICK	147	Wheat peptide W21 HMW	16	66.7	100.0	3	11.7	0.51	"39 RGY 41
+   .::
+4  QGY 6"
+>LYSC_CHICK	147	Wheat peptide W21 HMW	16	33.3	83.3	6	12.3	0.37	"36 DNYRGY 41
+   .. .::
+1  EGQQGY 6"
+>LYSC_CHICK	147	Naturally occurring glutenins p722-p736 (homolog of glt04) 	15	50.0	50.0	6	12.3	0.35	"85 GRTPGS 90
+   :  : :
+4  GYYPTS 9"
+>LYSC_CHICK	147	Naturally occurring glutenins p722-p736 (homolog of glt04) 	15	100.0	100.0	2	12.5	0.32	"88 PG 89
+   ::
+13 PG 14"
+>LYSC_CHICK	147	Naturally occurring glutenins p722-p736 (homolog of glt04) 	15	66.7	100.0	3	11.9	0.45	"39 RGY 41
+   .::
+3  QGY 5"
+>LYSC_CHICK	147	Wheat peptide W29	20	28.6	100.0	7	12.3	0.44	"120 GNGMNAW 126
+    :.:....
+1   GQGQSGY 7"
+>LYSC_CHICK	147	Wheat peptide W29	16	28.6	100.0	7	12.3	0.37	"120 GNGMNAW 126
+    :.:....
+1   GQGQSGY 7"
+>LYSC_CHICK	147	Wheat peptide W24 HMW	20	33.3	50.0	12	12.5	0.4	"88 PGSRNLCNIPCS 99
+   ::. .    : :
+1  PGQGQSGYYPTS 12"
+>LYSC_CHICK	147	Wheat peptide W24 HMW	16	33.3	50.0	12	12.7	0.29	"88 PGSRNLCNIPCS 99
+   ::. .    : :
+1  PGQGQSGYYPTS 12"
+>LYSC_CHICK	147	Naturally occurring glutenins (p722-p736) (homolog of glt04) 	15	50.0	50.0	6	12.3	0.36	"85 GRTPGS 90
+   :  : :
+4  GYYPTS 9"
+>LYSC_CHICK	147	Naturally occurring glutenins (p722-p736) (homolog of glt04) 	15	66.7	100.0	3	11.9	0.44	"39 RGY 41
+   .::
+3  QGY 5"
+>LYSC_CHICK	147	Naturally occurring glutenins (p722-p736) (homolog of glt04) 	15	50.0	50.0	6	12.3	0.35	"85 GRTPGS 90
+   :  : :
+4  GYYPTS 9"
+>LYSC_CHICK	147	Wheat peptide W22 HMW	20	33.3	50.0	12	12.3	0.44	"88 PGSRNLCNIPCS 99
+   ::. .    : :
+3  PGQGQPGYYPTS 14"
+>LYSC_CHICK	147	Wheat peptide W22 HMW	16	100.0	100.0	2	12.2	0.38	"88 PG 89
+   ::
+4  PG 5"
+>LYSC_CHICK	147	Naturally occurring glutenins (p722-p736) (homolog of glt04) 	15	100.0	100.0	2	12.2	0.37	"88 PG 89
+   ::
+3  PG 4"
+>LYSC_CHICK	147	Naturally occurring glutenins (p722-p736) (homolog of glt04)	15	100.0	100.0	2	12.5	0.32	"88 PG 89
+   ::
+3  PG 4"
+>LYSC_CHICK	147	Naturally occurring glutenins (p722-p736) (homolog of glt04) 	15	100.0	100.0	2	12.1	0.39	"88 PG 89
+   ::
+3  PG 4"
+>LYSC_CHICK	147	Naturally occurring glutenins p722-p736 (homolog of glt04) 	15	40.0	60.0	10	12.7	0.28	"34 GLDNYRGYSL 43
+   : ..:   ::
+1  GQQGYYPTSL 10"
+>LYSC_CHICK	147	HMW glutenin-glt04 (p707p742)	36	13.8	62.1	29	15.8	0.091	"39 RGYSLGNWVCAAKFESNFNTQATNRNTDGS 67
+   .:   :.:.  .. ....   . ... .: 
+3  QGQRPGQWLQPGQGQQGYYPTSPQQSGQGQ 31"
+>LYSC_CHICK	147	HMW glutenin-glt04 (p719p736)	18	33.3	50.0	12	13.2	0.24	"88 PGSRNLCNIPCS 99
+   ::. .    : :
+1  PGQGQQGYYPTS 12"
+>LYSC_CHICK	147	glt04 (p722-p736)	15	50.0	50.0	6	12.2	0.38	"85 GRTPGS 90
+   :  : :
+4  GYYPTS 9"
+>LYSC_CHICK	147	glt04 (p722-p735)	14	50.0	50.0	6	12.4	0.32	"85 GRTPGS 90
+   :  : :
+4  GYYPTS 9"
+>LYSC_CHICK	147	glt04 (p722-p734)	13	50.0	50.0	6	12.6	0.27	"85 GRTPGS 90
+   :  : :
+4  GYYPTS 9"
+>LYSC_CHICK	147	glt04 (p723-p736)	14	50.0	50.0	6	12.6	0.28	"85 GRTPGS 90
+   :  : :
+3  GYYPTS 8"
+>LYSC_CHICK	147	glt04 (p723-p735)	13	50.0	50.0	6	12.7	0.25	"85 GRTPGS 90
+   :  : :
+3  GYYPTS 8"
+>LYSC_CHICK	147	glt04 (p723-p735; E724)	13	42.9	57.1	7	13.9	0.11	"84 DGRTPGS 90
+   .:  : :
+2  EGYYPTS 8"
+>LYSC_CHICK	147	glt04 (p723-p734)	12	50.0	50.0	6	13.0	0.19	"85 GRTPGS 90
+   :  : :
+3  GYYPTS 8"
+>LYSC_CHICK	147	glt04 (p724p735)	12	50.0	50.0	6	12.7	0.23	"85 GRTPGS 90
+   :  : :
+2  GYYPTS 7"
+>LYSC_CHICK	147	HMW glutenin (p724-p734)	11	50.0	50.0	6	13.1	0.16	"85 GRTPGS 90
+   :  : :
+2  GYYPTS 7"
+>LYSC_CHICK	147	glt04 (p725-p735)	11	50.0	50.0	6	12.7	0.22	"85 GRTPGS 90
+   :  : :
+1  GYYPTS 6"
+>LYSC_CHICK	147	Naturally occurring glutenins (p722-p736) (homolog of glt04) 	15	100.0	100.0	2	12.4	0.34	"88 PG 89
+   ::
+13 PG 14"
+>LYSC_CHICK	147	Naturally occurring glutenins (p722-p736) (homolog of glt04) 	15	50.0	50.0	6	12.4	0.33	"85 GRTPGS 90
+   :  : :
+4  GYYPTS 9"
+>LYSC_CHICK	147	Naturally occurring glutenins (p722-p736) (homolog of glt04) 	15	50.0	50.0	6	12.3	0.36	"85 GRTPGS 90
+   :  : :
+4  GYYPTS 9"
+>LYSC_CHICK	147	Naturally occurring glutenins (p722-p736) (homolog of glt04) 	15	100.0	100.0	2	12.4	0.34	"88 PG 89
+   ::
+13 PG 14"
+>LYSC_CHICK	147	Naturally occurring glutenins (p722-p736) (homolog of glt04) 	15	57.1	57.1	7	13.6	0.16	"97 PCSALLS 103
+   : : : :
+7  PTSPLQS 13"
+>LYSC_CHICK	147	Naturally occurring glutenins (p722-p736) (homolog of glt04) 	15	57.1	57.1	7	13.8	0.15	"97 PCSALLS 103
+   : :  ::
+7  PTSPQLS 13"
+>LYSC_CHICK	147	Naturally occurring glutenins (p722-p736) (homolog of glt04) 	15	50.0	50.0	6	12.5	0.31	"85 GRTPGS 90
+   :  : :
+4  GYYPTS 9"
+>LYSC_CHICK	147	Naturally occurring glutenins (p722-p736) (homolog of glt04) 	15	100.0	100.0	2	12.3	0.35	"88 PG 89
+   ::
+13 PG 14"
+>LYSC_CHICK	147	Barley peptide B04, B17	20	50.0	100.0	2	12.1	0.49	"96 IP 97
+   .:
+13 VP 14"
+>LYSC_CHICK	147	Barley peptide B17	16	50.0	100.0	2	12.2	0.4	"96 IP 97
+   .:
+12 VP 13"
+>LYSC_CHICK	147	Barley peptide B04	12	50.0	100.0	2	10.6	0.69	"96 IP 97
+   .:
+5  VP 6"
+>LYSC_CHICK	147	Barley peptide B05, B08 in native form	20	100.0	100.0	2	12.5	0.39	"96 IP 97
+   ::
+9  IP 10"
+>LYSC_CHICK	147	Barley peptide B05, B08 in Deamidated form	20	100.0	100.0	2	12.6	0.38	"96 IP 97
+   ::
+9  IP 10"
+>LYSC_CHICK	147	Barley peptide B05	16	100.0	100.0	2	12.5	0.33	"96 IP 97
+   ::
+9  IP 10"
+>LYSC_CHICK	147	Barley peptide B05	16	100.0	100.0	2	12.5	0.34	"96 IP 97
+   ::
+9  IP 10"
+>LYSC_CHICK	147	Barley peptide B06	20	50.0	75.0	4	12.7	0.36	"56 FNTQ 59
+   :. :
+6  FSQQ 9"
+>LYSC_CHICK	147	Barley peptide B06	20	50.0	75.0	4	12.7	0.36	"56 FNTQ 59
+   :. :
+6  FSQQ 9"
+>LYSC_CHICK	147	Barley peptide B06	12	100.0	100.0	2	12.4	0.28	"96 IP 97
+   ::
+5  IP 6"
+>LYSC_CHICK	147	Barley peptide B06	12	100.0	100.0	2	12.3	0.29	"96 IP 97
+   ::
+5  IP 6"
+>LYSC_CHICK	147	Barley peptide B18	20	66.7	100.0	3	13.0	0.31	"12 LPL 14
+   .::
+10 IPL 12"
+>LYSC_CHICK	147	Barley peptide B18	12	66.7	100.0	3	13.0	0.19	"12 LPL 14
+   .::
+10 IPL 12"
+>LYSC_CHICK	147	Barley peptide B13	20	28.6	57.1	7	12.2	0.46	"88 PGSRNLC 94
+   : .  .:
+12 PQQPPFC 18"
+>LYSC_CHICK	147	Barley peptide B13	16	50.0	50.0	4	11.2	0.63	"56 FNTQ 59
+   :  :
+11 FPQQ 14"
+>LYSC_CHICK	147	Barley peptide B09, B12, B30	20	50.0	50.0	4	11.6	0.6	"56 FNTQ 59
+   :  :
+4  FPQQ 7"
+>LYSC_CHICK	147	Barley peptide B09	16	50.0	50.0	4	11.4	0.57	"56 FNTQ 59
+   :  :
+4  FPQQ 7"
+>LYSC_CHICK	147	Barley peptide B30	11	50.0	50.0	4	11.2	0.5	"56 FNTQ 59
+   :  :
+4  FPQQ 7"
+>LYSC_CHICK	147	Barley peptide B12	16	50.0	50.0	4	11.3	0.61	"56 FNTQ 59
+   :  :
+5  FPQQ 8"
+>LYSC_CHICK	147	Barley peptide B11	20	66.7	66.7	3	13.2	0.27	"11 FLP 13
+   : :
+17 FQP 19"
+>LYSC_CHICK	147	Barley peptide B11	12	100.0	100.0	1	10.3	0.76	"13 P 13
+   :
+2  P 2"
+>LYSC_CHICK	147	Glu-21 in considered native form	21	66.7	66.7	3	12.8	0.34	"11 FLP 13
+   : :
+16 FQP 18"
+>LYSC_CHICK	147	Barley peptide B03	20	100.0	100.0	2	12.3	0.44	"96 IP 97
+   ::
+13 IP 14"
+>LYSC_CHICK	147	Barley peptide B03	16	30.8	46.2	13	13.7	0.16	"85 GRTPGSRNLCNIP 97
+   :. :  .    ::
+1  GQQPFPQPEQPIP 13"
+>LYSC_CHICK	147	Barley peptide B03	12	100.0	100.0	2	12.1	0.33	"96 IP 97
+   ::
+10 IP 11"
+>LYSC_CHICK	147	Barley peptide B03	12	100.0	100.0	2	12.3	0.3	"96 IP 97
+   ::
+10 IP 11"
+>LYSC_CHICK	147	Barley peptide B02	20	66.7	100.0	3	11.3	0.68	"12 LPL 14
+   .::
+14 FPL 16"
+>LYSC_CHICK	147	Barley peptide B02	20	66.7	100.0	3	11.3	0.69	"12 LPL 14
+   .::
+14 FPL 16"
+>LYSC_CHICK	147	Barley peptide B02	16	50.0	75.0	4	13.2	0.22	"85 GRTP 88
+   :. :
+1  GQQP 4"
+>LYSC_CHICK	147	Barley peptide B02	12	66.7	100.0	3	12.7	0.23	"12 LPL 14
+   .::
+10 FPL 12"
+>LYSC_CHICK	147	Barley peptide B02	12	66.7	100.0	3	12.8	0.22	"12 LPL 14
+   .::
+10 FPL 12"
+>LYSC_CHICK	147	Barley peptide B19	20	50.0	100.0	2	11.3	0.69	"129 WR 130
+    :.
+10  WQ 11"
+>LYSC_CHICK	147	Barley peptide B26	20	66.7	100.0	3	12.5	0.41	"12 LPL 14
+   .::
+6  FPL 8"
+>LYSC_CHICK	147	Barley peptide B26	12	66.7	100.0	3	11.6	0.44	"12 LPL 14
+   .::
+2  FPL 4"
+>LYSC_CHICK	147	Barley peptide B29	20	66.7	100.0	3	12.4	0.42	"12 LPL 14
+   .::
+16 FPL 18"
+>LYSC_CHICK	147	Barley peptide B29	16	50.0	100.0	4	12.8	0.29	"40 GYSL 43
+   :.:.
+1  GFSF 4"
+>LYSC_CHICK	147	Barley peptide B14	20	14.3	85.7	7	10.6	0.84	"53 ESNFNTQ 59
+   .... .:
+5  QQSYPVQ 11"
+>LYSC_CHICK	147	Barley peptide B14	16	100.0	100.0	2	12.9	0.27	"88 PG 89
+   ::
+15 PG 16"
+>LYSC_CHICK	147	Barley peptide B14	12	100.0	100.0	2	10.5	0.7	"138 VQ 139
+    ::
+4   VQ 5"
+>LYSC_CHICK	147	Barley peptide B14	12	50.0	75.0	4	10.6	0.67	"53 ESNF 56
+   :. :
+7  EQPF 10"
+>LYSC_CHICK	147	Barley peptide B29	12	66.7	100.0	3	12.4	0.27	"12 LPL 14
+   .::
+10 FPL 12"
+>LYSC_CHICK	147	Barley peptide B29	12	66.7	100.0	3	12.4	0.27	"12 LPL 14
+   .::
+10 FPL 12"
+>LYSC_CHICK	147	Wheat peptide W19	16	100.0	100.0	2	11.6	0.52	"88 PG 89
+   ::
+15 PG 16"
+>LYSC_CHICK	147	Barley peptide B15	20	100.0	100.0	2	12.5	0.4	"96 IP 97
+   ::
+13 IP 14"
+>LYSC_CHICK	147	Barley peptide B15	12	100.0	100.0	2	12.2	0.32	"96 IP 97
+   ::
+10 IP 11"
+>LYSC_CHICK	147	Hor-I	9	100.0	100.0	2	12.1	0.26	"96 IP 97
+   ::
+2  IP 3"
+>LYSC_CHICK	147	Hor-I 	9	100.0	100.0	2	12.3	0.23	"96 IP 97
+   ::
+2  IP 3"
+>LYSC_CHICK	147	Barley peptide B16	20	100.0	100.0	2	12.6	0.37	"96 IP 97
+   ::
+10 IP 11"
+>LYSC_CHICK	147	Barley peptide B16	11	100.0	100.0	2	12.1	0.31	"96 IP 97
+   ::
+9  IP 10"
+>LYSC_CHICK	147	Barley peptide B08	16	100.0	100.0	2	12.6	0.32	"96 IP 97
+   ::
+5  IP 6"
+>LYSC_CHICK	147	Barley peptide B08	16	100.0	100.0	2	12.5	0.33	"96 IP 97
+   ::
+5  IP 6"
+>LYSC_CHICK	147	Barley peptide B08	16	100.0	100.0	2	12.5	0.34	"96 IP 97
+   ::
+6  IP 7"
+>LYSC_CHICK	147	Barley peptide B08	16	100.0	100.0	2	12.7	0.3	"96 IP 97
+   ::
+6  IP 7"
+>LYSC_CHICK	147	Hordein core epitope in native form	9	66.7	66.7	3	11.7	0.32	"11 FLP 13
+   : :
+1  FPP 3"
+>LYSC_CHICK	147	Hordein core epitope in demainated form	9	66.7	66.7	3	11.8	0.31	"11 FLP 13
+   : :
+1  FPP 3"
+>LYSC_CHICK	147	Barley peptide B21, B25	20	50.0	50.0	4	11.4	0.67	"56 FNTQ 59
+   :  :
+17 FRQQ 20"
+>LYSC_CHICK	147	Barley peptide B21 	20	42.9	57.1	7	13.2	0.27	"53 ESNFNTQ 59
+   :. :  :
+14 EQPFRQQ 20"
+>LYSC_CHICK	147	alpha9-Hordein in native form	14	50.0	100.0	2	10.4	0.78	"12 LP 13
+   .:
+5  FP 6"
+>LYSC_CHICK	147	alpha9-Hordein in Deamidated form	14	50.0	75.0	4	10.7	0.71	"53 ESNF 56
+   :. :
+9  EQPF 12"
+>LYSC_CHICK	147	Barley peptide B21	13	50.0	100.0	2	10.1	0.83	"12 LP 13
+   .:
+4  FP 5"
+>LYSC_CHICK	147	Barley peptide B21	13	50.0	75.0	4	10.4	0.77	"53 ESNF 56
+   :. :
+8  EQPF 11"
+>LYSC_CHICK	147	Hordein/Secalin	9	50.0	100.0	2	10.2	0.67	"12 LP 13
+   .:
+2  FP 3"
+>LYSC_CHICK	147	Hordein/Secalin	9	50.0	75.0	4	10.8	0.53	"53 ESNF 56
+   :. :
+6  EQPF 9"
+>LYSC_CHICK	147	Barley peptide B22	20	66.7	66.7	3	13.4	0.24	"11 FLP 13
+   : :
+5  FQP 7"
+>LYSC_CHICK	147	Barley peptide B22	12	66.7	66.7	3	12.7	0.23	"11 FLP 13
+   : :
+4  FQP 6"
+>LYSC_CHICK	147	Barley peptide B27	20	66.7	100.0	3	11.8	0.56	"12 LPL 14
+   .::
+17 FPL 19"
+>LYSC_CHICK	147	Barley peptide B27	13	66.7	100.0	3	11.9	0.4	"12 LPL 14
+   .::
+10 FPL 12"
+>LYSC_CHICK	147	Barley peptide B23, B24	20	66.7	100.0	3	12.4	0.41	"12 LPL 14
+   .::
+9  FPL 11"
+>LYSC_CHICK	147	Barley peptide B23	16	66.7	100.0	3	12.4	0.35	"12 LPL 14
+   .::
+9  FPL 11"
+>LYSC_CHICK	147	Barley peptide B24	16	66.7	100.0	3	12.8	0.28	"12 LPL 14
+   .::
+8  FPL 10"
+>LYSC_CHICK	147	Barley peptide B10	20	33.3	100.0	3	11.6	0.62	"128 AWR 130
+    .:.
+16  SWQ 18"
+>LYSC_CHICK	147	Barley peptide B10	20	42.9	71.4	7	11.7	0.6	"53 ESNFNTQ 59
+   :. :. :
+12 EQPFSWQ 18"
+>LYSC_CHICK	147	Barley peptide B10	12	50.0	100.0	2	10.8	0.64	"45 NW 46
+   .:
+11 SW 12"
+>LYSC_CHICK	147	Barley peptide B10	12	50.0	100.0	2	10.6	0.67	"45 NW 46
+   .:
+11 SW 12"
+>LYSC_CHICK	147	Barley peptide B28	20	66.7	100.0	3	12.7	0.36	"12 LPL 14
+   .::
+13 FPL 15"
+>LYSC_CHICK	147	Barley peptide B28	12	66.7	100.0	3	12.5	0.25	"12 LPL 14
+   .::
+10 FPL 12"
+>LYSC_CHICK	147	Barley peptide B20	20	66.7	100.0	3	12.8	0.34	"12 LPL 14
+   .::
+4  FPL 6"
+>LYSC_CHICK	147	Wheat peptide W26	16	100.0	100.0	2	13.0	0.25	"88 PG 89
+   ::
+15 PG 16"
+>LYSC_CHICK	147	Wheat peptide W26	12	66.7	100.0	3	12.6	0.25	"12 LPL 14
+   .::
+2  FPL 4"
+>LYSC_CHICK	147	Barley peptide B07	20	50.0	50.0	4	11.3	0.69	"56 FNTQ 59
+   :  :
+13 FPQQ 16"
+>LYSC_CHICK	147	alpha2-Hordein in native form	14	50.0	50.0	4	11.1	0.6	"56 FNTQ 59
+   :  :
+10 FPQQ 13"
+>LYSC_CHICK	147	alpha2-Hordein in Deamidated form	14	50.0	50.0	4	11.2	0.59	"56 FNTQ 59
+   :  :
+10 FPQQ 13"
+>LYSC_CHICK	147	alpha2-Hordein in Deamidated form	14	42.9	57.1	7	13.1	0.21	"53 ESNFNTQ 59
+   :. :  :
+7  EQPFPQQ 13"
+>LYSC_CHICK	147	alpha2-Hordein in Deamidated form	14	42.9	57.1	7	13.0	0.22	"53 ESNFNTQ 59
+   :. :  :
+7  EQPFPQQ 13"
+>LYSC_CHICK	147	Barley peptide B07	12	50.0	100.0	2	10.6	0.69	"12 LP 13
+   .:
+3  FP 4"
+>LYSC_CHICK	147	Hordein/Secalin	9	50.0	100.0	2	10.3	0.65	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	Hordein/Secalin	9	50.0	75.0	4	10.9	0.49	"53 ESNF 56
+   :. :
+4  EQPF 7"
+>LYSC_CHICK	147	Rye peptide R05	16	42.9	57.1	7	12.0	0.44	"53 ESNFNTQ 59
+   :. :  :
+9  EQPFPQQ 15"
+>LYSC_CHICK	147	Rye peptide R05, R26	20	50.0	100.0	2	10.9	0.78	"13 PL 14
+   :.
+3  PI 4"
+>LYSC_CHICK	147	Rye peptide R05	12	50.0	100.0	2	10.1	0.79	"13 PL 14
+   :.
+3  PI 4"
+>LYSC_CHICK	147	Rye peptide R05	12	50.0	100.0	2	10.3	0.75	"13 PL 14
+   :.
+3  PI 4"
+>LYSC_CHICK	147	Rye peptide R12	20	100.0	100.0	3	14.4	0.12	"12 LPL 14
+   :::
+16 LPL 18"
+>LYSC_CHICK	147	Rye peptide R12	16	100.0	100.0	3	14.1	0.13	"12 LPL 14
+   :::
+12 LPL 14"
+>LYSC_CHICK	147	Rye peptide R12	12	100.0	100.0	3	14.5	0.073	"12 LPL 14
+   :::
+10 LPL 12"
+>LYSC_CHICK	147	Rye peptide R12	12	100.0	100.0	3	14.7	0.064	"12 LPL 14
+   :::
+10 LPL 12"
+>LYSC_CHICK	147	Rye peptide R29	20	100.0	100.0	2	12.0	0.51	"87 TP 88
+   ::
+2  TP 3"
+>LYSC_CHICK	147	Rye peptide R29	12	50.0	100.0	2	9.9	0.85	"12 LP 13
+   .:
+2  FP 3"
+>LYSC_CHICK	147	gamma1-Secalin in native form	9	28.6	71.4	7	12.1	0.26	"53 ESNFNTQ 59
+   ...:  :
+2  QQSFPQQ 8"
+>LYSC_CHICK	147	gamma1-Secalin in Deamidated form	9	28.6	71.4	7	12.1	0.25	"53 ESNFNTQ 59
+   ...:  :
+2  QQSFPEQ 8"
+>LYSC_CHICK	147	Rye peptide R10	20	40.0	100.0	5	13.2	0.27	"114 KKIVS 118
+    ..:.:
+14  EQIIS 18"
+>LYSC_CHICK	147	Rye peptide R10	12	40.0	100.0	5	12.2	0.31	"114 KKIVS 118
+    ..:.:
+7   EQIIS 11"
+>LYSC_CHICK	147	Rye peptide R25	20	40.0	100.0	5	12.5	0.39	"114 KKIVS 118
+    ..:.:
+6   EQIIS 10"
+>LYSC_CHICK	147	Rye peptide R25	15	40.0	100.0	5	12.4	0.33	"114 KKIVS 118
+    ..:.:
+2   EQIIS 6"
+>LYSC_CHICK	147	Rye peptide R22	20	50.0	100.0	4	12.9	0.32	"11 FLPL 14
+   ..::
+4  LFPL 7"
+>LYSC_CHICK	147	Rye peptide R22	11	50.0	100.0	4	12.8	0.2	"11 FLPL 14
+   ..::
+1  LFPL 4"
+>LYSC_CHICK	147	alpha9-Secalin in native form	14	50.0	100.0	2	11.0	0.64	"12 LP 13
+   .:
+5  FP 6"
+>LYSC_CHICK	147	alpha9-Secalin in Deamidated form	14	50.0	75.0	4	11.3	0.56	"53 ESNF 56
+   :. :
+2  EQPF 5"
+>LYSC_CHICK	147	alpha9-Secalin in Deamidated form	14	50.0	75.0	4	11.3	0.56	"53 ESNF 56
+   :. :
+9  EQPF 12"
+>LYSC_CHICK	147	alpha9-Secalin in Deamidated form	14	50.0	75.0	4	11.3	0.55	"53 ESNF 56
+   :. :
+2  EQPF 5"
+>LYSC_CHICK	147	alpha2-Secalin in native form	14	50.0	75.0	4	12.1	0.38	"88 PGSR 91
+   : :.
+11 PQSQ 14"
+>LYSC_CHICK	147	alpha2-Secalin in Deamidated form	14	50.0	75.0	4	12.1	0.37	"88 PGSR 91
+   : :.
+11 PQSQ 14"
+>LYSC_CHICK	147	Rye peptide R21	20	37.5	62.5	8	13.5	0.23	"122 GMNAWVAW 129
+    : .. : :
+5   GPSGQVEW 12"
+>LYSC_CHICK	147	Rye peptide R21	16	37.5	62.5	8	12.7	0.31	"122 GMNAWVAW 129
+    : .. : :
+5   GPSGEVEW 12"
+>LYSC_CHICK	147	Rye peptide R21	12	37.5	62.5	8	13.6	0.13	"122 GMNAWVAW 129
+    : .. : :
+3   GPSGQVEW 10"
+>LYSC_CHICK	147	Rye peptide R21	12	37.5	62.5	8	12.8	0.22	"122 GMNAWVAW 129
+    : .. : :
+3   GPSGEVEW 10"
+>LYSC_CHICK	147	Rye peptide R13, R28	20	50.0	50.0	4	11.5	0.65	"56 FNTQ 59
+   :  :
+13 FPQQ 16"
+>LYSC_CHICK	147	Rye peptide R13	16	42.9	57.1	7	12.2	0.39	"53 ESNFNTQ 59
+   :. :  :
+9  EQPFPQQ 15"
+>LYSC_CHICK	147	Rye peptide R13	12	50.0	100.0	2	10.5	0.7	"12 LP 13
+   .:
+10 FP 11"
+>LYSC_CHICK	147	Rye peptide R13	12	50.0	75.0	4	11.2	0.53	"53 ESNF 56
+   :. :
+7  EQPF 10"
+>LYSC_CHICK	147	Rye peptide R23	20	100.0	100.0	2	11.1	0.73	"58 TQ 59
+   ::
+3  TQ 4"
+>LYSC_CHICK	147	Rye peptide R23	12	100.0	100.0	2	10.9	0.61	"58 TQ 59
+   ::
+3  TQ 4"
+>LYSC_CHICK	147	Rye peptide R27	20	50.0	75.0	4	11.7	0.59	"88 PGSR 91
+   : :.
+9  PQSQ 12"
+>LYSC_CHICK	147	Rye peptide R27	12	50.0	75.0	4	11.7	0.41	"88 PGSR 91
+   : :.
+1  PQSQ 4"
+>LYSC_CHICK	147	Rye peptide R17	20	66.7	100.0	3	13.0	0.3	"95 NIP 97
+   .::
+5  SIP 7"
+>LYSC_CHICK	147	Rye peptide R17	12	66.7	100.0	3	12.8	0.22	"95 NIP 97
+   .::
+2  SIP 4"
+>LYSC_CHICK	147	Rye peptide R02	20	66.7	100.0	3	13.1	0.29	"95 NIP 97
+   .::
+1  SIP 3"
+>LYSC_CHICK	147	Rye peptide R02	20	66.7	100.0	3	12.9	0.31	"95 NIP 97
+   .::
+1  SIP 3"
+>LYSC_CHICK	147	Rye peptide R02	16	50.0	75.0	4	13.3	0.21	"85 GRTP 88
+   :. :
+1  GQQP 4"
+>LYSC_CHICK	147	Rye peptide R02	13	66.7	66.7	3	11.6	0.45	"88 PGS 90
+   : :
+11 PQS 13"
+>LYSC_CHICK	147	Rye peptide R02	12	50.0	100.0	2	10.7	0.64	"12 LP 13
+   .:
+3  FP 4"
+>LYSC_CHICK	147	Rye peptide R02	12	50.0	75.0	4	11.2	0.53	"53 ESNF 56
+   :. :
+7  EQPF 10"
+>LYSC_CHICK	147	Rye peptide R07	20	100.0	100.0	2	12.1	0.49	"87 TP 88
+   ::
+18 TP 19"
+>LYSC_CHICK	147	Rye peptide R07	16	100.0	100.0	2	13.0	0.25	"88 PG 89
+   ::
+15 PG 16"
+>LYSC_CHICK	147	Rye peptide R07	12	50.0	50.0	4	11.0	0.59	"38 YRGY 41
+   :  :
+1  YSPY 4"
+>LYSC_CHICK	147	Rye peptide R07	12	50.0	50.0	4	11.2	0.52	"38 YRGY 41
+   :  :
+1  YSPY 4"
+>LYSC_CHICK	147	Rye peptide R03	16	50.0	75.0	4	13.1	0.23	"85 GRTP 88
+   :. :
+1  GQQP 4"
+>LYSC_CHICK	147	Rye peptide R03, R04	20	100.0	100.0	2	12.5	0.41	"87 TP 88
+   ::
+10 TP 11"
+>LYSC_CHICK	147	Rye peptide R03	12	100.0	100.0	2	12.3	0.3	"87 TP 88
+   ::
+10 TP 11"
+>LYSC_CHICK	147	Rye peptide R03	12	100.0	100.0	2	12.1	0.33	"87 TP 88
+   ::
+10 TP 11"
+>LYSC_CHICK	147	Rye peptide R04	16	42.9	57.1	7	12.0	0.44	"53 ESNFNTQ 59
+   :. :  :
+9  EQPFPQQ 15"
+>LYSC_CHICK	147	Rye peptide R04	12	100.0	100.0	2	11.9	0.37	"87 TP 88
+   ::
+2  TP 3"
+>LYSC_CHICK	147	Rye peptide R04	12	100.0	100.0	2	12.2	0.31	"87 TP 88
+   ::
+2  TP 3"
+>LYSC_CHICK	147	Rye peptide R01, R09	20	100.0	100.0	3	15.0	0.088	"12 LPL 14
+   :::
+3  LPL 5"
+>LYSC_CHICK	147	Rye peptide R09	12	100.0	100.0	3	14.4	0.078	"12 LPL 14
+   :::
+2  LPL 4"
+>LYSC_CHICK	147	Rye peptide R01	12	100.0	100.0	2	12.3	0.3	"96 IP 97
+   ::
+10 IP 11"
+>LYSC_CHICK	147	Sec-gamma1	14	28.6	71.4	7	12.1	0.38	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPQQ 11"
+>LYSC_CHICK	147	Sec-gamma1 in Deamidated form 	14	28.6	71.4	7	12.0	0.39	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPQQ 11"
+>LYSC_CHICK	147	Sec-gamma1 in Deamidated form 	14	42.9	71.4	7	14.1	0.11	"53 ESNFNTQ 59
+   :..:  :
+5  EQSFPQQ 11"
+>LYSC_CHICK	147	Sec-gamma1 in Deamidated form 	14	28.6	71.4	7	12.1	0.38	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	Sec-gamma1 in Deamidated form 	14	42.9	71.4	7	14.1	0.11	"53 ESNFNTQ 59
+   :..:  :
+5  EQSFPQQ 11"
+>LYSC_CHICK	147	Sec-gamma1 in Deamidated form 	14	28.6	71.4	7	12.1	0.38	"53 ESNFNTQ 59
+   ...:  :
+5  QQSFPEQ 11"
+>LYSC_CHICK	147	Sec-gamma1 in Deamidated form 	14	42.9	71.4	7	14.3	0.098	"53 ESNFNTQ 59
+   :..:  :
+5  EQSFPEQ 11"
+>LYSC_CHICK	147	Sec-gamma1 in Deamidated form 	14	42.9	71.4	7	14.5	0.087	"53 ESNFNTQ 59
+   :..:  :
+5  EQSFPEQ 11"
+>LYSC_CHICK	147	Rye peptide R20	20	40.0	100.0	5	12.3	0.44	"114 KKIVS 118
+    ..:.:
+1   EQIIS 5"
+>LYSC_CHICK	147	Rye peptide R20	12	66.7	100.0	3	12.3	0.29	"12 LPL 14
+   .::
+2  FPL 4"
+>LYSC_CHICK	147	Rye peptide R6	16	33.3	50.0	6	11.8	0.48	"13 PLAALG 18
+   :   .:
+11 PEQIIG 16"
+>LYSC_CHICK	147	Rye peptide R06, R11, R16	20	100.0	100.0	2	12.6	0.38	"96 IP 97
+   ::
+13 IP 14"
+>LYSC_CHICK	147	Rye peptide R6	12	50.0	50.0	4	10.9	0.59	"56 FNTQ 59
+   :  :
+5  FPQQ 8"
+>LYSC_CHICK	147	Rye peptide R6	12	50.0	50.0	4	11.1	0.55	"56 FNTQ 59
+   :  :
+5  FPEQ 8"
+>LYSC_CHICK	147	Rye peptide R11	16	100.0	100.0	2	12.4	0.34	"96 IP 97
+   ::
+12 IP 13"
+>LYSC_CHICK	147	Rye peptide R11	16	42.9	57.1	7	12.9	0.26	"53 ESNFNTQ 59
+   :. :  :
+1  EQPFPEQ 7"
+>LYSC_CHICK	147	Rye peptide R11	16	50.0	75.0	4	11.9	0.45	"18 GKVF 21
+   :. :
+1  GQPF 4"
+>LYSC_CHICK	147	Rye peptide R11	12	100.0	100.0	2	12.1	0.33	"96 IP 97
+   ::
+10 IP 11"
+>LYSC_CHICK	147	Rye peptide R16	12	100.0	100.0	2	12.4	0.27	"96 IP 97
+   ::
+5  IP 6"
+>LYSC_CHICK	147	Rye peptide R08	20	100.0	100.0	2	11.9	0.53	"96 IP 97
+   ::
+19 IP 20"
+>LYSC_CHICK	147	Rye peptide R08	13	50.0	50.0	4	10.6	0.72	"56 FNTQ 59
+   :  :
+6  FPQQ 9"
+>LYSC_CHICK	147	Rye peptide R15	20	66.7	100.0	3	12.7	0.35	"12 LPL 14
+   .::
+14 FPL 16"
+>LYSC_CHICK	147	Rye peptide R15	12	66.7	100.0	3	12.6	0.25	"12 LPL 14
+   .::
+10 FPL 12"
+>LYSC_CHICK	147	Rye peptide R14, R19	20	66.7	100.0	3	12.8	0.34	"12 LPL 14
+   .::
+7  FPL 9"
+>LYSC_CHICK	147	Rye peptide R14	16	66.7	100.0	3	12.6	0.31	"12 LPL 14
+   .::
+7  FPL 9"
+>LYSC_CHICK	147	Rye peptide R19	16	66.7	100.0	3	12.8	0.28	"12 LPL 14
+   .::
+3  FPL 5"
+>LYSC_CHICK	147	Rye peptide R18	20	66.7	100.0	3	11.5	0.65	"73 ILQ 75
+   .::
+5  LLQ 7"
+>LYSC_CHICK	147	Rye peptide R18	11	66.7	100.0	3	11.3	0.48	"73 ILQ 75
+   .::
+2  LLQ 4"
+>LYSC_CHICK	147	Rye peptide R24	20	66.7	100.0	3	12.6	0.38	"12 LPL 14
+   ::.
+7  LPF 9"
+>LYSC_CHICK	147	Rye peptide R24	20	66.7	100.0	3	12.6	0.38	"12 LPL 14
+   ::.
+7  LPF 9"
+>LYSC_CHICK	147	Rye peptide R24	12	66.7	100.0	3	12.5	0.26	"12 LPL 14
+   ::.
+1  LPF 3"
+>LYSC_CHICK	147	Rye peptide R24	12	66.7	100.0	3	12.6	0.24	"12 LPL 14
+   ::.
+1  LPF 3"
+>LYSC_CHICK	147	Av-alpha9B in native form	14	50.0	75.0	4	12.3	0.33	"38 YRGY 41
+   :. :
+2  YQPY 5"
+>LYSC_CHICK	147	Av-alpha9B in Deamidated form	14	50.0	75.0	4	12.5	0.3	"38 YRGY 41
+   :. :
+2  YQPY 5"
+>LYSC_CHICK	147	Homolog of oat aveninderived T cellstimulatory peptide in Deamidated form	15	100.0	100.0	3	13.4	0.19	"73 ILQ 75
+   :::
+12 ILQ 14"
+>LYSC_CHICK	147	Homolog of oat aveninderived T cellstimulatory peptide in native form	15	100.0	100.0	3	13.2	0.21	"73 ILQ 75
+   :::
+12 ILQ 14"
+>LYSC_CHICK	147	gliadin alpha avenin-9	9	50.0	100.0	2	10.2	0.67	"13 PL 14
+   :.
+8  PF 9"
+>LYSC_CHICK	147	gliadin alpha avenin-9	9	50.0	75.0	4	10.9	0.5	"53 ESNF 56
+   :. :
+6  EQPF 9"
+>LYSC_CHICK	147	T cell recognized Avenin epitope HPLC fraction 9	31	50.0	66.7	6	13.5	0.32	"66 DGSTDY 71
+   : : .:
+7  DPSEQY 12"
+>LYSC_CHICK	147	T cell recognized Avenin epitope HPLC fraction 4	22	50.0	66.7	6	13.3	0.28	"66 DGSTDY 71
+   : : .:
+7  DPSEQY 12"
+>LYSC_CHICK	147	T cell recognized Avenin epitope HPLC fraction 9	28	33.3	83.3	6	12.8	0.43	"36 DNYRGY 41
+   ..:. :
+10 EQYQPY 15"
+>LYSC_CHICK	147	T cell recognized Avenin epitope HPLC fraction 9	27	33.3	83.3	6	12.9	0.4	"36 DNYRGY 41
+   ..:. :
+9  EQYQPY 14"
+>LYSC_CHICK	147	T cell recognized Avenin epitope HPLC fraction 9	25	33.3	83.3	6	12.8	0.4	"36 DNYRGY 41
+   ..:. :
+7  EQYQPY 12"
+>LYSC_CHICK	147	T cell recognized Avenin epitope HPLC fraction 3	22	33.3	83.3	6	12.6	0.4	"36 DNYRGY 41
+   ..:. :
+10 EQYQPY 15"
+>LYSC_CHICK	147	T cell recognized Avenin epitope HPLC fraction 8	29	50.0	66.7	6	13.5	0.3	"66 DGSTDY 71
+   : : .:
+7  DPSEQY 12"
+>LYSC_CHICK	147	T cell recognized Avenin epitope HPLC fraction 8	30	33.3	83.3	6	12.8	0.45	"36 DNYRGY 41
+   ..:. :
+10 EQYQPY 15"
+>LYSC_CHICK	147	T cell recognized Avenin epitope HPLC fraction 9	29	33.3	83.3	6	13.6	0.29	"36 DNYRGY 41
+   ..:. :
+3  EQYQPY 8"
+>LYSC_CHICK	147	Avenin 1490 in native form	19	33.3	83.3	6	13.4	0.23	"36 DNYRGY 41
+   ..:. :
+2  EQYQPY 7"
+>LYSC_CHICK	147	Avenin 1490 in Deamidated form	19	33.3	83.3	6	13.5	0.21	"36 DNYRGY 41
+   ..:. :
+2  EQYQPY 7"
+>LYSC_CHICK	147	Av-alpha9A in native form	14	50.0	75.0	4	12.4	0.32	"38 YRGY 41
+   :. :
+2  YQPY 5"
+>LYSC_CHICK	147	Av-alpha9A in Deamidated form	14	50.0	75.0	4	12.5	0.29	"38 YRGY 41
+   :. :
+2  YQPY 5"
+>LYSC_CHICK	147	Avenin 1505	12	50.0	75.0	4	12.4	0.28	"38 YRGY 41
+   :. :
+1  YQPY 4"
+>LYSC_CHICK	147	Avenin 1504 (deamidated form of Avenin 1505)	12	50.0	75.0	4	12.4	0.28	"38 YRGY 41
+   :. :
+1  YQPY 4"
+>LYSC_CHICK	147	gliadin alpha avenin-9	9	50.0	100.0	2	10.3	0.66	"13 PL 14
+   :.
+8  PF 9"
+>LYSC_CHICK	147	gliadin alpha avenin-9	9	50.0	100.0	2	10.3	0.66	"13 PL 14
+   :.
+8  PF 9"
+>LYSC_CHICK	147	Av-gamma2B	14	22.2	55.6	9	11.8	0.44	"13 PLAALGKVF 21
+   :..   . :
+3  PFVQQQQPF 11"
+>LYSC_CHICK	147	Av-gamma2B in Deamidated form	14	42.9	57.1	7	12.7	0.26	"53 ESNFNTQ 59
+   :. :  :
+1  EQPFVQQ 7"
+>LYSC_CHICK	147	Av-gamma2B in Deamidated form	14	22.2	55.6	9	11.9	0.43	"13 PLAALGKVF 21
+   :..   . :
+3  PFVEQQQPF 11"
+>LYSC_CHICK	147	Av-gamma2B in Deamidated form	14	42.9	57.1	7	12.8	0.25	"53 ESNFNTQ 59
+   :. :  :
+1  EQPFVEQ 7"
+>LYSC_CHICK	147	Av-gamma2B in Deamidated form	14	22.2	55.6	9	11.3	0.57	"13 PLAALGKVF 21
+   :..   . :
+3  PFVQEQQPF 11"
+>LYSC_CHICK	147	Av-gamma2B in Deamidated form	14	22.2	55.6	9	11.2	0.6	"13 PLAALGKVF 21
+   :..   . :
+3  PFVQEQQPF 11"
+>LYSC_CHICK	147	Av-gamma2B in Deamidated form	14	22.2	55.6	9	11.3	0.56	"13 PLAALGKVF 21
+   :..   . :
+3  PFVEEQQPF 11"
+>LYSC_CHICK	147	Av-gamma2B in Deamidated form	14	22.2	55.6	9	11.3	0.55	"13 PLAALGKVF 21
+   :..   . :
+3  PFVEEQQPF 11"
+>LYSC_CHICK	147	Av-gamma2B in Deamidated form	14	42.9	57.1	7	12.8	0.25	"53 ESNFNTQ 59
+   :. :  :
+8  EQPFVQQ 14"
+>LYSC_CHICK	147	Av-gamma2B in Deamidated form	14	42.9	57.1	7	12.9	0.23	"53 ESNFNTQ 59
+   :. :  :
+1  EQPFVQQ 7"
+>LYSC_CHICK	147	Av-gamma2B in Deamidated form	14	42.9	57.1	7	12.9	0.23	"53 ESNFNTQ 59
+   :. :  :
+8  EQPFVQQ 14"
+>LYSC_CHICK	147	Av-gamma2B in Deamidated form	14	42.9	57.1	7	13.1	0.21	"53 ESNFNTQ 59
+   :. :  :
+1  EQPFVEQ 7"
+>LYSC_CHICK	147	Av-gamma2B in Deamidated form	14	42.9	57.1	7	12.8	0.25	"53 ESNFNTQ 59
+   :. :  :
+8  EQPFVQQ 14"
+>LYSC_CHICK	147	Av-gamma2B in Deamidated form	14	42.9	57.1	7	13.0	0.23	"53 ESNFNTQ 59
+   :. :  :
+8  EQPFVQQ 14"
+>LYSC_CHICK	147	Av-gamma2B in Deamidated form	14	42.9	57.1	7	12.8	0.24	"53 ESNFNTQ 59
+   :. :  :
+8  EQPFVQQ 14"
+>LYSC_CHICK	147	Av-gamma2B in Deamidated form	14	42.9	57.1	7	13.2	0.2	"53 ESNFNTQ 59
+   :. :  :
+8  EQPFVQQ 14"
+>LYSC_CHICK	147	Avenin core epitope in native form	9	100.0	100.0	2	10.8	0.53	"138 VQ 139
+    ::
+2   VQ 3"
+>LYSC_CHICK	147	Avenin core epitope in Deamidated form	9	50.0	75.0	4	10.8	0.52	"53 ESNF 56
+   :. :
+6  EQPF 9"
+>LYSC_CHICK	147	Glu-21 minimal epitope  in considered native form	12	66.7	66.7	3	13.0	0.2	"11 FLP 13
+   : :
+9  FQP 11"
+>LYSC_CHICK	147	gamma gliadin	9	100.0	100.0	1	9.8	0.77	"13 P 13
+   :
+3  P 3"
+>LYSC_CHICK	147	gamma gliadin	9	100.0	100.0	1	9.8	0.76	"13 P 13
+   :
+3  P 3"
+>LYSC_CHICK	147	gamma gliadin	9	100.0	100.0	1	9.9	0.75	"13 P 13
+   :
+3  P 3"
+>LYSC_CHICK	147	CAUTION, 100% match to Candida protein / gamma gliadin	9	100.0	100.0	1	9.9	0.75	"13 P 13
+   :
+3  P 3"
+>LYSC_CHICK	147	gamma 5 gliadin	9	50.0	100.0	4	11.8	0.31	"53 ESNF 56
+   :..:
+4  EQQF 7"
+>LYSC_CHICK	147	gamma 5 gliadin	9	50.0	100.0	2	10.1	0.69	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	gammaVII-gliadin	9	50.0	100.0	2	10.3	0.66	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	gammaVII-gliadin	9	50.0	75.0	4	11.0	0.48	"53 ESNF 56
+   :. :
+4  EQPF 7"
+>LYSC_CHICK	147	gammaVII-gliadin	9	50.0	75.0	4	11.2	0.43	"53 ESNF 56
+   :. :
+4  EQPF 7"
+>LYSC_CHICK	147	gamma gliadin	9	50.0	100.0	2	11.0	0.49	"24 CE 25
+   :.
+8  CQ 9"
+>LYSC_CHICK	147	gamma gliadin	9	50.0	100.0	2	10.9	0.49	"24 CE 25
+   :.
+8  CQ 9"
+>LYSC_CHICK	147	gamma gliadin	9	100.0	100.0	2	12.5	0.21	"24 CE 25
+   ::
+8  CE 9"
+>LYSC_CHICK	147	gamma gliadin	9	100.0	100.0	2	12.5	0.2	"24 CE 25
+   ::
+8  CE 9"
+>LYSC_CHICK	147	gliadin omega 1	9	66.7	66.7	3	11.2	0.43	"97 PCS 99
+   : :
+6  PFS 8"
+>LYSC_CHICK	147	gliadin omega 1	9	40.0	80.0	5	11.2	0.42	"53 ESNFN 57
+   :. :.
+4  EQPFS 8"
+>LYSC_CHICK	147	gliadin omega 3	9	50.0	100.0	2	10.6	0.58	"13 PL 14
+   :.
+8  PI 9"
+>LYSC_CHICK	147	gliadin omega 3	9	50.0	100.0	2	10.5	0.59	"13 PL 14
+   :.
+8  PI 9"
+>LYSC_CHICK	147	CAUTION 100% match to 2 Prunus sp. peptides / gliadin omega 4 	9	100.0	100.0	2	12.2	0.24	"96 IP 97
+   ::
+7  IP 8"
+>LYSC_CHICK	147	gliadin omega 4	9	100.0	100.0	2	12.4	0.22	"96 IP 97
+   ::
+7  IP 8"
+>LYSC_CHICK	147	gliadin omega 5	9	100.0	100.0	2	10.4	0.62	"74 LQ 75
+   ::
+1  LQ 2"
+>LYSC_CHICK	147	gliadin omega 5	9	50.0	75.0	4	10.7	0.56	"53 ESNF 56
+   :. :
+4  EQPF 7"
+>LYSC_CHICK	147	avenin-gliadin like	14	22.2	44.4	9	10.9	0.66	"13 PLAALGKVF 21
+   :.    . :
+3  PFMQQQQPF 11"
+>LYSC_CHICK	147	avenin-gliadin like	14	100.0	100.0	2	11.2	0.57	"138 VQ 139
+    ::
+5   VQ 6"
+>LYSC_CHICK	147	gamma gliadin 1	9	42.9	71.4	7	14.7	0.048	"53 ESNFNTQ 59
+   :..:  :
+2  EQSFPQQ 8"
+>LYSC_CHICK	147	gamma gliadin	9	42.9	71.4	7	14.7	0.05	"53 ESNFNTQ 59
+   :..:  :
+2  EQSFPQQ 8"
+>LYSC_CHICK	147	Avenin gliadin like	16	100.0	100.0	3	13.3	0.21	"73 ILQ 75
+   :::
+12 ILQ 14"
+>LYSC_CHICK	147	avenin-gliadin like	16	100.0	100.0	3	13.4	0.2	"73 ILQ 75
+   :::
+12 ILQ 14"
+>LYSC_CHICK	147	avenin-gliadin like	16	100.0	100.0	2	12.1	0.41	"13 PL 14
+   ::
+15 PL 16"
+>LYSC_CHICK	147	avenin-gliadin like	16	33.3	83.3	6	13.1	0.24	"36 DNYRGY 41
+   ..:. :
+1  EQYQPY 6"
+>LYSC_CHICK	147	DQ2.5-glia-ala	9	100.0	100.0	2	12.0	0.27	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	DQ2.5-glia-a1b	9	100.0	100.0	2	12.2	0.24	"12 LP 13
+   ::
+7  LP 8"
+>LYSC_CHICK	147	DQ2.5-glia-a2	9	100.0	100.0	2	12.1	0.26	"12 LP 13
+   ::
+5  LP 6"
+>LYSC_CHICK	147	DQ2.5-glia-a3	9	66.7	66.7	3	11.8	0.31	"11 FLP 13
+   : :
+1  FRP 3"
+>LYSC_CHICK	147	DQ2.5-glia-y1	9	28.6	71.4	7	12.4	0.22	"53 ESNFNTQ 59
+   ...:  :
+2  QQSFPEQ 8"
+>LYSC_CHICK	147	DQ2.5-glia-y2	9	50.0	100.0	2	9.2	0.9	"138 VQ 139
+    .:
+1   IQ 2"
+>LYSC_CHICK	147	DQ2.5-glia-y3	9	100.0	100.0	1	9.7	0.8	"13 P 13
+   :
+3  P 3"
+>LYSC_CHICK	147	DQ2.5-glia-y4a	9	50.0	100.0	4	12.0	0.28	"53 ESNF 56
+   :..:
+4  EQEF 7"
+>LYSC_CHICK	147	DQ2.5-glia-y4b	9	50.0	100.0	4	12.2	0.25	"53 ESNF 56
+   :..:
+4  EQEF 7"
+>LYSC_CHICK	147	DQ2.5-glia-y4c	9	50.0	75.0	4	10.9	0.5	"53 ESNF 56
+   :. :
+4  EQPF 7"
+>LYSC_CHICK	147	DQ2.5-glia-y4d	9	50.0	100.0	2	10.9	0.5	"24 CE 25
+   :.
+8  CQ 9"
+>LYSC_CHICK	147	DQ2.5-glia-y4e	9	50.0	75.0	4	10.7	0.55	"53 ESNF 56
+   :. :
+4  EQPF 7"
+>LYSC_CHICK	147	DQ2.5-glia-y5	9	50.0	50.0	4	10.9	0.49	"56 FNTQ 59
+   :  :
+4  FPEQ 7"
+>LYSC_CHICK	147	DQ2.5-glia-w1	9	50.0	75.0	4	10.8	0.53	"53 ESNF 56
+   :. :
+6  EQPF 9"
+>LYSC_CHICK	147	DQ2.5-glia-w2	9	50.0	75.0	4	11.0	0.48	"53 ESNF 56
+   :. :
+4  EQPF 7"
+>LYSC_CHICK	147	DQ2.5-glut-L1	9	50.0	75.0	4	12.4	0.22	"56 FNTQ 59
+   :. :
+2  FSEQ 5"
+>LYSC_CHICK	147	DQ2.5-glut-L2	9	75.0	75.0	4	13.5	0.11	"53 ESNF 56
+   :: :
+6  ESPF 9"
+>LYSC_CHICK	147	DQ2.5-hor-1	9	50.0	75.0	4	10.8	0.52	"53 ESNF 56
+   :. :
+6  EQPF 9"
+>LYSC_CHICK	147	DQ2.5-hor-2	9	50.0	75.0	4	11.0	0.48	"53 ESNF 56
+   :. :
+4  EQPF 7"
+>LYSC_CHICK	147	DQ2.5-hor-3a	9	100.0	100.0	2	12.4	0.22	"96 IP 97
+   ::
+2  IP 3"
+>LYSC_CHICK	147	DQ2.5-hor-3b	9	100.0	100.0	1	9.9	0.75	"13 P 13
+   :
+1  P 1"
+>LYSC_CHICK	147	DQ2.5-sec-1	9	50.0	75.0	4	10.9	0.51	"53 ESNF 56
+   :. :
+6  EQPF 9"
+>LYSC_CHICK	147	DQ2.5-sec-2	9	50.0	75.0	4	11.0	0.48	"53 ESNF 56
+   :. :
+4  EQPF 7"
+>LYSC_CHICK	147	DQ2.5-sec-3	9	50.0	50.0	4	10.9	0.5	"56 FNTQ 59
+   :  :
+2  FPEQ 5"
+>LYSC_CHICK	147	DQ2.5-ave-1a	9	50.0	100.0	2	10.4	0.62	"13 PL 14
+   :.
+8  PF 9"
+>LYSC_CHICK	147	DQ2.5-ave-1b	9	50.0	75.0	4	10.8	0.52	"53 ESNF 56
+   :. :
+6  EQPF 9"
+>LYSC_CHICK	147	DQ2.5-ave-1c	9	50.0	100.0	2	10.7	0.56	"13 PL 14
+   :.
+8  PI 9"
+>LYSC_CHICK	147	DQ2.2-glut-L1	9	50.0	75.0	4	12.4	0.22	"56 FNTQ 59
+   :. :
+2  FSEQ 5"
+>LYSC_CHICK	147	DQ2.2-glia-a1	9	50.0	100.0	4	12.7	0.18	"56 FNTQ 59
+   :..:
+2  FSVQ 5"
+>LYSC_CHICK	147	DQ2.2-glia-a2	9	100.0	100.0	2	11.0	0.48	"41 YS 42
+   ::
+2  YS 3"
+>LYSC_CHICK	147	DQ8-glia-a1	9	66.7	66.7	3	12.0	0.27	"11 FLP 13
+   : :
+4  FQP 6"
+>LYSC_CHICK	147	DQ8-glia-y1a	9	50.0	100.0	2	10.3	0.66	"12 LP 13
+   .:
+7  FP 8"
+>LYSC_CHICK	147	DQ8-glia-y1b	9	100.0	100.0	1	9.9	0.76	"13 P 13
+   :
+3  P 3"
+>LYSC_CHICK	147	DQ8-glia-y2	9	28.6	71.4	7	12.3	0.23	"53 ESNFNTQ 59
+   ...:  :
+2  QQSFPEQ 8"
+>LYSC_CHICK	147	DQ8-glut-H1	9	50.0	50.0	6	12.9	0.16	"85 GRTPGS 90
+   :  : :
+2  GYYPTS 7"
+>LYSC_CHICK	147	DQ8.5-glia-a1	9	66.7	66.7	3	12.2	0.25	"11 FLP 13
+   : :
+4  FQP 6"
+>LYSC_CHICK	147	DQ8.5-glia-y1	9	28.6	71.4	7	12.5	0.21	"53 ESNFNTQ 59
+   ...:  :
+2  QQSFPEQ 8"
+>LYSC_CHICK	147	DQ8.5-glut-H1	9	50.0	50.0	6	13.1	0.14	"85 GRTPGS 90
+   :  : :
+2  GYYPTS 7"

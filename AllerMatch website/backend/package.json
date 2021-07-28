@@ -1,7 +1,7 @@
 {
   "name": "allermatch",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "App.js",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cookie-parser": "^1.4.5",
@@ -15,7 +15,8 @@
     "nodemon": "^2.0.7",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
-    "passport-local": "^1.0.0"
+    "passport-local": "^1.0.0",
+    "python-shell": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {

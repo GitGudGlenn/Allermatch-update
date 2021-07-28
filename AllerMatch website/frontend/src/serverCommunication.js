@@ -3,6 +3,19 @@ const serverHostname = `${window.location.hostname}:${port}`;
 const serverFetchBase = `${window.location.protocol}//${serverHostname}`;
 
 
+export async function callPythonFunc() {
+  const fetchOptions = {
+    method: "PUT",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    credentials: "include",
+    mode: "cors",
+  };
+
+  return fetch(serverFetchBase + `/user/search`, fetchOptions);
+}
+
 export async function getAllUsers() {
   const fetchOptions = {
     method: "GET",

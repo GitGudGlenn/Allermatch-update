@@ -1,0 +1,15 @@
+The epitope database is constructed by the combination of three different sources. Epitopes from Sollid and coauthors (https://pubmed.ncbi.nlm.nih.gov/31735991/), ProPepper (https://www.propepper.net/epitope) and AllergenOnline (http://www.allergenonline.org/celiacbrowse.shtml) were combined and duplicates were removed. ENTERLast database update: %s
+
+For homology search Allermatch uses FASTA(v36.3.8h) with default the parameters(matrix = BLOSUM50(15:-5), open = -10, extend = -2, ktup = 2)
+
+Each of the ORF sequences has been compared with the epitope database using three different in-sillico similarity search methods:
+    - A partial epitope match, where each epitope from the epitope database is compared to each ORF and 
+      the top hits are retained. All the hits are sorted on E-value and the top 100 with the lowest 
+      E-value are shown.
+      ENTER
+    - An identical epitope match, where each epitope from the epitope database is compared to each ORF
+      and only 100% hits are retained.
+      ENTER
+    - A Q/E-X1-P-X2 motif search, where each of the possible 50 motif combinations is matched to each
+      ORF. Additional a motif occurence is calculated, which indicates how many times a certain motif
+      is present in the epitope database.
