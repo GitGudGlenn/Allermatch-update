@@ -35,6 +35,7 @@ export default class App extends React.Component {
       users: [],
       logged_in: "",
       accountStatus: "",
+      subscription: "",
     };
   }
 
@@ -51,6 +52,7 @@ export default class App extends React.Component {
           this.handleFirstnameState(response.user.firstname);
           this.handleLastnameState(response.user.lastname);
           this.handleAccountStatusState(response.user.accountStatus);
+          this.handleSubscriptionState(response.user.subscription)
           this.handleLoginState(true);
         }
       })
@@ -60,6 +62,12 @@ export default class App extends React.Component {
   handleLoginState(value) {
     this.setState(() => ({
       logged_in: value,
+    }));
+  }
+
+  handleSubscriptionState(value) {
+    this.setState(() => ({
+      subscription: value,
     }));
   }
 
@@ -255,7 +263,7 @@ export default class App extends React.Component {
                 )}
               </Route>
               <Route path="/search">
-                {this.state.logged_in ? <Search /> : <Home />}
+                {this.state.logged_in ? <Search appState={this.state} /> : <Home />}
               </Route>
               <Route path="/about">
                 {this.state.logged_in ? <About /> : <Home />}

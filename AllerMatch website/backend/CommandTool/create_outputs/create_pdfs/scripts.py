@@ -4,8 +4,8 @@ def check_output_folder(input_file, timestr):
     """
     Checks if the output folder exists, otherwise creates it
     """
-    if not os.path.exists('output/'+input_file+'_'+timestr):
-        os.makedirs('output/'+input_file+'_'+timestr)
+    if not os.path.exists('output/'+input_file):
+        os.makedirs('output/'+input_file)
 
 def make_same_height(text, nlines, multiplier):
 

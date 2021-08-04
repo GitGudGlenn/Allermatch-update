@@ -6,6 +6,7 @@ const JWT = require("jsonwebtoken");
 const ObjectID = require("mongodb").ObjectID;
 const User = require("../models/User");
 const { PythonShell } = require("python-shell");
+const fs = require('fs')
 
 const signToken = (userID) => {
   return JWT.sign(
@@ -15,7 +16,7 @@ const signToken = (userID) => {
     },
     "LaterLezen",
     {
-      expiresIn: "1h",
+      expiresIn: "10h",
     }
   );
 };
@@ -143,7 +144,7 @@ router.get(
     session: false,
   }),
   (req, res) => {
-    const { firstname, lastname, email, accountStatus } = req.user;
+    const { firstname, lastname, email, accountStatus, subscription } = req.user;
     res.status(200).json({
       isAuthenticated: true,
       user: {
@@ -151,6 +152,7 @@ router.get(
         firstname,
         lastname,
         accountStatus,
+        subscription,
       },
     });
   }
@@ -161,23 +163,100 @@ router.put(
   "/search",
   passport.authenticate("jwt", {
     session: false,
-  }),
-  (req, res) => {
-    let options = {
-      mode: 'text',
-      scriptPath: "/home/glenn/Desktop/allermatch-website-revamp/AllerMatch-website/backend/CommandTool",
-      pythonOptions: ['-u'], // get print results in real-time
-      args: ['-i /home/glenn/Desktop/allermatch-website-revamp/AllerMatch-website/backend/CommandTool/allergens/data/db/AllermatchDB_2019/test.fasta'], //An argument which can be accessed in the script using sys.argv[1]
-    };
+  }), (req, res) => {
 
-    PythonShell.run("app.py", options, function (err, result) {
-      if (err) throw err;
-      // result is an array consisting of messages collected
-      //during execution of script.
-    });
+    // input form to this using "-t" + req.someObject.tableInput
+    console.log(req.body);
+    let { sequences, orf, length, word, cutoff, database, table, propeptide } = req.body
+    argsList = []
+    inputString = sequences
 
-    console.log("response");
-    res.status(201);
+    if (orf === "true") {
+      orf = "-o"
+    }
+
+    if (length === "8") {
+      length = ""
+    } else {
+      length = "-l " + length
+    }
+    if (word === "6") {
+      word = ""
+    } else {
+      word = "-w " + word
+    }
+    if (cutoff === "35") {
+      cutoff = ""
+    } else {
+      cutoff = "-c " + cutoff
+    }
+    if (database === "0") {
+      database = ""
+    } else {
+      database = "-d " + database
+    }
+
+    if (table == "1") {
+      table = ""
+    } else {
+      table = "-t " + table
+    }
+
+    if (propeptide === "true") {
+      propeptide = "-p"
+    }
+
+    if (!inputString) {
+      console.log("Error, no input specified");
+    } else {
+      console.log(inputString);
+      let filename = "./input/" + req.user.firstname + req.user.lastname + req.user.searchCounter + ".fasta"
+      let pythonFileName = "-i ../input/" + req.user.firstname + req.user.lastname + req.user.searchCounter + ".fasta"
+      fs.writeFile(filename, inputString, function (err) {
+        if (err) throw err;
+        console.log("saved");
+      })
+      if (table) { argsList.push(table) }
+      if (orf === "-o") { argsList.push(orf) }
+      if (length) { argsList.push(length) }
+      if (word) { argsList.push(word) }
+      if (cutoff) { argsList.push(cutoff) }
+      if (propeptide === "-p") { argsList.push(propeptide) }
+      if (database) { argsList.push(database) }
+      let options = {
+        mode: 'text',
+        scriptPath: "./CommandTool", //replace to relative path
+        pythonOptions: ['-u'],
+        args: [pythonFileName, ...argsList],
+      };
+
+
+      PythonShell.run("app.py", options, function (err, result) {
+        if (err) {
+          console.log("error");
+          console.log(err);
+          res.status(404)
+        } else {
+          let filePath = "./output/" + req.user.firstname + req.user.lastname + req.user.searchCounter + "/Total_report.pdf"
+
+          const src = fs.createReadStream(filePath);
+          res.writeHead(200, {
+            'Content-Type': 'application/pdf',
+            'Content-Disposition': 'attachment; filename=sample.pdf',
+            'Content-Transfer-Encoding': 'Binary'
+          });
+
+          src.pipe(res);
+
+
+          req.user.searchCounter++
+          req.user.save()
+        }
+
+      });
+    }
+
+
   }
 );
 

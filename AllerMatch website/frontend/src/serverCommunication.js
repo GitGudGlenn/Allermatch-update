@@ -1,26 +1,34 @@
 const port = 4000;
 const serverHostname = `${window.location.hostname}:${port}`;
 const serverFetchBase = `${window.location.protocol}//${serverHostname}`;
+const axios = require('axios').default;
 
 
-export async function callPythonFunc() {
-  const fetchOptions = {
-    method: "PUT",
-    headers: {
-      "Content-Type": "application/json",
+export async function callPythonFunc(sequences, orf, length, word, cutoff, database, table, propeptide) {
+  const options = {
+    url: serverFetchBase+`/user/search`,
+    method: 'PUT',
+    data: {
+      sequences, orf, length, word, cutoff, database, table, propeptide
     },
-    credentials: "include",
-    mode: "cors",
+    withCredentials: true,
+    responseType: 'blob',
+    headers: {
+      'Accept': 'application/json',
+      'Content-Type': 'application/json;charset=UTF-8'
+    }
   };
-
-  return fetch(serverFetchBase + `/user/search`, fetchOptions);
+  
+  return axios(options)
 }
 
 export async function getAllUsers() {
   const fetchOptions = {
     method: "GET",
+    responseType: 'arraybuffer',
     headers: {
-      "Content-Type": "application/json",
+      "Content-Type": "application/pdf",
+      Accept: 'application/pdf'
     },
     credentials: "include",
     mode: "cors",
@@ -130,36 +138,4 @@ export async function checkAuthenticated() {
     serverFetchBase + `/user/authenticated`,
     fetchOptions
   ).then((response) => response.json());
-}
-
-export async function searchArticleByID(id) {
-  const fetchOptions = {
-    method: "GET",
-    headers: {
-      "Content-Type": "application/json",
-    },
-    credentials: "include",
-    mode: "cors",
-  };
-  return fetch(
-    serverFetchBase + `/user/article/${id}`,
-    fetchOptions
-  ).then((response) => response.json());
-}
-
-export async function deleteArticleByID(id) {
-  const body = {
-    article_id: id,
-  };
-
-  const fetchOptions = {
-    method: "DELETE",
-    headers: {
-      "Content-Type": "application/json",
-    },
-    credentials: "include",
-    mode: "cors",
-    body: JSON.stringify(body),
-  };
-  return fetch(serverFetchBase + `/user/article/`, fetchOptions);
 }

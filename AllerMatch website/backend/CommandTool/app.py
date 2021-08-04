@@ -29,7 +29,11 @@ GLSEARCH36_EXECUTABLE = LOC+"/fasta-36.3.8h/bin/glsearch36"
 @click.option('--propeptides', '-p', help="Search in the original sequences(not with the signal- and propeptides removed)", is_flag=True, default=False, show_default=True, required=False)
 @click.option('--celiac_database', '-d', help="Which celiac database to use", type=int, default=0, show_default=True, required=False)
 def main(input_file, table, length, orf, word, window_cutoff, propeptides, celiac_database):
-    input_file = "/"+input_file.split(' /')[1]
+    file_dir = os.path.dirname(__file__)
+    filename = os.path.join(file_dir, input_file.split(' ')[1])
+    filename = os.path.abspath(os.path.realpath(filename))
+    input_file = filename
+
     file_name = input_file.split('/')[-1].split('.')[0]
     file_input_type = input_type.get_input_fasta_type(input_file)
     timestr = time.strftime("%Y%m%d-%H%M%S")

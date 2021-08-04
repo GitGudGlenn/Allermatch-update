@@ -32,6 +32,10 @@ const UserSchema = new mongoose.Schema({
     type: Boolean,
     default: false,
   },
+  searchCounter: {
+    type: Number,
+    default: 0
+  },
   resetToken: {
     type: String,
     default: "1",

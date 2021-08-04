@@ -27,7 +27,7 @@ def create_all_pdf(orf_list, sorted_list, results_window, alignments_window, res
     pdf.add_page()
     
     create_tables.create_top_toxins(pdf, toxin_results, options)
-    pdf.output("output/"+options["file_name"]+"_"+options["timestr"]+'_'+options["search_type"]+"/Total_report.pdf")
+    pdf.output("output/"+options["file_name"]+"/Total_report.pdf")
 
 
 def create_allergen_pdf(orf_list, sorted_list, results_window, alignments_window, results_word, alignments_word, options):
@@ -44,7 +44,7 @@ def create_allergen_pdf(orf_list, sorted_list, results_window, alignments_window
     pdf.add_page()
 
     create_tables.create_allergen_hits(pdf, orf_list, results_window, alignments_window, results_word, alignments_word)
-    pdf.output("output/"+options["file_name"]+"_"+options["timestr"]+'_'+options["search_type"]+"/Allergen_report.pdf")
+    pdf.output("output/"+options["file_name"]+"/Allergen_report.pdf")
 
 def create_celiac_pdf(orf_list, results_identical, alignments_identical, results_partial, results_motif, total_hits, options):
     pdf = CustomPDF.CustomPDF(options["file_name"])
@@ -60,7 +60,7 @@ def create_celiac_pdf(orf_list, results_identical, alignments_identical, results
     pdf.add_page()
 
     create_tables.create_celiac_hits(pdf, results_identical, alignments_identical, results_motif, total_hits)
-    pdf.output("output/"+options["file_name"]+"_"+options["timestr"]+'_'+options["search_type"]+"/Celiac_report.pdf")
+    pdf.output("output/"+options["file_name"]+"/Celiac_report.pdf")
 
 
 def create_toxin_pdf(orf_list, toxin_results, options):
@@ -74,4 +74,4 @@ def create_toxin_pdf(orf_list, toxin_results, options):
         pdf.add_page()
     
     create_tables.create_top_toxins(pdf, toxin_results, options)
-    pdf.output("output/"+options["file_name"]+"_"+options["timestr"]+'_'+options["search_type"]+"/Toxin_report.pdf")
+    pdf.output("output/"+options["file_name"]+"/Toxin_report.pdf")
